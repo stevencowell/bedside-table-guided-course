@@ -81,7 +81,7 @@ button { cursor: pointer; }
 .landing-hero {
   background-image:
     linear-gradient(90deg, rgba(8, 31, 47, .94) 0%, rgba(8, 31, 47, .82) 38%, rgba(8, 31, 47, .34) 68%, rgba(8, 31, 47, .16) 100%),
-    url("../assets/folding-chair-hero-v1.png");
+    url("../assets/bedside-table-hero.png");
   background-position: center;
   background-size: cover;
 }
@@ -239,6 +239,9 @@ input[type="text"]:focus, textarea:focus { outline: 3px solid rgba(11,95,173,.18
 .plan-figure { margin: 0; border: 1px solid var(--line); border-radius: 12px; padding: 12px; background: #f8fafc; }
 .plan-figure img { display: block; border-radius: 8px; width: 100%; }
 .plan-figure figcaption { color: var(--muted); font-size: .86rem; margin-top: 8px; text-align: center; }
+.lesson-support-visual { margin: 22px 0 18px; border: 1px solid var(--line); border-radius: 12px; overflow: hidden; background: #f8fafc; box-shadow: 0 8px 18px rgba(12, 59, 99, .08); }
+.lesson-support-visual img { display: block; width: min(100%, 620px); margin: 0 auto; }
+.lesson-support-visual figcaption { padding: 10px 14px; color: var(--muted); font-size: .9rem; text-align: center; }
 .process-steps { list-style: none; padding: 0; margin: 16px 0 0; display: grid; gap: 9px; }
 .process-steps li { display: grid; grid-template-columns: 38px 1fr; gap: 12px; align-items: start; padding: 12px; border: 1px solid var(--line); border-radius: 10px; }
 .process-steps li > span { width: 32px; height: 32px; display: grid; place-items: center; border-radius: 50%; background: var(--brand-light); color: var(--brand-dark); font-weight: 900; }
@@ -430,7 +433,7 @@ footer p { margin: 3px; }
   .landing-hero {
     background-image:
       linear-gradient(90deg, rgba(8, 31, 47, .94) 0%, rgba(8, 31, 47, .8) 62%, rgba(8, 31, 47, .44) 100%),
-      url("../assets/folding-chair-hero-v1.png");
+      url("../assets/bedside-table-hero.png");
     background-position: 62% center;
   }
   .landing-hero .hero-inner { grid-template-columns: 1fr; min-height: 360px; }
