@@ -4,7 +4,7 @@
   const config = window.LESSON_CONFIG || {};
   const mcQuestions = window.MC_QUESTIONS || [];
   const writtenQuestions = window.WRITTEN_QUESTIONS || [];
-  const STORAGE_KEY = config.storageKey || 'folding-chair-guided-lesson';
+  const STORAGE_KEY = config.storageKey || 'bedside-table-guided-lesson';
 
   const defaultState = {
     studentName: '',
@@ -176,7 +176,7 @@
     pdf += `xref\n0 ${objects.length}\n0000000000 65535 f \n`;
     for (let i = 1; i < objects.length; i += 1) pdf += `${String(offsets[i]).padStart(10, '0')} 00000 n \n`;
     pdf += `trailer\n<< /Size ${objects.length} /Root 1 0 R >>\nstartxref\n${xref}\n%%EOF`;
-    const fileName = `${(state.studentName || 'student').replace(/[^a-z0-9]+/gi, '-').replace(/^-|-$/g, '')}-${(config.title || 'folding-chair').replace(/[^a-z0-9]+/gi, '-').replace(/^-|-$/g, '')}.pdf`;
+    const fileName = `${(state.studentName || 'student').replace(/[^a-z0-9]+/gi, '-').replace(/^-|-$/g, '')}-${(config.title || 'bedside-table').replace(/[^a-z0-9]+/gi, '-').replace(/^-|-$/g, '')}.pdf`;
     const link = document.createElement('a');
     link.href = URL.createObjectURL(new Blob([pdf], { type: 'application/pdf' }));
     link.download = fileName;

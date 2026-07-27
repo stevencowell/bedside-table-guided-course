@@ -1,5 +1,6 @@
-SOURCE AND ASSET NOTES
+SOURCE NOTES
 
-The course was built from the user-supplied Folding Chair Project Plans and the earlier Folding Chair guided modules. Selected tool, PPE, material and workshop images were reused from the user-supplied Construction Supplementary Material website. Additional instructional diagrams were constructed in HTML and CSS specifically for this course.
-
-The included SDS example is supplied for learning how to locate chemical-safety information. Current workplace and school procedures, the product label and the current manufacturer SDS take priority in real use.
+- Bedside-table construction content is based on the supplied Bedside Table Project Plan and the theory already present in the supplied bedside-table course.
+- The Folding Chair Guided Course was used only as the presentation, interaction and quality benchmark. Its files were not modified.
+- Project photographs and diagrams are local assets supplied with the course or crops rendered from the supplied bedside-table plan.
+- Written dimensions, hardware, finish products, drying times and workshop procedures must be taken from the supplied plan, product information and teacher direction.

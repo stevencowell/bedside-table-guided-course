@@ -1,172 +1,475 @@
-window.LESSON_CONFIG={"storageKey":"bedside-table-weeks7-8-guided-v1","resetLabel":"Weeks 7-8"};
-window.MC_QUESTIONS=[
+window.LESSON_CONFIG = {
+  "storageKey": "bedside-table-weeks7-8-guided-v1",
+  "resetLabel": "Weeks 7–8",
+  "title": "Bedside Table – Weeks 7–8"
+};
+window.MC_QUESTIONS = [
   {
-    "question": "What is the best way to begin frame dry fit, adhesives and clamping?",
+    "question": "Why should a complete dry fit occur before adhesive is opened?",
     "options": [
-      "Rely on memory and start immediately",
-      "Read the relevant plans, checks and procedure before starting",
-      "Copy another student without checking the project",
-      "Skip the quality check to save time"
+      "To confirm fit, sequence, clamp access and measurements while correction is still easy",
+      "To make the adhesive dry faster",
+      "To remove the need for labels",
+      "To avoid checking squareness"
     ],
-    "correct": 1,
-    "hint": "Start from reliable project information and the required process.",
-    "strongHint": "A careful start prevents errors that are difficult to repair later.",
+    "correct": 0,
+    "hint": "Adhesive creates time pressure and can make parts harder to separate.",
+    "strongHint": "The rehearsal should prove the assembly can be completed before the clock starts.",
     "feedback": [
-      "Memory can miss a project-specific requirement.",
-      "Correct: begin with reliable information, the planned sequence and the relevant checks.",
-      "Another student's work is not a substitute for understanding the requirement.",
-      "Skipping checks usually creates rework, not saved time."
+      "Dry fitting verifies the method and exposes faults before the glue-up becomes time-critical.",
+      "Dry fitting does not change the chemical drying speed.",
+      "Labels remain important during a complex assembly.",
+      "Squareness is a major reason for the dry fit."
     ]
   },
   {
-    "question": "Which result best demonstrates that the frame is square, flush and free of visible glue marks?",
+    "question": "What is the open time of an adhesive?",
     "options": [
-      "The work was rushed to finish early",
-      "The result can be checked against the drawing, brief or test",
-      "The timber was chosen only because it was closest",
-      "No evidence was recorded"
+      "The period after application in which the joint should be assembled and closed",
+      "The time the workshop door remains open",
+      "The final service life of the table",
+      "The time required to sharpen a chisel"
     ],
-    "correct": 1,
-    "hint": "Quality needs evidence that can be checked.",
-    "strongHint": "Ask which answer gives a reliable comparison with the intended result.",
+    "correct": 0,
+    "hint": "It is the working window before the adhesive film becomes unsuitable for normal assembly.",
+    "strongHint": "This is why clamps and components are prepared before application.",
     "feedback": [
-      "Speed alone does not prove quality.",
-      "Correct: evidence and comparison make quality visible and defensible.",
-      "Convenience does not prove suitability.",
-      "Without evidence, it is difficult to show what was achieved."
+      "Open time is the available working period for assembly after adhesive is applied.",
+      "Workshop ventilation may matter, but it is not the definition.",
+      "Service life is much longer and depends on many factors.",
+      "Tool maintenance time is unrelated."
     ]
   },
   {
-    "question": "Which safety approach is most appropriate while you plan the glue-up and keep clamps stable and clear of walkways?",
+    "question": "Why is adhesive not a substitute for a loose mortise-and-tenon fit?",
     "options": [
-      "Wait until something goes wrong before checking controls",
-      "Plan the task, follow the SOP and use the required controls",
-      "Use a machine without checking the setup",
-      "Assume PPE replaces every other control"
+      "A strong bond still depends on sound geometry, close contact and suitable grain surfaces",
+      "Adhesive only works on metal",
+      "A loose joint is acceptable if the shoulders look closed",
+      "More adhesive automatically removes the gap"
     ],
-    "correct": 1,
-    "hint": "Safety is planned before work starts.",
-    "strongHint": "PPE is important, but it is not the only control.",
+    "correct": 0,
+    "hint": "Adhesive transfers load through the bonded surfaces; a large gap reduces support and contact.",
+    "strongHint": "The joint should locate itself mechanically before glue is applied.",
     "feedback": [
-      "Controls are most effective when planned before exposure to the hazard.",
-      "Correct: use the planned procedure, correct setup and required controls.",
-      "Unsafe setup can create risk before the cut or operation starts.",
-      "PPE supports controls; it does not replace planning, guards or secure work."
+      "Correct fit and contact are essential to the joint’s alignment and bond performance.",
+      "Woodworking adhesive is specifically used on timber.",
+      "Closed shoulders cannot compensate for loose cheek contact or inaccurate joint geometry.",
+      "Adding more adhesive does not restore missing timber or geometry."
     ]
   },
   {
-    "question": "Which evidence would be most useful for this module?",
+    "question": "What can excessive clamp pressure do?",
     "options": [
-      "A photo with no explanation",
-      "dry-fit check, diagonal measurements and glue-up photos",
-      "A guess about what happened",
-      "An unrelated image from the internet"
+      "Rack the frame, crush fibres, bow components or squeeze out too much adhesive",
+      "Guarantee perfect squareness",
+      "Increase the timber length",
+      "Replace the need for cure time"
+    ],
+    "correct": 0,
+    "hint": "Clamps create force as well as closure.",
+    "strongHint": "Too much or poorly directed pressure can distort the very assembly being corrected.",
+    "feedback": [
+      "Excessive pressure can damage surfaces and distort alignment.",
+      "Squareness must be measured; force alone does not guarantee it.",
+      "Clamp pressure does not permanently increase intended length.",
+      "The adhesive still requires the specified clamp and cure times."
+    ]
+  },
+  {
+    "question": "A rectangular frame has diagonals of 412 mm and 416 mm. What does this indicate?",
+    "options": [
+      "The frame is racked and should be adjusted before the adhesive sets",
+      "The frame is perfectly square",
+      "The adhesive has fully cured",
+      "The clamps should all be removed immediately"
+    ],
+    "correct": 0,
+    "hint": "Equal diagonals are evidence of a square rectangle.",
+    "strongHint": "A 4 mm difference shows opposite corners are not equally spaced.",
+    "feedback": [
+      "The unequal diagonals show the frame is out of square and still needs controlled adjustment.",
+      "A square rectangular frame should have equal diagonals.",
+      "Diagonal measurements do not prove cure.",
+      "Clamps remain until the stated process allows removal."
+    ]
+  },
+  {
+    "question": "Why are clamp pads used on finished timber surfaces?",
+    "options": [
+      "To spread pressure and prevent jaw marks or bruising",
+      "To make the joint permanently flexible",
+      "To increase the hole diameter",
+      "To replace adhesive"
+    ],
+    "correct": 0,
+    "hint": "Metal jaws concentrate force on a small contact area.",
+    "strongHint": "The pad protects the surface while still transferring closing pressure.",
+    "feedback": [
+      "Pads distribute pressure and reduce surface damage.",
+      "They do not create a flexible joint.",
+      "They have no connection to drilling diameter.",
+      "Clamping pads and adhesive serve different purposes."
+    ]
+  },
+  {
+    "question": "What is a dependency in a production plan?",
+    "options": [
+      "A task that must be completed before another task can begin",
+      "A decorative colour choice",
+      "A tool brand preference",
+      "A cost that is always zero"
+    ],
+    "correct": 0,
+    "hint": "It controls the order of work.",
+    "strongHint": "For example, final finishing depends on successful dry assembly and surface preparation.",
+    "feedback": [
+      "A dependency links tasks in a required sequence.",
+      "Colour choice may be a design decision but is not the definition.",
+      "Tool brand does not determine task order by itself.",
+      "Dependencies are scheduling relationships, not costs."
+    ]
+  },
+  {
+    "question": "Which task is most likely to be a hold point before finishing?",
+    "options": [
+      "Confirm the frame is square and stable, the joints are secure and all glue residue is removed",
+      "Choose background music",
+      "Throw away all drawings",
+      "Skip the hardware check"
+    ],
+    "correct": 0,
+    "hint": "Finishing can hide residue and make later structural or fit corrections harder.",
+    "strongHint": "A hold point requires evidence that the next high-cost process is safe to begin.",
+    "feedback": [
+      "Structural, functional and surface checks should pass before coating is applied.",
+      "Music is not project quality evidence.",
+      "Drawings remain important records.",
+      "Any approved hardware or storage feature must be checked before finishing."
+    ]
+  },
+  {
+    "question": "What is the critical path?",
+    "options": [
+      "The chain of dependent tasks that controls the earliest completion date",
+      "The most decorative route through the workshop",
+      "Every task completed by one student",
+      "The list of all optional features"
+    ],
+    "correct": 0,
+    "hint": "A delay on this chain delays the whole project unless the plan changes.",
+    "strongHint": "It is determined by dependencies and duration, not by how difficult a task feels.",
+    "feedback": [
+      "The critical path controls overall completion through linked dependent tasks.",
+      "It is a scheduling concept, not a physical route.",
+      "Tasks may involve different people and still be critical.",
+      "Optional features are normally outside the essential chain."
+    ]
+  },
+  {
+    "question": "A project is behind schedule. Which response is strongest?",
+    "options": [
+      "Compress every safety and cure step",
+      "Prioritise structural, functional and assessment work; defer low-value decoration and update the plan",
+      "Pretend the original dates are still correct",
+      "Apply finish before the dry fit"
     ],
     "correct": 1,
-    "hint": "Useful evidence should prove the stage you completed.",
-    "strongHint": "Choose the option that is specific, relevant and can be explained.",
+    "hint": "Not every task has equal value or risk.",
+    "strongHint": "Protect the essential requirements and remove or defer work that does not justify the time.",
     "feedback": [
-      "A photo needs context to show what it proves.",
-      "Correct: this evidence directly supports the work and explanation for the module.",
-      "Evidence should record what actually happened, not an assumption.",
-      "Only your own relevant project evidence should be submitted."
+      "Safety procedures and cure times should not be compressed to recover schedule.",
+      "Prioritising essentials and revising the plan is realistic and defensible.",
+      "An inaccurate plan does not support control.",
+      "Finishing before function is verified can lock in faults."
+    ]
+  },
+  {
+    "question": "What is the best approach to adhesive application on a correctly fitted mortise-and-tenon joint?",
+    "options": [
+      "Use an even, controlled amount on the specified bonding surfaces and assemble within the approved working time",
+      "Fill every gap with extra adhesive",
+      "Apply adhesive only after the clamps are tightened",
+      "Use adhesive to force a joint that did not fit during the dry run"
+    ],
+    "correct": 0,
+    "hint": "Adhesive needs suitable surface contact; excess cannot repair inaccurate joinery.",
+    "strongHint": "The dry fit should already have confirmed joint fit and the assembly sequence.",
+    "feedback": [
+      "Controlled coverage supports a sound bond without excessive squeeze-out.",
+      "Extra adhesive cannot replace timber-to-timber contact and creates avoidable clean-up.",
+      "The joint must be coated before assembly and clamping.",
+      "A joint that requires force needs diagnosis before glue-up."
+    ]
+  },
+  {
+    "question": "After the frame has been clamped, what should be checked before it is left to cure?",
+    "options": [
+      "Only the colour of the clamps",
+      "Joint closure, frame diagonals, flush references, clamp stability and squeeze-out management",
+      "Whether another student has finished",
+      "Whether the table can be used immediately"
+    ],
+    "correct": 1,
+    "hint": "Clamping can close joints but can also rack or bow a frame.",
+    "strongHint": "The final checks should confirm geometry, contact and a safe undisturbed set-up.",
+    "feedback": [
+      "Clamp colour gives no quality evidence.",
+      "These checks confirm alignment, squareness and controlled adhesive work before curing.",
+      "Another student’s timing does not prove this assembly is correct.",
+      "The adhesive must cure as directed before load or further machining."
     ]
   }
 ];
-window.WRITTEN_QUESTIONS=[
+window.WRITTEN_QUESTIONS = [
   {
-    "title": "1. Explain the key decision in Frame dry fit, adhesives and clamping",
-    "prompt": "Explain how you would approach frame dry fit, adhesives and clamping and why that approach is reliable. Refer to quality, safety and the project brief.",
-    "minWords": 15,
+    "title": "1. Plan a controlled bedside-table frame glue-up",
+    "prompt": "Describe the sequence you would use to dry-fit, prepare, glue, clamp and inspect the bedside-table frame. Include orientation, adhesive open time, clamp placement, squareness and squeeze-out.",
+    "minWords": 125,
     "concepts": [
       {
-        "label": "project requirement",
+        "label": "dry fit and orientation",
         "terms": [
-          "brief",
-          "drawing",
-          "plan",
-          "requirement"
+          "dry fit",
+          "label",
+          "orientation",
+          "rehearse"
         ]
       },
       {
-        "label": "quality check",
+        "label": "adhesive preparation and open time",
         "terms": [
-          "check",
-          "accurate",
-          "quality",
-          "fit",
-          "square",
+          "adhesive",
+          "open time",
+          "apply",
           "surface"
         ]
       },
       {
-        "label": "safe process",
+        "label": "clamp placement and pads",
         "terms": [
-          "safe",
-          "sop",
-          "ppe",
-          "control",
-          "risk"
+          "clamp",
+          "pad",
+          "pressure",
+          "joint"
+        ]
+      },
+      {
+        "label": "squareness checks",
+        "terms": [
+          "square",
+          "diagonal",
+          "measure",
+          "racked"
+        ]
+      },
+      {
+        "label": "clean-up and cure",
+        "terms": [
+          "squeeze-out",
+          "clean",
+          "clamp time",
+          "cure",
+          "undisturbed"
         ]
       }
     ],
     "scaffold": [
-      "First, I would check the project requirement by...",
-      "To achieve quality, I would...",
-      "To work safely, I would..."
+      "Before opening the adhesive, I would…",
+      "The adhesive would be applied…",
+      "The clamps and pads would be positioned…",
+      "While adjustment is still possible, I would check…",
+      "After closing the joints, I would…"
     ],
     "prompts": [
-      "Name the drawing, brief or procedure you would start from.",
-      "Explain how you would check the quality of the work.",
-      "Include a specific safe-work control."
+      "Include a complete dry fit, labels and a rehearsal of the clamp sequence.",
+      "Explain suitable coverage and the need to work within the stated open time.",
+      "Describe controlled pressure directed through the joints and surface protection.",
+      "Use a square and/or equal diagonal measurements to identify racking.",
+      "Address squeeze-out, clamp time, cure time and leaving the assembly undisturbed."
     ],
-    "model": "I would begin by checking the relevant drawing, brief and workshop procedure before setting up the task. I would work from consistent reference information, complete a small check before committing to the final work, and compare the result with the intended requirement. I would follow the relevant SOP, secure the work where needed and use the required PPE. This makes the process safer and reduces the chance of rework."
+    "model": "Before opening the adhesive, I would confirm every frame component, label and orientation, complete a dry fit and rehearse the clamp order. The bench, pads, square, diagonal measuring points and cleaning materials would be prepared so the assembly can close within the adhesive’s stated open time. I would apply a thin, continuous film to the approved mating surfaces rather than attempting to fill gaps with excess adhesive. Clamps with protective pads would be positioned so their force closes the joints without bowing the rails or bruising the timber. While the adhesive is still workable, I would check joint shoulders, rail and apron alignment, 90-degree relationships and both diagonals, adjusting any racking carefully. Appropriate squeeze-out would be removed by the approved method, and the assembly would remain clamped and undisturbed for the required clamp and cure times."
   },
   {
-    "title": "2. Evaluate evidence for Frame dry fit, adhesives and clamping",
-    "prompt": "Describe what evidence you would collect for this stage and explain what it proves about your bedside table project.",
-    "minWords": 15,
+    "title": "2. Diagnose a racked frame during glue-up",
+    "prompt": "During glue-up, one diagonal is 5 mm longer than the other and a rail has begun to bow. Explain the likely role of clamp position or pressure and describe a controlled correction.",
+    "minWords": 95,
     "concepts": [
       {
-        "label": "specific evidence",
+        "label": "evidence of racking",
         "terms": [
-          "photo",
-          "measurement",
-          "drawing",
-          "record",
-          "check"
+          "diagonal",
+          "racked",
+          "out of square",
+          "5 mm"
         ]
       },
       {
-        "label": "what it proves",
+        "label": "pressure direction",
         "terms": [
-          "shows",
-          "proves",
-          "demonstrates",
-          "confirms"
+          "clamp",
+          "pressure",
+          "position",
+          "force"
         ]
       },
       {
-        "label": "quality or improvement",
+        "label": "bow cause",
         "terms": [
-          "quality",
-          "accurate",
-          "improve",
+          "bow",
+          "too much",
+          "uneven",
+          "above",
+          "below"
+        ]
+      },
+      {
+        "label": "controlled adjustment",
+        "terms": [
+          "loosen",
+          "reposition",
           "adjust",
-          "fit"
+          "recheck"
+        ]
+      },
+      {
+        "label": "time and joint closure",
+        "terms": [
+          "open time",
+          "shoulder",
+          "joint",
+          "before set"
         ]
       }
     ],
     "scaffold": [
-      "I would collect...",
-      "This evidence would show...",
-      "If I found a problem, I would..."
+      "The unequal diagonals show…",
+      "The bow may be caused by…",
+      "I would first…",
+      "After repositioning the clamps…",
+      "The correction must occur…"
     ],
     "prompts": [
-      "Name a photo, measurement, drawing annotation or check you would collect.",
-      "Explain what the evidence proves.",
-      "State what you would do if the check identified a problem."
+      "Interpret the diagonal difference as evidence that the frame is out of square.",
+      "Explain how excessive, one-sided or poorly directed pressure can bow a rail.",
+      "Describe reducing pressure before attempting to force the frame.",
+      "Reposition or balance clamps and remeasure both diagonals and joint closure.",
+      "Recognise the adhesive working time and avoid disturbing a joint after it begins to set."
     ],
-    "model": "I would collect a clear photo or measurement record from the actual project stage, together with a short note explaining what it shows. For example, I could record the relevant dimensions, fit, surface condition or hardware movement. This evidence would confirm whether the work meets the drawing and quality expectation. If the check showed a problem, I would identify the cause, make a controlled adjustment and record the result."
+    "model": "The 5 mm diagonal difference shows that the frame is racked rather than square. The bowed rail suggests that clamp pressure may be excessive, applied too far from the joint or concentrated on one side of the assembly. I would support the frame, reduce the pressure gradually and check that every joint remains engaged. The clamps would be repositioned so their force closes the joints without bending the rail, and pressure could be balanced above and below where appropriate. I would then remeasure both diagonals, check the square and confirm full shoulder contact. The adjustment must be completed within the adhesive’s workable open time; after the adhesive begins to set, twisting the assembly can damage the developing bond."
+  },
+  {
+    "title": "3. Control adhesive, squeeze-out and curing",
+    "prompt": "Explain how you would prepare and apply the teacher-approved adhesive during the table-frame glue-up. Include surface condition, coverage, open time, clamp pressure, squeeze-out, final checks and curing.",
+    "minWords": 140,
+    "concepts": [
+      {
+        "label": "Adhesive",
+        "terms": [
+          "approved",
+          "open time",
+          "coverage"
+        ]
+      },
+      {
+        "label": "Assembly",
+        "terms": [
+          "clamp",
+          "pressure",
+          "shoulder",
+          "diagonal"
+        ]
+      },
+      {
+        "label": "Cure",
+        "terms": [
+          "squeeze-out",
+          "undisturbed",
+          "cure"
+        ]
+      }
+    ],
+    "scaffold": [
+      "Prepare the dry-fitted parts and work area.",
+      "Apply an even controlled amount.",
+      "Clamp and inspect the geometry.",
+      "Manage squeeze-out and leave the frame undisturbed."
+    ],
+    "prompts": [
+      "Which surfaces need contact?",
+      "How will you avoid using adhesive as gap filler?",
+      "What must be rechecked before the frame is left?"
+    ],
+    "model": "I would complete the full dry fit first and lay out the labelled parts, clamps, pads and checking tools in the planned sequence. The joint surfaces must be clean, correctly fitted and free from dust or contamination. I would apply an even, controlled amount of the teacher-approved adhesive to the specified bonding surfaces and assemble within its working time. The clamps would close the shoulders using balanced pressure rather than force inaccurate joints together. As pressure is applied, I would check flush references, joint closure and both frame diagonals, adjusting the clamp position rather than simply tightening harder. Squeeze-out would be managed using the teacher-approved method without smearing adhesive into visible grain. Before leaving the frame, I would confirm clamp stability, squareness, clean joint lines and safe placement away from walkways. The assembly would remain supported and undisturbed for the specified curing period; it would not be machined or loaded merely because the surface adhesive feels dry."
+  },
+  {
+    "title": "4. Build a realistic two-week production plan",
+    "prompt": "Create a short production plan for final dry assembly, glue-up, surface preparation and the top-fitting or surface-preparation stage. Explain the dependencies, at least two hold points, a useful buffer and one task that can occur in parallel.",
+    "minWords": 125,
+    "concepts": [
+      {
+        "label": "logical sequence and dependencies",
+        "terms": [
+          "dry assembly",
+          "glue",
+          "surface",
+          "finish",
+          "depend"
+        ]
+      },
+      {
+        "label": "hold points",
+        "terms": [
+          "hold point",
+          "check",
+          "approval",
+          "before"
+        ]
+      },
+      {
+        "label": "time and cure",
+        "terms": [
+          "open time",
+          "clamp time",
+          "cure",
+          "drying",
+          "duration"
+        ]
+      },
+      {
+        "label": "buffer",
+        "terms": [
+          "buffer",
+          "correction",
+          "extra time",
+          "delay"
+        ]
+      },
+      {
+        "label": "parallel task and update",
+        "terms": [
+          "parallel",
+          "folio",
+          "costing",
+          "update",
+          "actual time"
+        ]
+      }
+    ],
+    "scaffold": [
+      "The first dependent sequence is…",
+      "The first hold point occurs when…",
+      "Adhesive clamp and cure time means…",
+      "A useful buffer is placed… because…",
+      "While the assembly is clamped or curing, I can…"
+    ],
+    "prompts": [
+      "Show that glue-up depends on a successful final dry fit and finishing depends on successful assembly and surface preparation.",
+      "Include hold points before glue and before finish, or another defensible pair.",
+      "Account for stated clamp/cure and finish drying periods rather than treating them as zero time.",
+      "Place the buffer where a real uncertainty exists, such as correction or drying.",
+      "Identify productive parallel documentation work and state that the plan is updated with actual progress."
+    ],
+    "model": "The sequence begins with a final dry assembly because glue-up depends on correct fit, hardware clearance and a proven clamp method. The first hold point is teacher or checklist approval that all joints close, the frame is square and the table moves correctly. Glue-up then occurs within the adhesive open time, followed by the full required clamp and cure periods. While the assembly is clamped, I can update the folio, costing and production record in parallel. After unclamping, the second hold point checks joint closure, alignment and remaining glue residue before surface preparation begins. The top-fitting or surface-preparation stage depends on a clean, defect-free surface and another functional check. I would place a buffer before finishing to allow correction of a joint, extra adhesive cure or an additional sanding step. Actual times and delays would be recorded and the remaining plan revised rather than hidden."
   }
 ];

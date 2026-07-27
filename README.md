@@ -1,34 +1,21 @@
-# Folding Chair Guided Course
+# Bedside Table Guided Course
 
-A static Year 10 Industrial Technology – Timber course website for a twenty-week folding-chair project.
+Open `index.html` to start the course.
 
-It is ready for **GitHub Pages**. There is no build step, server, database, account system or API key required.
+This rebuilt version uses the Folding Chair Guided Course as its presentation and interaction standard while retaining bedside-table-specific content, plans, images, questions and portfolio evidence.
 
-## What students can do
+## Included
 
-- work through ten two-week modules
-- view the project drawings and safety guidance
-- complete knowledge checks and written responses
-- save their work in their browser while working
-- download a PDF copy of their responses
+- ten two-week guided modules covering Weeks 1–20
+- six substantial theory sections per module
+- twelve guided knowledge checks and four scaffolded written responses per module
+- the supplied Bedside Table Project Plan
+- a twelve-card evidence-first project folio with ZIP and JSON backup
+- local assets and scripts so the course can run as a static website
 
-## Publish to GitHub Pages
+Student answers save in the browser used for the lesson. Students should use **Print / Save PDF** for each completed module and download the folio ZIP before changing devices or clearing browser data.
+## Visual refinements
 
-1. Create a new empty GitHub repository, for example `folding-chair-guided-course`.
-2. Upload the **contents of this folder** to the repository root. Do not upload the enclosing `Folding-Chair-Guided-Course-Complete-20-Weeks` folder.
-3. In the repository, open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Choose branch **main** and folder **/(root)**, then save.
-6. Wait a minute or two for GitHub to provide the public course URL.
-7. Add that URL as a link or assignment in Google Classroom.
-
-The complete handover is in [GITHUB-PAGES-SETUP.md](GITHUB-PAGES-SETUP.md).
-
-## Local preview
-
-Open `index.html` in a browser. For the full student experience, use a regular browser such as Chrome or Edge.
-
-## Important privacy note
-
-Student responses are stored only in the student’s current browser until they download their PDF. The site does not send answers, names or classes to GitHub or any other service.
+- the landing-page hero shows the complete bedside table rather than cropping the legs
+- the twelve folio card graphics display at a smaller, sharper size close to their native resolution
 

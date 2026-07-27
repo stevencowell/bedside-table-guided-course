@@ -1,36 +1,55 @@
-FOLDING CHAIR GUIDED COURSE — FINAL VALIDATION
-======================================================
+BEDSIDE TABLE GUIDED COURSE — FINAL VALIDATION
+================================================
+Validated: 27 July 2026
+Benchmark: Folding Chair Guided Course (reference only; not modified)
 
-weeks1-2: 12 guided questions, 4 written responses; nav Home | Weeks 1–2 | Weeks 3–4
-weeks3-4: 12 guided questions, 4 written responses; nav Home | Weeks 1–2 | Weeks 3–4 | Weeks 5–6
-weeks5-6: 12 guided questions, 4 written responses; nav Home | Weeks 3–4 | Weeks 5–6 | Weeks 7–8
-weeks7-8: 12 guided questions, 4 written responses; nav Home | Weeks 5–6 | Weeks 7–8 | Weeks 9–10
-weeks9-10: 12 guided questions, 4 written responses; nav Home | Weeks 7–8 | Weeks 9–10 | Weeks 11–12
-weeks11-12: 12 guided questions, 4 written responses; nav Home | Weeks 9–10 | Weeks 11–12 | Weeks 13–14
-weeks13-14: 12 guided questions, 4 written responses; nav Home | Weeks 11–12 | Weeks 13–14 | Weeks 15–16
-weeks15-16: 12 guided questions, 4 written responses; nav Home | Weeks 13–14 | Weeks 15–16 | Weeks 17–18
-weeks17-18: 12 guided questions, 4 written responses; nav Home | Weeks 15–16 | Weeks 17–18 | Weeks 19–20
-weeks19-20: 12 guided questions, 4 written responses; nav Home | Weeks 17–18 | Weeks 19–20
+COURSE CONTENT
+- 10 paired-week modules covering Weeks 1–20
+- 60 substantial theory sections: 6 per module
+- 120 guided multiple-choice checks: 12 per module
+- 40 scaffolded written responses: 4 per module
+- Written responses numbered correctly in every module
+- Bedside-table-specific theory, feedback, hints, models and examples
+- Supplied Bedside Table Project Plan retained as the controlling drawing
+- No unapproved hardware sizes, finish products, drying times or local procedures added
 
-Totals: 10 paired-week modules, 120 guided questions and 40 written responses.
+PRESENTATION MATCH
+- Course stylesheet follows the Folding Chair benchmark, with the landing-page hero scaled to keep the complete bedside table visible
+- Folio stylesheet follows the benchmark after normalising the project name and hero image
+- Folio card graphics are constrained to about half their previous display width so the source images are not enlarged and softened
+- Same responsive card system, typography, spacing, headings, callouts, navigation and print treatment
+- All 53 HTML images have alternative text
+- Every instructional figure has a useful caption; every tool image card includes a heading and explanation
+- Desktop and 390 px mobile layouts checked with no horizontal overflow; the landing hero and reduced folio graphics were visually reviewed
 
-Automated checks completed:
-- JavaScript syntax
-- Question and feedback structure
-- Progressive hints
-- Duplicate HTML IDs
-- Lesson navigation anchors
-- Local file references
-- Ten active landing-page links
-- No speaker/text-to-speech controls
-- No Google Apps Script endpoints
+LESSON FUNCTIONALITY
+- All ten modules browser-rendered with 12 question cards, 4 written-response cards and 6 theory sections
+- No page or console errors across the ten modules
+- Correct-answer feedback, mastery progress, autosave and written-response saving interaction-tested
+- Each module now uses its own Bedside Table browser-storage key, preventing one module from overwriting another
+- Generated lesson PDF tested: bedside-table/module-specific filename, student details and lesson content retained
+- Reset labels and PDF titles are module-specific
 
-Browser checks completed:
-- All ten modules rendered with 12 question cards and four written-response cards
-- No console or page errors across the ten modules
-- Incorrect-answer feedback, stronger hints, retry-to-mastery and written guidance were interaction-tested
-- Desktop and mobile layouts were visually inspected
-- Print / Save PDF was tested with long responses; response boxes expand so full written answers are retained
+FOLIO FUNCTIONALITY
+- 12 evidence cards and 12 matching infographics rendered
+- Correct Folding Chair folio class structure restored so the benchmark styling applies fully
+- Approved Storage or Hardware card is conditional on the approved plan
+- Student details, responses, evidence notes, completion status and photo upload autosave correctly
+- JSON backup downloaded and inspected
+- ZIP backup downloaded, integrity-tested and confirmed to contain session data and uploaded photo
+- ZIP restore tested for response, evidence note, completion status and photo preview
+- Print / Save PDF control tested
+
+INTEGRITY CHECKS
+- 12 HTML files checked
+- All local links, assets and document references resolve
+- All local anchors resolve
+- No duplicate HTML IDs
+- JavaScript syntax passed for all scripts and lesson-data files
+- All lesson-data structures passed option, answer, feedback, hint and written-guidance checks
+- No project-inappropriate Folding Chair prompts, pivots, slats, washers or folding-mechanism examples remain in lesson content
+- No leftover Folding Chair files are included in the deliverable
+- Bedside Table plan PDF is present
 
 RESULT: PASSED
-All final checks passed.
+The Bedside Table Guided Course meets the Folding Chair course's presentation and interaction standard while retaining project-specific content and controls.

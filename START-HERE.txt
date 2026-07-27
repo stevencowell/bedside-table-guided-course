@@ -1,1 +1,1 @@
-Extract the complete folder, then open the top-level index.html landing page. Keep every subfolder in place.
+Open index.html in a modern browser. Begin with Weeks 1–2 and use the course home page to move through the ten modules.

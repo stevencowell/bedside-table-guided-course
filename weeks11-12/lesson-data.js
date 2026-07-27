@@ -1,172 +1,400 @@
-window.LESSON_CONFIG={"storageKey":"bedside-table-weeks11-12-guided-v1","resetLabel":"Weeks 11-12"};
-window.MC_QUESTIONS=[
+window.LESSON_CONFIG = {
+  "storageKey": "bedside-table-weeks11-12-guided-v1",
+  "resetLabel": "Weeks 11–12",
+  "title": "Bedside Table – Weeks 11–12"
+};
+window.MC_QUESTIONS = [
   {
-    "question": "What is the best way to begin top, hardware and timber movement?",
+    "question": "What is the strongest first check when positioning the bedside-table top?",
     "options": [
-      "Rely on memory and start immediately",
-      "Read the relevant plans, checks and procedure before starting",
-      "Copy another student without checking the project",
-      "Skip the quality check to save time"
+      "Confirm the frame is stable, then compare the top with the approved overhangs, centre lines and visible references",
+      "Tighten the nearest fixing immediately",
+      "Align it only by eye from one corner",
+      "Assume the frame cannot affect top alignment"
     ],
-    "correct": 1,
-    "hint": "Start from reliable project information and the required process.",
-    "strongHint": "A careful start prevents errors that are difficult to repair later.",
+    "correct": 0,
+    "hint": "Top alignment depends on both the approved drawing and the actual frame geometry.",
+    "strongHint": "Establish and check the position before any fixing locks it in place.",
     "feedback": [
-      "Memory can miss a project-specific requirement.",
-      "Correct: begin with reliable information, the planned sequence and the relevant checks.",
-      "Another student's work is not a substitute for understanding the requirement.",
-      "Skipping checks usually creates rework, not saved time."
+      "This creates a repeatable alignment check and reveals frame issues first.",
+      "Early tightening can pull the top out of position.",
+      "One viewpoint can hide unequal overhangs.",
+      "A racked or twisted frame can affect how the top sits."
     ]
   },
   {
-    "question": "Which result best demonstrates that the top is aligned, stable and fitted without restricting timber movement?",
+    "question": "Across which direction does a solid timber top normally show the greatest seasonal movement?",
     "options": [
-      "The work was rushed to finish early",
-      "The result can be checked against the drawing, brief or test",
-      "The timber was chosen only because it was closest",
-      "No evidence was recorded"
+      "Across the grain, as its moisture content changes",
+      "Along the grain only",
+      "Equally in every direction",
+      "Only through the thickness of the finish"
     ],
-    "correct": 1,
-    "hint": "Quality needs evidence that can be checked.",
-    "strongHint": "Ask which answer gives a reliable comparison with the intended result.",
+    "correct": 0,
+    "hint": "Timber movement is strongly related to grain direction.",
+    "strongHint": "Lengthwise movement is usually much smaller than movement across the board width.",
     "feedback": [
-      "Speed alone does not prove quality.",
-      "Correct: evidence and comparison make quality visible and defensible.",
-      "Convenience does not prove suitability.",
-      "Without evidence, it is difficult to show what was achieved."
+      "Solid timber expands and contracts mainly across the grain.",
+      "Movement along the grain is comparatively small.",
+      "Timber is anisotropic; direction matters.",
+      "The finish can moderate moisture exchange but does not become the only movement direction."
     ]
   },
   {
-    "question": "Which safety approach is most appropriate while you support the table securely when drilling or fixing hardware?",
+    "question": "Why can rigidly restraining a solid top across its grain cause damage?",
     "options": [
-      "Wait until something goes wrong before checking controls",
-      "Plan the task, follow the SOP and use the required controls",
-      "Use a machine without checking the setup",
-      "Assume PPE replaces every other control"
+      "The top may split, cup, pull fixings or distort the frame as moisture changes",
+      "It makes the timber permanently waterproof",
+      "It removes all internal stress",
+      "It guarantees equal overhangs"
     ],
-    "correct": 1,
-    "hint": "Safety is planned before work starts.",
-    "strongHint": "PPE is important, but it is not the only control.",
+    "correct": 0,
+    "hint": "The timber still attempts to move even when the fixing prevents it.",
+    "strongHint": "Restrained seasonal movement creates stress in timber and fixings.",
     "feedback": [
-      "Controls are most effective when planned before exposure to the hazard.",
-      "Correct: use the planned procedure, correct setup and required controls.",
-      "Unsafe setup can create risk before the cut or operation starts.",
-      "PPE supports controls; it does not replace planning, guards or secure work."
+      "These are plausible results of cross-grain restraint.",
+      "Rigid fixing does not waterproof timber.",
+      "Restraint can increase rather than remove stress.",
+      "Overhang alignment is a separate positioning check."
     ]
   },
   {
-    "question": "Which evidence would be most useful for this module?",
+    "question": "What should control the top-fixing method and movement allowance?",
     "options": [
-      "A photo with no explanation",
-      "top alignment checks, hardware layout and completed assembly photos",
-      "A guess about what happened",
-      "An unrelated image from the internet"
+      "The approved plan, teacher direction and the actual grain orientation of the top",
+      "The heaviest screw available",
+      "A method used for sheet material regardless of top construction",
+      "The need to finish as quickly as possible"
     ],
-    "correct": 1,
-    "hint": "Useful evidence should prove the stage you completed.",
-    "strongHint": "Choose the option that is specific, relevant and can be explained.",
+    "correct": 0,
+    "hint": "The fixing must suit the project design and material behaviour.",
+    "strongHint": "A method that works for one material may damage another.",
     "feedback": [
-      "A photo needs context to show what it proves.",
-      "Correct: this evidence directly supports the work and explanation for the module.",
-      "Evidence should record what actually happened, not an assumption.",
-      "Only your own relevant project evidence should be submitted."
+      "These references connect the authorised method with timber movement.",
+      "More force or size is not automatically suitable.",
+      "Sheet products and solid timber can behave differently.",
+      "Speed cannot replace a verified fixing method."
+    ]
+  },
+  {
+    "question": "Why should the top position be rechecked immediately before final tightening?",
+    "options": [
+      "Drilling, inserting fixings or moving the frame can shift the top from its centred position",
+      "Tightening automatically corrects every alignment error",
+      "The overhangs no longer matter once holes exist",
+      "A top cannot move while supported"
+    ],
+    "correct": 0,
+    "hint": "Small shifts can occur between marking and tightening.",
+    "strongHint": "The final check protects the visible relationship between top and frame.",
+    "feedback": [
+      "A last reference check catches movement before the position becomes locked.",
+      "Tightening can worsen an error rather than correct it.",
+      "Visible alignment remains part of project quality.",
+      "Support reduces movement but does not make it impossible."
+    ]
+  },
+  {
+    "question": "One corner of the top sits high during a trial fit. What is the best first response?",
+    "options": [
+      "Check for debris, proud joints or hardware, frame twist and top distortion before forcing it down",
+      "Use one fixing to pull the corner flat",
+      "Sand the entire top underside at random",
+      "Assume the floor is responsible"
+    ],
+    "correct": 0,
+    "hint": "A high corner is a symptom with several possible causes.",
+    "strongHint": "Find the source of the gap before applying force or removing material.",
+    "feedback": [
+      "These checks separate contamination, frame geometry, hardware and timber shape.",
+      "Pulling with a fixing can split timber or distort the frame.",
+      "Random sanding can create a larger uneven gap.",
+      "The fit between top and frame can be checked independently of the floor."
+    ]
+  },
+  {
+    "question": "Why should all top fixings not be fully tightened one at a time from the beginning?",
+    "options": [
+      "Progressive tightening allows alignment and seating to be checked without dragging the top out of position",
+      "Fixings work only when tightened in random order",
+      "The first fixing should carry the whole top",
+      "Progressive tightening removes the need for pilot holes"
+    ],
+    "correct": 0,
+    "hint": "A balanced sequence helps control position and contact.",
+    "strongHint": "Think about how one fully tightened fixing can drag the top out of position before the other fixings are seated.",
+    "feedback": [
+      "Progressive tightening protects alignment and reveals seating problems.",
+      "Random order is not a quality method.",
+      "One fixing should not be used to pull or carry the assembly alone.",
+      "Pilot-hole requirements remain."
+    ]
+  },
+  {
+    "question": "What is the purpose of a correctly located pilot hole for a top fixing?",
+    "options": [
+      "To guide the fixing, reduce splitting risk and control entry without damaging the approved movement feature",
+      "To make clamping unnecessary",
+      "To allow the drill to cut through the finished top face",
+      "To remove the need to check screw length"
+    ],
+    "correct": 0,
+    "hint": "Pilot holes improve control, but they must suit the approved fixing method.",
+    "strongHint": "They do not replace support, depth control or hardware checks.",
+    "feedback": [
+      "A controlled pilot hole supports accurate, safer fixing.",
+      "The work still needs secure support.",
+      "Breaking through a visible face is damage, not a purpose.",
+      "Length and engagement must still be checked."
+    ]
+  },
+  {
+    "question": "What is the difference between movement allowance and a loose top?",
+    "options": [
+      "Movement allowance permits controlled seasonal change while the top remains securely located; a loose top has unsafe play or inadequate fixing",
+      "They are the same condition",
+      "A loose top is preferred because it cannot split",
+      "Movement allowance means every fixing is left partly undone"
+    ],
+    "correct": 0,
+    "hint": "The top must be secure while the authorised fixing detail accommodates material movement.",
+    "strongHint": "Controlled movement is not uncontrolled wobble.",
+    "feedback": [
+      "This distinguishes designed movement from a faulty connection.",
+      "The two conditions have different safety and quality implications.",
+      "Unsafe looseness can damage the table and user.",
+      "Approved movement details do not rely on random under-tightening."
+    ]
+  },
+  {
+    "question": "Which final hardware condition requires correction before finishing?",
+    "options": [
+      "A proud metal edge, sharp projection, loose fixing or hardware that interferes with use",
+      "A fixing that matches the approved plan and sits safely",
+      "A pilot hole made with controlled depth",
+      "A checked movement allowance"
+    ],
+    "correct": 0,
+    "hint": "Hardware must be secure, safe to touch and compatible with function.",
+    "strongHint": "Look for conditions that can injure, catch, loosen or damage the timber.",
+    "feedback": [
+      "These are clear safety or function faults.",
+      "Correctly fitted hardware is the target condition.",
+      "Controlled pilot drilling is part of accurate fitting.",
+      "A verified allowance supports solid-timber behaviour."
+    ]
+  },
+  {
+    "question": "What is the strongest hold point before the top and hardware move to final finishing?",
+    "options": [
+      "Teacher-approved checks confirm alignment, stability, safe hardware, operation and movement allowance",
+      "The top looks acceptable from one side",
+      "All fixings have been tightened with maximum force",
+      "No written evidence has been recorded"
+    ],
+    "correct": 0,
+    "hint": "A hold point confirms several critical criteria before coating makes adjustment harder.",
+    "strongHint": "Use evidence and teacher review rather than one quick visual judgement.",
+    "feedback": [
+      "This protects function, safety and material movement before finishing.",
+      "One view cannot confirm all overhangs or seating.",
+      "Maximum force can damage timber or restrict movement.",
+      "Evidence is needed to support the quality decision."
+    ]
+  },
+  {
+    "question": "Which result best demonstrates successful top fitting?",
+    "options": [
+      "The top is securely located, sits evenly, matches the approved alignment and retains the specified timber-movement allowance",
+      "The top was attached using the greatest number of fixings",
+      "One overhang is correct while the others were not checked",
+      "The top was forced flat by the hardware"
+    ],
+    "correct": 0,
+    "hint": "Success combines position, contact, security and material behaviour.",
+    "strongHint": "More fixings or force do not automatically improve the result.",
+    "feedback": [
+      "This set of checks addresses visible quality, function and long-term behaviour.",
+      "Unnecessary fixings can increase restraint and risk.",
+      "All relevant references need checking.",
+      "Hardware should secure a correct fit, not force distorted parts together."
     ]
   }
 ];
-window.WRITTEN_QUESTIONS=[
+window.WRITTEN_QUESTIONS = [
   {
-    "title": "1. Explain the key decision in Top, hardware and timber movement",
-    "prompt": "Explain how you would approach top, hardware and timber movement and why that approach is reliable. Refer to quality, safety and the project brief.",
-    "minWords": 15,
+    "title": "1. Plan the top-fitting sequence",
+    "prompt": "Describe how you would position, mark, drill and secure the bedside-table top using the approved fixing method. Include frame checks, overhangs, support, pilot holes, progressive tightening and a final hold point.",
+    "minWords": 150,
     "concepts": [
       {
-        "label": "project requirement",
+        "label": "Alignment",
         "terms": [
-          "brief",
-          "drawing",
-          "plan",
-          "requirement"
+          "overhang",
+          "centre",
+          "reference"
         ]
       },
       {
-        "label": "quality check",
+        "label": "Fixing",
         "terms": [
-          "check",
-          "accurate",
-          "quality",
-          "fit",
-          "square",
-          "surface"
+          "approved",
+          "pilot hole",
+          "progressive"
         ]
       },
       {
-        "label": "safe process",
+        "label": "Quality",
         "terms": [
-          "safe",
-          "sop",
-          "ppe",
-          "control",
-          "risk"
+          "stable",
+          "even",
+          "hold point"
         ]
       }
     ],
     "scaffold": [
-      "First, I would check the project requirement by...",
-      "To achieve quality, I would...",
-      "To work safely, I would..."
+      "Check the frame and top first.",
+      "Establish the approved position.",
+      "Mark and drill under control.",
+      "Tighten progressively and reinspect."
     ],
     "prompts": [
-      "Name the drawing, brief or procedure you would start from.",
-      "Explain how you would check the quality of the work.",
-      "Include a specific safe-work control."
+      "What could make one corner sit high?",
+      "How will you prevent the top shifting?",
+      "What must the teacher approve before finishing?"
     ],
-    "model": "I would begin by checking the relevant drawing, brief and workshop procedure before setting up the task. I would work from consistent reference information, complete a small check before committing to the final work, and compare the result with the intended requirement. I would follow the relevant SOP, secure the work where needed and use the required PPE. This makes the process safer and reduces the chance of rework."
+    "model": "I would place the completed frame on a verified flat surface and check that it is stable, square and free from debris or proud joint material. The top would be inspected for grain orientation and distortion, then centred using the overhangs and references shown on the approved plan. I would compare all sides rather than relying on one corner. The assembly would be supported and clamped as directed so it cannot shift while the fixing positions are transferred. Before drilling, I would confirm the approved fixing method, movement allowance, fixing length and drill depth. Pilot holes would be drilled square and stopped before the visible surface. The top would be repositioned and its alignment checked again. Fixings would be started loosely, then tightened progressively while seating and overhangs were rechecked. They would secure the top without forcing a high corner flat or eliminating the specified movement allowance. The final hold point would confirm even seating, stability, safe hardware, alignment and timber-movement provision before finishing."
   },
   {
-    "title": "2. Evaluate evidence for Top, hardware and timber movement",
-    "prompt": "Describe what evidence you would collect for this stage and explain what it proves about your bedside table project.",
-    "minWords": 15,
+    "title": "2. Explain timber movement and the fixing method",
+    "prompt": "Explain why a solid timber top changes across the grain and how the approved fixing method must keep it secure without creating damaging cross-grain restraint.",
+    "minWords": 140,
     "concepts": [
       {
-        "label": "specific evidence",
+        "label": "Timber behaviour",
         "terms": [
-          "photo",
-          "measurement",
-          "drawing",
-          "record",
-          "check"
+          "moisture",
+          "grain",
+          "expand",
+          "contract"
         ]
       },
       {
-        "label": "what it proves",
+        "label": "Risk",
         "terms": [
-          "shows",
-          "proves",
-          "demonstrates",
-          "confirms"
+          "restraint",
+          "split",
+          "cup",
+          "stress"
         ]
       },
       {
-        "label": "quality or improvement",
+        "label": "Fixing",
         "terms": [
-          "quality",
-          "accurate",
-          "improve",
-          "adjust",
-          "fit"
+          "secure",
+          "movement allowance",
+          "approved"
         ]
       }
     ],
     "scaffold": [
-      "I would collect...",
-      "This evidence would show...",
-      "If I found a problem, I would..."
+      "Describe the direction and cause of movement.",
+      "Explain the damage caused by rigid restraint.",
+      "Describe the purpose of the approved detail.",
+      "Separate controlled movement from looseness."
     ],
     "prompts": [
-      "Name a photo, measurement, drawing annotation or check you would collect.",
-      "Explain what the evidence proves.",
-      "State what you would do if the check identified a problem."
+      "What changes as humidity and moisture content change?",
+      "Which direction moves most?",
+      "How can a top be secure and still accommodated?"
     ],
-    "model": "I would collect a clear photo or measurement record from the actual project stage, together with a short note explaining what it shows. For example, I could record the relevant dimensions, fit, surface condition or hardware movement. This evidence would confirm whether the work meets the drawing and quality expectation. If the check showed a problem, I would identify the cause, make a controlled adjustment and record the result."
+    "model": "Solid timber absorbs and releases moisture as workshop and household conditions change. Its movement is much greater across the grain than along its length. A wide top may therefore expand or contract across its width even though it was flat and accurately fitted on the day of assembly. If the top is rigidly fixed across the grain with no approved allowance, that movement can create stress that leads to splitting, cupping, pulled fixings or distortion of the tapered-leg frame. The authorised fixing detail must locate the top securely so it cannot wobble or lift, while allowing the controlled seasonal change described by the plan and teacher. That does not mean leaving ordinary screws partly loose at random. Movement allowance is a designed feature of the fixing system and orientation. Before tightening, I would confirm grain direction, fixing position and seating, then test that the top is stable and aligned without being forcibly restrained."
+  },
+  {
+    "title": "3. Diagnose a top that rocks or sits unevenly",
+    "prompt": "During trial fitting, the top contacts the frame at three points but one corner remains high. Explain how you would diagnose the cause and select the least invasive approved correction.",
+    "minWords": 130,
+    "concepts": [
+      {
+        "label": "Diagnosis",
+        "terms": [
+          "debris",
+          "proud",
+          "twist",
+          "cup"
+        ]
+      },
+      {
+        "label": "Evidence",
+        "terms": [
+          "flat surface",
+          "straightedge",
+          "contact"
+        ]
+      },
+      {
+        "label": "Correction",
+        "terms": [
+          "least invasive",
+          "teacher",
+          "retest"
+        ]
+      }
+    ],
+    "scaffold": [
+      "Confirm the symptom on reliable references.",
+      "Separate frame and top causes.",
+      "Check hardware and contamination.",
+      "Correct one verified cause and retest."
+    ],
+    "prompts": [
+      "Is the frame twisted or is the top cupped?",
+      "Is adhesive, a fixing or debris holding the corner up?",
+      "Would tightening hide rather than solve the fault?"
+    ],
+    "model": "I would not use a fixing to pull the high corner down because that could distort the frame or split the top. First, I would remove loose hardware and debris and inspect the contact surfaces for dried adhesive, a proud joint or a misplaced fitting. The frame would be checked on a verified flat surface for rocking and twist, using diagonal and reference checks where appropriate. The top would be examined separately with a straightedge and raking light to identify cup, bow or a local high spot. I would mark the actual contact points so the symptom is not confused with an uneven bench. The least invasive correction would address only the confirmed cause—for example, remove contamination, seat approved hardware correctly or refine a small proud area after teacher approval. Structural reshaping or forcing would require a hold point. The top would then be trial fitted again and checked for even seating, alignment, stability and the approved movement allowance."
+  },
+  {
+    "title": "4. Complete final hardware checks",
+    "prompt": "Explain a systematic final inspection of only the hardware specified on the approved plan. Include alignment, secure fixing, smooth operation where relevant, pilot-hole evidence, proud metal, sharp edges and the risk of over-tightening.",
+    "minWords": 120,
+    "concepts": [
+      {
+        "label": "Hardware quality",
+        "terms": [
+          "aligned",
+          "secure",
+          "smooth"
+        ]
+      },
+      {
+        "label": "Safety",
+        "terms": [
+          "proud",
+          "sharp",
+          "split"
+        ]
+      },
+      {
+        "label": "Adjustment",
+        "terms": [
+          "pilot hole",
+          "over-tighten",
+          "recheck"
+        ]
+      }
+    ],
+    "scaffold": [
+      "Identify every approved hardware location.",
+      "Inspect safety and engagement.",
+      "Test any movement.",
+      "Adjust progressively and record the result."
+    ],
+    "prompts": [
+      "Is the fixing secure without crushing timber?",
+      "Can any metal catch a hand or object?",
+      "Does adjustment improve the cause or only add force?"
+    ],
+    "model": "I would compare the completed table with the approved plan and inspect every specified fixing or hardware item in a consistent order. Each item would be checked for correct location and alignment, suitable engagement and a seated head that does not stand proud or create a sharp edge. The surrounding timber would be inspected for splitting, crushed fibres or a pilot hole that wandered. Where the hardware supports movement, I would test the full operation gently and check for binding, collision or excessive play. A loose fixing would be corrected using the proper tool and controlled support, but I would not assume that tighter is always better. Over-tightening can strip the hole, crush timber, distort a component or remove the required movement allowance. Any correction would be made progressively and followed by a repeat stability and function check. Hardware not shown on the approved plan would not be added simply to hide an underlying construction fault."
   }
 ];
