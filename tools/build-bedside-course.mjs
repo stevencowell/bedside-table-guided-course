@@ -304,6 +304,26 @@ const moduleVisuals = {
   "weeks19-20": ["../assets/folio/cards/12-final-evaluation.png", "Final evaluation against success criteria and evidence collected."],
 };
 
+// ChatGPT has supplied the teaching content.  This formatter only improves
+// readability: it breaks its longer sections into short classroom paragraphs
+// and surfaces the existing opening idea in a consistent callout.
+function formatTheoryCopy(text) {
+  const sentences = text.match(/[^.!?]+[.!?]+(?:\s+|$)/g) || [text];
+  const paragraphs = [];
+  for (let index = 0; index < sentences.length; index += 3) {
+    paragraphs.push(sentences.slice(index, index + 3).join(" ").trim());
+  }
+  return paragraphs
+    .filter(Boolean)
+    .map((paragraph) => `<p>${escape(paragraph)}</p>`)
+    .join("");
+}
+
+function theoryKeyIdea(text) {
+  const firstSentence = (text.match(/[^.!?]+[.!?]+/) || [text])[0].trim();
+  return `<div class="callout key-idea"><div class="callout-icon">K</div><div><strong>Key idea:</strong> ${escape(firstSentence)}</div></div>`;
+}
+
 const questionSet = (module) => [
   {
     question: `What is the best way to begin ${module.title.toLowerCase()}?`,
@@ -451,8 +471,13 @@ function modulePage(module, index) {
   const visual = moduleVisuals[module.id];
   const theory = module.theory
     .map(
-      (section, theoryIndex) =>
-        `<section class="card textbook-section" id="theory-${theoryIndex + 1}"><p class="section-kicker">Theory ${theoryIndex + 1}</p><h2>${escape(section[0])}</h2><p>${escape(section[1])}</p>${theoryIndex === 1 && visual ? `<figure class="lesson-support-visual"><img src="${visual[0]}" alt="${escape(visual[1])}" loading="lazy" decoding="async"><figcaption>${escape(visual[1])}</figcaption></figure>` : ""}<div class="callout"><div class="callout-icon">${theoryIndex + 1}</div><div><strong>Use it in the workshop:</strong> Record one decision or check from this part of the build in your project evidence.</div></div></section>`,
+      (section, theoryIndex) => {
+        const showVisual = theoryIndex === 1 && visual;
+        const visualCard = showVisual
+          ? `<figure class="lesson-support-visual"><img src="${visual[0]}" alt="${escape(visual[1])}" loading="lazy" decoding="async"><figcaption>${escape(visual[1])}</figcaption></figure>`
+          : "";
+        return `<section class="card textbook-section" id="theory-${theoryIndex + 1}"><p class="section-kicker">Theory ${theoryIndex + 1}</p><h2>${escape(section[0])}</h2><div class="theory-layout${showVisual ? " has-visual" : ""}"><div class="theory-copy">${formatTheoryCopy(section[1])}</div>${visualCard}</div>${theoryKeyIdea(section[1])}<div class="callout coach"><div class="callout-icon">?</div><div><strong>Workshop checkpoint:</strong> Record one decision or check from this part of the build in your project evidence.</div></div></section>`;
+      },
     )
     .join("\n");
   return `<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="${escape(module.weeks)} guided learning for the Bedside Table timber project."><title>Bedside Table - ${escape(module.weeks)} Guided Lesson</title><link rel="stylesheet" href="../styles/course.css"></head><body><a class="skip-link" href="#main-content">Skip to lesson</a><div class="course-bar screen-only"><div class="course-bar-inner"><a class="course-brand" href="../index.html">Bedside Table Guided Course</a><nav class="course-links" aria-label="Course navigation"><a href="../index.html">Home</a><a class="active" aria-current="page" href="index.html">${escape(module.weeks)}</a></nav></div></div><header class="hero lesson-hero"><div class="hero-inner"><div class="hero-copy"><p class="eyebrow">Industrial Technology - Timber</p><h1>${escape(module.weeks)}</h1><p class="hero-subtitle">${escape(module.weeks)}: ${escape(module.title)}</p></div><img class="hero-chair" src="../assets/bedside-table.png" alt="Completed timber bedside table"></div></header><main id="main-content"><section class="student-strip card" aria-labelledby="student-details-title"><div><p class="section-kicker">Your work</p><h2 id="student-details-title">Student details</h2><p class="muted">Your entries save automatically in this browser. Use <strong>Print / Save PDF</strong> before leaving the page.</p></div><div class="student-fields"><label><span>First name</span><input id="student-first-name" type="text" autocomplete="given-name" placeholder="First name"></label><label><span>Last name</span><input id="student-last-name" type="text" autocomplete="family-name" placeholder="Last name"></label><label><span>Class</span><input id="student-class" type="text" placeholder="e.g. 10 Timber"></label></div><div class="save-status" id="save-status" role="status" aria-live="polite">Ready</div></section><section class="lesson-overview card"><div class="overview-heading"><div><p class="section-kicker">${escape(module.weeks)}</p><h2>This module</h2></div><div class="time-badge">Two weeks</div></div><p class="module-summary">${escape(module.summary)}</p><div class="module-focus">${module.focus.map((item) => `<div><strong>${escape(item)}</strong><span>Use the planned sequence and record useful evidence as you work.</span></div>`).join("")}</div></section><nav class="lesson-nav card screen-only" aria-label="Lesson sections"><a href="#theory-1">Theory</a><a href="#theory-2">Workshop focus</a><a href="#theory-3">Quality check</a><a href="#knowledge-checks">Guided checks</a><a href="#written-application">Written responses</a></nav><div class="part-banner"><h2>${escape(module.stage)}</h2><p>${escape(module.summary)}</p></div>${theory}<section class="card textbook-section"><p class="section-kicker">Core project resource</p><h2>Bedside Table project plans</h2><p>Use the supplied drawing as the controlling source for dimensions and construction details. Do not scale the on-screen image.</p><a class="button-link secondary" href="../Bedside-Table-Project-Plans.pdf" target="_blank" rel="noopener">Open project plans</a></section><section class="card activity-section" id="knowledge-checks"><div class="activity-heading"><div><p class="section-kicker">Guided practice</p><h2>${escape(module.weeks)} knowledge checks</h2><p class="muted">Choose an answer, check it and use feedback to improve. The hint becomes more specific after an incorrect attempt.</p></div><div class="progress-ring" aria-label="Knowledge check progress"><strong id="mc-progress-number">0/4</strong><span>mastered</span></div></div><div class="question-list" id="mc-questions"></div></section><section class="card activity-section" id="written-application"><div class="activity-heading"><div><p class="section-kicker">Apply your learning</p><h2>Scaffolded written responses</h2><p class="muted">Write a genuine short answer first, then use the feedback and model response to improve it.</p></div><div class="progress-ring written" aria-label="Written response progress"><strong id="written-progress-number">0/2</strong><span>reviewed</span></div></div><div class="written-list" id="written-questions"></div></section><section class="card completion-card"><div><p class="section-kicker">Finish the two-week block</p><h2>Save your evidence</h2><p>Download this completed module as a PDF before changing devices or clearing browser data.</p></div><div class="completion-summary"><div><span>Knowledge checks</span><strong id="summary-mc">0/4</strong></div><div><span>Written responses reviewed</span><strong id="summary-written">0/2</strong></div><div><span>Student details</span><strong id="summary-details">Incomplete</strong></div></div><div class="button-row screen-only"><button class="primary-button" id="print-button" type="button">Print / Save PDF</button><button class="secondary-button" id="reset-button" type="button">Reset ${escape(module.weeks)}</button></div><div class="week-switcher screen-only">${previous ? `<a href="../${previous.id}/index.html">&larr; ${escape(previous.weeks)}</a>` : "<span></span>"}${next ? `<a class="next" href="../${next.id}/index.html">${escape(next.weeks)} &rarr;</a>` : '<a class="next" href="../bedside-table-folio.html">Open project folio &rarr;</a>'}</div></section></main><footer><p>Bedside Table Project - ${escape(module.weeks)} Guided Lesson</p><p>Wagga Wagga High School | Industrial Technology - Timber</p></footer><script src="lesson-data.js"></script><script src="../scripts/lesson-engine.js"></script></body></html>`;
