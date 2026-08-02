@@ -223,50 +223,78 @@ window.MC_QUESTIONS = [
 ];
 window.WRITTEN_QUESTIONS = [
   {
-    "title": "1. Write a final quality-assurance report",
-    "prompt": "Outline a final inspection report for the bedside table. Cover frame joints, stability, top and approved hardware, storage operation where relevant, finish, documentation and workshop handover. State the evidence for a pass or teacher review.",
-    "minWords": 170,
+    "title": "1. Complete a peer quality-assurance critique and workshop handover record",
+    "prompt": "With teacher approval, complete a peer quality-assurance check of the bedside table and shared-workshop handover. Record both participants and roles without using a full surname; the criterion and evidence inspected; the specific critique received; whether you accepted, modified or did not use it, with a technical justification; the action taken; before-and-after evidence or a retest; each person's handover contribution; and any fault reported to the teacher.",
+    "minWords": 190,
     "concepts": [
       {
-        "label": "Structure",
+        "label": "Participants and roles",
         "terms": [
-          "joint",
-          "stable",
-          "rock",
-          "rack"
+          "maker",
+          "reviewer",
+          "peer",
+          "role"
         ]
       },
       {
-        "label": "Function",
+        "label": "Criterion and evidence",
         "terms": [
-          "top",
-          "hardware",
-          "storage",
-          "movement"
+          "criterion",
+          "plan",
+          "photo",
+          "measurement",
+          "retest"
         ]
       },
       {
-        "label": "Handover",
+        "label": "Decision and justification",
         "terms": [
-          "finish",
-          "evidence",
-          "workshop",
-          "teacher review"
+          "accepted",
+          "modified",
+          "did not use",
+          "because",
+          "justified"
+        ]
+      },
+      {
+        "label": "Feedback used",
+        "terms": [
+          "feedback",
+          "action",
+          "changed",
+          "improved",
+          "before",
+          "after"
+        ]
+      },
+      {
+        "label": "Handover contribution",
+        "terms": [
+          "handover",
+          "returned",
+          "bench",
+          "waste",
+          "fault",
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "Inspect from safety and structure to finish.",
-      "State the test and result for each criterion.",
-      "Identify the threshold for teacher review.",
-      "Complete documentation and workshop handover."
+      "Record the maker and reviewer roles using first names or initials only.",
+      "Name the approved criterion and the photograph, measurement or test inspected.",
+      "Quote or accurately paraphrase the specific peer critique.",
+      "State accept, modify or not use, then justify that decision technically.",
+      "Record the action and before-and-after evidence or retest.",
+      "Record each person's handover contribution and any fault reported."
     ],
     "prompts": [
-      "What would make the table unsafe to use?",
-      "Which photographs or measurements prove quality?",
-      "Has the finish cured sufficiently for handling?"
+      "Can a reviewer trace the critique to an approved plan, criterion or test?",
+      "What changed because of the feedback, and how was the result verified?",
+      "If you did not use the feedback, what evidence supports that decision?",
+      "Does the record show what each participant contributed to the handover?",
+      "Was any damaged, blunt, missing or unsafe item reported to the teacher?"
     ],
-    "model": "The final inspection would begin with the table on a verified level surface. I would check all four legs for contact, apply a gentle racking check and inspect every mortise-and-tenon shoulder for movement, gaps or damage. The top would be checked for even seating, approved overhangs, secure fixing and the specified timber-movement allowance. Only approved hardware would be inspected for alignment, secure engagement, proud metal and sharp edges. Where the plan includes storage, it would be tested through full movement for binding, collision or excessive play. Under raking light, the finish would be checked for runs, missed areas, contamination and damage, and its handling or curing condition would follow product directions. Evidence would include final overall photographs, close joint and hardware images, stability and movement results, and an honest as-built note. Any loose joint, persistent rocking, unsafe hardware, structural crack or unresolved bind would require teacher review rather than a pass. The handover would finish with verified digital backups, safe project storage and a fully reset workshop."
+    "model": "I was the maker and Reviewer A completed the first check; we then swapped roles so I reviewed one criterion on their project. We used the approved plan and final-inspection criteria rather than personal preference. Reviewer A checked the storage movement and a close photograph, then noted that the component contacted near the closed position and suggested checking hardware seating before removing timber. I accepted the diagnostic part of the feedback because the contact point was observable and the least invasive process is to test alignment and hardware first. With teacher approval, I reseated the relevant fixing, completed a full movement retest and recorded before-and-after photographs plus the result in my folio. The bind was no longer present, so the evidence shows how the feedback was used. I kept the approved top-fixing decision because it matched the plan and allowed the required timber movement; I explained this rather than changing it to follow a preference. For handover, I cleaned and returned the measuring and holding tools while Reviewer A sorted reusable offcuts and cleared the bench and access path. We checked the shared items together and reported the condition to the teacher; no damaged or missing item was hidden."
   },
   {
     "title": "2. Diagnose two final faults",
