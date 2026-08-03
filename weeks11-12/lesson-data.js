@@ -3,6 +3,10 @@ window.LESSON_CONFIG = {
   "resetLabel": "Weeks 11–12",
   "title": "Bedside Table – Weeks 11–12"
 };
+window.THEORY_REFERENCES = {
+  mc: ["top-alignment", "movement", "movement", "fixing", "top-alignment", "stability", "fixing", "fixing", "fixing", "hardware", "tolerances", "tolerances"],
+  written: ["top-alignment", "movement", "stability", "hardware"]
+};
 window.MC_QUESTIONS = [
   {
     "question": "What is the strongest first check when positioning the bedside-table top?",
@@ -263,7 +267,7 @@ window.WRITTEN_QUESTIONS = [
       "How will you prevent the top shifting?",
       "What must the teacher approve before finishing?"
     ],
-    "model": "I would place the completed frame on a verified flat surface and check that it is stable, square and free from debris or proud joint material. The top would be inspected for grain orientation and distortion, then centred using the overhangs and references shown on the approved plan. I would compare all sides rather than relying on one corner. The assembly would be supported and clamped as directed so it cannot shift while the fixing positions are transferred. Before drilling, I would confirm the approved fixing method, movement allowance, fixing length and drill depth. Pilot holes would be drilled square and stopped before the visible surface. The top would be repositioned and its alignment checked again. Fixings would be started loosely, then tightened progressively while seating and overhangs were rechecked. They would secure the top without forcing a high corner flat or eliminating the specified movement allowance. The final hold point would confirm even seating, stability, safe hardware, alignment and timber-movement provision before finishing."
+    "model": "I would place the frame on a verified flat surface and check that it is stable, square and clean. I would inspect the top, then centre it using the overhangs and references on the approved plan. Before drilling, I would confirm the approved fixing method, movement allowance, screw length and drill depth. The assembly would be supported so it could not shift while the fixing positions were transferred. I would drill the pilot holes square, start each fixing loosely and tighten them progressively while rechecking the top. The final hold point would confirm even seating, stability, safe hardware, alignment and the required timber-movement allowance."
   },
   {
     "title": "2. Explain timber movement and the fixing method",

@@ -3,6 +3,10 @@ window.LESSON_CONFIG = {
   "resetLabel": "Weeks 5–6",
   "title": "Bedside Table – Weeks 5–6"
 };
+window.THEORY_REFERENCES = {
+  mc: ["joint", "mortiser", "joint", "controlled", "controlled", "apron", "apron", "controlled", "controlled", "apron", "joint", "joint"],
+  written: ["mortiser", "controlled", "joint", "controlled"]
+};
 window.MC_QUESTIONS = [
   {
     "question": "Which description correctly identifies a mortise-and-tenon joint?",

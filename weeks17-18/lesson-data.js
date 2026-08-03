@@ -3,6 +3,10 @@ window.LESSON_CONFIG = {
   "resetLabel": "Weeks 17–18",
   "title": "Bedside Table – Weeks 17–18"
 };
+window.THEORY_REFERENCES = {
+  mc: ["folio", "captions", "evaluation", "folio", "problem-solving", null, null, null, null, null, "evidence", "folio"],
+  written: ["folio", "captions", "evaluation", "evidence"]
+};
 window.MC_QUESTIONS = [
   {
     "question": "Which portfolio item provides the strongest manufacturing evidence?",

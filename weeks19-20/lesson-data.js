@@ -3,6 +3,10 @@ window.LESSON_CONFIG = {
   "resetLabel": "Weeks 19–20",
   "title": "Bedside Table – Weeks 19–20"
 };
+window.THEORY_REFERENCES = {
+  mc: ["inspection", "inspection", "diagnosis", "diagnosis", "diagnosis", "care", "submission", "submission", "reflection", "care", "care", "reset"],
+  written: ["reset", "diagnosis", "submission", "reflection"]
+};
 window.MC_QUESTIONS = [
   {
     "question": "Which final-work priority is strongest?",
@@ -294,7 +298,7 @@ window.WRITTEN_QUESTIONS = [
       "Does the record show what each participant contributed to the handover?",
       "Was any damaged, blunt, missing or unsafe item reported to the teacher?"
     ],
-    "model": "I was the maker and Reviewer A completed the first check; we then swapped roles so I reviewed one criterion on their project. We used the approved plan and final-inspection criteria rather than personal preference. Reviewer A checked the storage movement and a close photograph, then noted that the component contacted near the closed position and suggested checking hardware seating before removing timber. I accepted the diagnostic part of the feedback because the contact point was observable and the least invasive process is to test alignment and hardware first. With teacher approval, I reseated the relevant fixing, completed a full movement retest and recorded before-and-after photographs plus the result in my folio. The bind was no longer present, so the evidence shows how the feedback was used. I kept the approved top-fixing decision because it matched the plan and allowed the required timber movement; I explained this rather than changing it to follow a preference. For handover, I cleaned and returned the measuring and holding tools while Reviewer A sorted reusable offcuts and cleared the bench and access path. We checked the shared items together and reported the condition to the teacher; no damaged or missing item was hidden."
+    "model": "Reviewer A and I checked each other’s projects against the approved plan and final-inspection criteria. They found that my storage component contacted near the closed position and suggested checking the hardware before removing timber. With teacher approval, I reseated the relevant fixing, tested the full movement again and added before-and-after photographs to my folio. The bind was gone, so the evidence showed that the correction worked. I kept the approved top fixing because it matched the plan and allowed timber movement. For handover, we returned the tools, sorted reusable offcuts, cleared the bench and access path, and reported the condition to the teacher."
   },
   {
     "title": "2. Diagnose two final faults",

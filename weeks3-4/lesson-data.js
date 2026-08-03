@@ -3,6 +3,10 @@ window.LESSON_CONFIG = {
   "resetLabel": "Weeks 3–4",
   "title": "Bedside Table – Weeks 3–4"
 };
+window.THEORY_REFERENCES = {
+  mc: ["cutting-list", "fewtel", "selection", "fewtel", "fewtel", "fewtel", "fewtel", "fewtel", "selection", "matching", "quality-gates", "quality-gates"],
+  written: ["cutting-list", "fewtel", "selection", "quality-gates"]
+};
 window.MC_QUESTIONS = [
   {
     "question": "What is the main purpose of a cutting list?",

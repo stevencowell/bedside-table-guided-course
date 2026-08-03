@@ -3,6 +3,10 @@ window.LESSON_CONFIG = {
   "resetLabel": "Weeks 1–2",
   "title": "Bedside Table – Weeks 1–2"
 };
+window.THEORY_REFERENCES = {
+  mc: ["plans", "brief", "structure", "whs", "whs", "design", "design", "datums", "datums", "datums", "datums", "plans"],
+  written: ["plans", "whs", "design", "datums"]
+};
 window.MC_QUESTIONS = [
   {
     "question": "The plan is displayed smaller on your screen than it was when it was drawn. Which information should control the table dimensions?",

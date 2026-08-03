@@ -3,6 +3,10 @@ window.LESSON_CONFIG = {
   "resetLabel": "Weeks 7–8",
   "title": "Bedside Table – Weeks 7–8"
 };
+window.THEORY_REFERENCES = {
+  mc: ["dry-fit", "adhesives", "adhesives", "clamping", "diagonals", "clamping", "assembly-order", "hold-points", "assembly-order", "assembly-order", "adhesives", "diagonals"],
+  written: ["assembly-order", "diagonals", "adhesives", "assembly-order"]
+};
 window.MC_QUESTIONS = [
   {
     "question": "Why should a complete dry fit occur before adhesive is opened?",

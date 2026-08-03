@@ -3,6 +3,10 @@ window.LESSON_CONFIG = {
   "resetLabel": "Weeks 15–16",
   "title": "Bedside Table – Weeks 15–16"
 };
+window.THEORY_REFERENCES = {
+  mc: ["selection", "chemical", "sds-controls", "sds-controls", "sds-controls", "sds-controls", "chemical", "sds-controls", "sustainability", "sustainability", "selection", "drying"],
+  written: ["sds-controls", "sds-controls", "sustainability", "sustainability"]
+};
 window.MC_QUESTIONS = [
   {
     "question": "What should be checked before opening a finishing product?",

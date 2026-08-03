@@ -3,6 +3,10 @@ window.LESSON_CONFIG = {
   "resetLabel": "Weeks 9–10",
   "title": "Bedside Table – Weeks 9–10"
 };
+window.THEORY_REFERENCES = {
+  mc: ["approved-storage", "clearances", "drawer", "clearances", "front", "hardware", "hardware", "hardware", "testing", "testing", "clearances", "testing"],
+  written: ["approved-storage", "testing", "hardware", "testing"]
+};
 window.MC_QUESTIONS = [
   {
     "question": "What controls whether the bedside table includes a drawer, shelf or other storage component?",

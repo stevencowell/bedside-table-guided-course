@@ -3,6 +3,10 @@ window.LESSON_CONFIG = {
   "resetLabel": "Weeks 13–14",
   "title": "Bedside Table – Weeks 13–14"
 };
+window.THEORY_REFERENCES = {
+  mc: ["repair", "abrasives", "abrasives", "abrasives", "repair", { href: "../weeks15-16/index.html#drying", title: "Drying, curing, handling and between-stage preparation" }, "repair", "dust", null, null, "shaped", "raking"],
+  written: ["inspect", "repair", "shaped", "raking"]
+};
 window.MC_QUESTIONS = [
   {
     "question": "Why should dried glue be removed before normal finish sanding?",
