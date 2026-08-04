@@ -229,6 +229,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Plan an approved storage component",
     "prompt": "Explain how you would confirm, measure and construct the drawer or other storage component specified on your approved plan. Include actual-opening checks, component orientation, squareness, clearances and hold points.",
+    "clarification": "How will you make, fit and test the approved storage part?",
     "minWords": 150,
     "concepts": [
       {
@@ -272,6 +273,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "2. Diagnose an approved drawer that binds",
     "prompt": "The drawer or storage component operates for most of its travel but binds near one side as it closes. Explain a logical diagnostic sequence and the least invasive corrections you would consider.",
+    "clarification": "How will you make, fit and test the approved storage part?",
     "minWords": 140,
     "concepts": [
       {
@@ -316,6 +318,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "3. Fit approved hardware safely and accurately",
     "prompt": "Describe a controlled process for positioning and fitting the hardware specified on the approved plan. Include references, work holding, pilot holes, fixing selection, tool control and final inspection.",
+    "clarification": "How will you position, fit and check the approved hardware?",
     "minWords": 130,
     "concepts": [
       {
@@ -359,6 +362,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "4. Explain the evidence needed for storage-component quality",
     "prompt": "Select four pieces of evidence that would prove the approved storage component was planned, made, fitted and tested properly. Explain what each item proves.",
+    "clarification": "How will you make, fit and test the approved storage part?",
     "minWords": 120,
     "concepts": [
       {

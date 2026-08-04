@@ -229,6 +229,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Why does the drawing say “DO NOT SCALE DRAWING”?",
     "prompt": "Explain why measuring the printed or on-screen picture could create inaccurate table components. State what information should be used instead.",
+    "clarification": "Why can’t you measure the picture? What information should you use instead?",
     "minWords": 45,
     "concepts": [
       {
@@ -277,6 +278,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "2. Hazard, risk and controls for an early workshop task",
     "prompt": "Select one planned bedside-table process involving a hand tool or machine. Identify the hazard, describe a credible risk and explain at least two controls, including the relevant SOP or teacher direction.",
+    "clarification": "What could cause harm? What could happen? Which controls would make the task safer?",
     "minWords": 120,
     "concepts": [
       {
@@ -322,6 +324,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "3. Justify one approved design decision",
     "prompt": "Explain one decision about proportion, the curved front apron, tapered legs, timber appearance or an approved storage feature. Compare at least two options and justify the stronger choice using the brief, structure, appearance, manufacture and time.",
+    "clarification": "What options did you compare? Which choice is stronger, and why?",
     "minWords": 140,
     "concepts": [
       {
@@ -367,6 +370,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "4. Explain a reliable mark-out routine for matching components",
     "prompt": "Explain how you would prepare, label and mark a matched set of bedside-table legs or rails so joint positions, lengths, taper orientation, waste sides and visible faces remain consistent.",
+    "clarification": "What will you mark, where will you measure from, and how will you check it before cutting?",
     "minWords": 140,
     "concepts": [
       {

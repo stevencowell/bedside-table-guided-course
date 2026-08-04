@@ -229,6 +229,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Complete a peer quality-assurance critique and workshop handover record",
     "prompt": "With teacher approval, complete a peer quality-assurance check of the bedside table and shared-workshop handover. Record both participants and roles without using a full surname; the criterion and evidence inspected; the specific critique received; whether you accepted, modified or did not use it, with a technical justification; the action taken; before-and-after evidence or a retest; each person's handover contribution; and any fault reported to the teacher.",
+    "clarification": "What is causing the problem? What is the safest, smallest correction to try?",
     "minWords": 190,
     "concepts": [
       {
@@ -303,6 +304,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "2. Diagnose two final faults",
     "prompt": "The table rocks slightly on a level surface and its approved drawer binds near the closed position. Explain a step-by-step diagnostic plan and the least invasive corrections you would consider before removing timber.",
+    "clarification": "How will you make, fit and test the approved storage part?",
     "minWords": 160,
     "concepts": [
       {
@@ -348,6 +350,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "3. Prepare an authentic final submission",
     "prompt": "Describe how you would prepare the table and portfolio for submission. Include product presentation, as-built information, source acknowledgement, photographs, calculations or checks, evaluation, backups and treatment of a remaining fault.",
+    "clarification": "How well did it meet the criterion? What evidence, limitation and improvement can you give?",
     "minWords": 150,
     "concepts": [
       {
@@ -393,6 +396,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "4. Write a final reflective-practice response",
     "prompt": "Identify one successful habit to keep, one problem and its cause, one specific change for the next project and one transferable skill from the bedside-table unit. Explain how the future improvement would be verified.",
+    "clarification": "What worked, what caused a problem, and what will you change and check next time?",
     "minWords": 140,
     "concepts": [
       {

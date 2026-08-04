@@ -229,6 +229,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Turn a drawing into a practical cutting list",
     "prompt": "Explain what information should be recorded in a cutting list for the bedside table and why rough sizes may differ from finished sizes. Include how matching or mirrored components should be identified.",
+    "clarification": "What must the cutting list record? How will you check it against the drawing?",
     "minWords": 80,
     "concepts": [
       {
@@ -288,6 +289,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "2. Explain the FEWTEL timber-preparation sequence",
     "prompt": "Describe the FEWTEL process and explain why the order matters. Include at least three quality-control checks that should occur before the timber is accepted for table components.",
+    "clarification": "What order will you prepare the timber in? What checks show it is ready?",
     "minWords": 100,
     "concepts": [
       {
@@ -358,6 +360,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "3. Select timber for the bedside-table components",
     "prompt": "Explain how you would inspect and allocate rough timber to the top, tapered legs, rails and curved apron. Include grain direction, distortion, defects, appearance, machining allowance and waste reduction.",
+    "clarification": "What material or stock would you choose? Which properties make it suitable?",
     "minWords": 140,
     "concepts": [
       {
@@ -404,6 +407,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "4. Define the quality gate before joinery",
     "prompt": "Describe the checks that should be completed after timber preparation and before mortises, tenons or shaped profiles are marked. Explain how the checks prevent cumulative error.",
+    "clarification": "What must be checked before moving on? How does that stop errors building up?",
     "minWords": 120,
     "concepts": [
       {

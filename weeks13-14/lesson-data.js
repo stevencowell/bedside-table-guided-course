@@ -229,6 +229,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Plan the final surface-preparation sequence",
     "prompt": "Describe how you would inspect and prepare the thick top, tapered legs, rails, curved front apron and joint lines before the first approved finish coat.",
+    "clarification": "What finish choices or steps must you compare? Which controls and checks matter?",
     "minWords": 150,
     "concepts": [
       {
@@ -274,6 +275,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "2. Distinguish a surface issue from a structural issue",
     "prompt": "Compare one surface fault and one structural fault that might be found before finishing. Explain the evidence, suitable response and point at which teacher advice is required.",
+    "clarification": "What is causing the problem? What is the safest, smallest correction to try?",
     "minWords": 120,
     "concepts": [
       {
@@ -319,6 +321,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "3. Preserve the tapered legs and curved apron during sanding",
     "prompt": "Explain how abrasive choice, support, pressure, grain direction and comparison of matching components protect the approved bedside-table shape.",
+    "clarification": "What will you mark, where will you measure from, and how will you check it before cutting?",
     "minWords": 120,
     "concepts": [
       {
@@ -362,6 +365,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "4. Record the inspection-before-finishing hold point",
     "prompt": "Write a concise inspection record that identifies the checks completed, any repair decision, evidence collected and the reason the table is ready—or not ready—for finishing.",
+    "clarification": "What must you include in the inspection-before-finishing hold point?",
     "minWords": 110,
     "concepts": [
       {

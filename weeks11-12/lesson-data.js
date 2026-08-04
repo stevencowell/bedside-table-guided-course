@@ -229,6 +229,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Plan the top-fitting sequence",
     "prompt": "Describe how you would position, mark, drill and secure the bedside-table top using the approved fixing method. Include frame checks, overhangs, support, pilot holes, progressive tightening and a final hold point.",
+    "clarification": "How will you position, fit and check the approved hardware?",
     "minWords": 150,
     "concepts": [
       {
@@ -272,6 +273,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "2. Explain timber movement and the fixing method",
     "prompt": "Explain why a solid timber top changes across the grain and how the approved fixing method must keep it secure without creating damaging cross-grain restraint.",
+    "clarification": "How will you position, fit and check the approved hardware?",
     "minWords": 140,
     "concepts": [
       {
@@ -317,6 +319,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "3. Diagnose a top that rocks or sits unevenly",
     "prompt": "During trial fitting, the top contacts the frame at three points but one corner remains high. Explain how you would diagnose the cause and select the least invasive approved correction.",
+    "clarification": "What will you check during the trial fit? What would you fix before joining permanently?",
     "minWords": 130,
     "concepts": [
       {
@@ -361,6 +364,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "4. Complete final hardware checks",
     "prompt": "Explain a systematic final inspection of only the hardware specified on the approved plan. Include alignment, secure fixing, smooth operation where relevant, pilot-hole evidence, proud metal, sharp edges and the risk of over-tightening.",
+    "clarification": "How will you position, fit and check the approved hardware?",
     "minWords": 120,
     "concepts": [
       {

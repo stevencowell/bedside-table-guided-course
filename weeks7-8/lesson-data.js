@@ -229,6 +229,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Plan a controlled bedside-table frame glue-up",
     "prompt": "Describe the sequence you would use to dry-fit, prepare, glue, clamp and inspect the bedside-table frame. Include orientation, adhesive open time, clamp placement, squareness and squeeze-out.",
+    "clarification": "What will you check during the trial fit? What would you fix before joining permanently?",
     "minWords": 125,
     "concepts": [
       {
@@ -297,6 +298,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "2. Diagnose a racked frame during glue-up",
     "prompt": "During glue-up, one diagonal is 5 mm longer than the other and a rail has begun to bow. Explain the likely role of clamp position or pressure and describe a controlled correction.",
+    "clarification": "What is the safe glue-up order? How will you check alignment, pressure and clean-up?",
     "minWords": 95,
     "concepts": [
       {
@@ -365,6 +367,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "3. Control adhesive, squeeze-out and curing",
     "prompt": "Explain how you would prepare and apply the teacher-approved adhesive during the table-frame glue-up. Include surface condition, coverage, open time, clamp pressure, squeeze-out, final checks and curing.",
+    "clarification": "What is the safe glue-up order? How will you check alignment, pressure and clean-up?",
     "minWords": 140,
     "concepts": [
       {
@@ -409,6 +412,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "4. Build a realistic two-week production plan",
     "prompt": "Create a short production plan for final dry assembly, glue-up, surface preparation and the top-fitting or surface-preparation stage. Explain the dependencies, at least two hold points, a useful buffer and one task that can occur in parallel.",
+    "clarification": "What will you check during the trial fit? What would you fix before joining permanently?",
     "minWords": 125,
     "concepts": [
       {

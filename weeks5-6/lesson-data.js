@@ -229,6 +229,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Safe and accurate use of a hollow-chisel mortiser",
     "prompt": "Explain a safe setup and operating routine for cutting a practice mortise. Include work holding, machine checks, plunging technique and what to do if the chisel binds.",
+    "clarification": "How will you set up and work safely? When would you stop and ask for help?",
     "minWords": 95,
     "concepts": [
       {
@@ -291,6 +292,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "2. Plan a safe curved bandsaw cut",
     "prompt": "Describe how you would prepare, cut and refine the broad curved apron or one tapered leg. Include marking, waste, guard position, hand placement, relief cuts and the final quality check.",
+    "clarification": "How will you mark, cut and check the curve safely?",
     "minWords": 105,
     "concepts": [
       {
@@ -363,6 +365,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "3. Diagnose and refine a tight tenon",
     "prompt": "A practice tenon enters the mortise about halfway, is tighter on one side and leaves a small shoulder gap. Explain how you would diagnose the problem and refine the joint without making it loose.",
+    "clarification": "What is causing the poor fit? How would you correct it without making the joint loose?",
     "minWords": 100,
     "concepts": [
       {
@@ -431,6 +434,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "4. Explain how quality gates protect the bedside-table frame",
     "prompt": "Explain how at least three quality gates between marking, bandsaw shaping, mortising or tenon cutting, refinement and dry fitting can prevent cumulative error in the bedside-table frame.",
+    "clarification": "What must be checked before moving on? How does that stop errors building up?",
     "minWords": 110,
     "concepts": [
       {

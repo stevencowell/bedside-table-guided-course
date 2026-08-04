@@ -229,6 +229,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Select a concise portfolio evidence set",
     "prompt": "Choose six items that would form a strong evidence chain for the bedside-table portfolio. For each item, explain what it proves and why it is stronger than adding several unlabelled photographs.",
+    "clarification": "Which evidence will you include? What does each item prove?",
     "minWords": 135,
     "concepts": [
       {
@@ -298,6 +299,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "2. Write a strong production caption",
     "prompt": "Write a portfolio caption for a photograph showing the dry-fitted tapered-leg frame and a close-up of one mortise-and-tenon joint. The first diagonal check showed racking, which was corrected before glue-up.",
+    "clarification": "What will you check during the trial fit? What would you fix before joining permanently?",
     "minWords": 100,
     "concepts": [
       {
@@ -341,6 +343,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "3. Evaluate one project criterion with evidence",
     "prompt": "Evaluate the completed bedside table against one criterion for stability, approved storage operation, top fitting, accuracy or finish. Include evidence, a limitation, likely cause and one specific improvement.",
+    "clarification": "How well did it meet the criterion? What evidence, limitation and improvement can you give?",
     "minWords": 140,
     "concepts": [
       {
@@ -385,6 +388,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "4. Explain how key processes work together",
     "prompt": "Explain how accurate measuring, FEWTEL timber preparation, matched-component checks, mortise-and-tenon fitting, dry assembly and controlled glue-up work together to produce a stable bedside table.",
+    "clarification": "What order will you prepare the timber in? What checks show it is ready?",
     "minWords": 160,
     "concepts": [
       {
