@@ -35,3 +35,6 @@
 @media (max-width: 700px) {
   .module-pathway .week-grid { grid-template-columns: 1fr; }
 }
+
+/* Centre the project and remove the unused dark area from the hero crop. */
+.course-family-hero .hero-showcase .hero-chair { object-fit:cover !important; object-position:72% center !important; padding:0 !important; }
