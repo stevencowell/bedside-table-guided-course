@@ -1,0 +1,2976 @@
+{
+  "buildId": "section-video-2026-08-16T01:54:09.385Z",
+  "course": "Bedside Table",
+  "repo": "bedside-table-guided-course",
+  "validationDate": "2026-08-16",
+  "status": "PASS",
+  "videos": [
+    {
+      "module": "weeks1-2",
+      "route": "weeks1-2/index.html",
+      "section": "brief",
+      "heading": "Understanding the project brief and success criteria",
+      "query": "Understanding the project brief and success criteria woodworking education",
+      "watchFor": "the decisions, checks and sequence connected to understanding the project brief and success criteria.",
+      "selected": {
+        "id": "yYabrK8M9bg",
+        "title": "Beginning a Design Brief   Wood Technology",
+        "author": "carol odwyer",
+        "url": "https://www.youtube.com/watch?v=yYabrK8M9bg",
+        "validated": "2026-08-16",
+        "score": 100,
+        "review": "targeted topic match"
+      },
+      "alternatives": [
+        {
+          "id": "6pIG2O9vtWE",
+          "title": "Make Woodworking Your Career || You Should Do These 10 Things",
+          "author": "Bourbon Moth Woodworking",
+          "url": "https://www.youtube.com/watch?v=6pIG2O9vtWE",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "gFmOvivL-fM",
+          "title": "Introduction to Woodworking in a Waldorf School",
+          "author": "Practical Arts with Jack Bryant",
+          "url": "https://www.youtube.com/watch?v=gFmOvivL-fM",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "PCoWqTmPLMY",
+          "title": "Ultimate Guide To LUMBER!! Learn Every Lumber SECRET...(Framing Lumber, Plywood, Treated Lumber...)",
+          "author": "The Honest Carpenter",
+          "url": "https://www.youtube.com/watch?v=PCoWqTmPLMY",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "DCyBplfL2dU",
+          "title": "How to Sell Woodworking Projects and Woodworking Business Tips",
+          "author": "731 Woodworks",
+          "url": "https://www.youtube.com/watch?v=DCyBplfL2dU",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks1-2",
+      "route": "weeks1-2/index.html",
+      "section": "plans",
+      "heading": "Reading the project plans accurately",
+      "query": "Reading the project plans accurately woodworking education",
+      "watchFor": "the decisions, checks and sequence connected to reading the project plans accurately.",
+      "selected": {
+        "id": "kobWAwJKK_o",
+        "title": "How To Read And Use Woodworking Plans And Blueprints",
+        "author": "Woodwork Lovers",
+        "url": "https://www.youtube.com/watch?v=kobWAwJKK_o",
+        "validated": "2026-08-16",
+        "score": 10
+      },
+      "alternatives": [
+        {
+          "id": "DSuP4YkaJ40",
+          "title": "How To: Reading Construction Blueprints & Plans | #1",
+          "author": "MattBangsWood",
+          "url": "https://www.youtube.com/watch?v=DSuP4YkaJ40",
+          "validated": "2026-08-16",
+          "score": 10
+        },
+        {
+          "id": "csgUQtuzGzk",
+          "title": "How To Draw Woodworking Plans by Hand -  Sawinery Project Designer",
+          "author": "Sawinery Woodworking",
+          "url": "https://www.youtube.com/watch?v=csgUQtuzGzk",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "zSj6nSlGaOk",
+          "title": "Woodworking: Making a Plan",
+          "author": "TimTools99",
+          "url": "https://www.youtube.com/watch?v=zSj6nSlGaOk",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "LWUDlzm0VxU",
+          "title": "Why Accuracy Matters in Woodworking - Common Mistakes to Avoid",
+          "author": "Jonathan Katz-Moses",
+          "url": "https://www.youtube.com/watch?v=LWUDlzm0VxU",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks1-2",
+      "route": "weeks1-2/index.html",
+      "section": "structure",
+      "heading": "How the bedside table carries load and stays stable",
+      "query": "How the carries load and stays stable woodworking education",
+      "watchFor": "the decisions, checks and sequence connected to how the bedside table carries load and stays stable.",
+      "selected": {
+        "id": "CyUBGhmfewM",
+        "title": "Robust Table Legs Mortise Joint  - DIY Woodworking Projects",
+        "author": "Wood Art",
+        "url": "https://www.youtube.com/watch?v=CyUBGhmfewM",
+        "validated": "2026-08-16",
+        "score": 100,
+        "review": "targeted topic match"
+      },
+      "alternatives": [
+        {
+          "id": "s4obuKwuoCg",
+          "title": "Easiest way to carry lumber is balancing it on your shoulder #carpentry #framer #reno #woodwork #diy",
+          "author": "Meyers Makes",
+          "url": "https://www.youtube.com/watch?v=s4obuKwuoCg",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "oZkYLVrTYe4",
+          "title": "The Way Wood Works -- What Every Woodworker Needs to Know About Wood.",
+          "author": "Workshop Companion",
+          "url": "https://www.youtube.com/watch?v=oZkYLVrTYe4",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "m3CqH4DjVlI",
+          "title": "15 woodworking basics you should know",
+          "author": "DIY Montreal",
+          "url": "https://www.youtube.com/watch?v=m3CqH4DjVlI",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "Gcy8jJF3AJ0",
+          "title": "easiest way to carry lumber, balance it on your shoulder #lumber #carpentry #framer #hometips #reno",
+          "author": "Meyers Makes",
+          "url": "https://www.youtube.com/watch?v=Gcy8jJF3AJ0",
+          "validated": "2026-08-16",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "module": "weeks1-2",
+      "route": "weeks1-2/index.html",
+      "section": "whs",
+      "heading": "Workshop safety and risk controls",
+      "query": "Workshop safety and risk controls woodworking safety training",
+      "watchFor": "the decisions, checks and sequence connected to workshop safety and risk controls.",
+      "selected": {
+        "id": "ZXQCkgZeHWU",
+        "title": "Whillow Woodworking Workshop Safety",
+        "author": "Omar Wilkinson",
+        "url": "https://www.youtube.com/watch?v=ZXQCkgZeHWU",
+        "validated": "2026-08-16",
+        "score": 10
+      },
+      "alternatives": [
+        {
+          "id": "K7xAM4DmhvA",
+          "title": "GENERAL WORKSHOP SAFETY - VICTORIAN WOODWORKERS ASSOCIATION SCHOOL OF WOODCRAFT",
+          "author": "Victorian Woodworkers Association",
+          "url": "https://www.youtube.com/watch?v=K7xAM4DmhvA",
+          "validated": "2026-08-16",
+          "score": 10
+        },
+        {
+          "id": "8-9RnutP6xU",
+          "title": "Woodwork workshop safety",
+          "author": "adrian tomlins",
+          "url": "https://www.youtube.com/watch?v=8-9RnutP6xU",
+          "validated": "2026-08-16",
+          "score": 10
+        },
+        {
+          "id": "tKWs5tcvlII",
+          "title": "The definitive guide to woodworking safety. BACK TO BASICS.",
+          "author": "Steve Ramsey - Woodworking for Mere Mortals",
+          "url": "https://www.youtube.com/watch?v=tKWs5tcvlII",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "hDyXlwSvkKM",
+          "title": "Woodshop safety",
+          "author": "Pallet Snobs",
+          "url": "https://www.youtube.com/watch?v=hDyXlwSvkKM",
+          "validated": "2026-08-16",
+          "score": 6
+        }
+      ]
+    },
+    {
+      "module": "weeks1-2",
+      "route": "weeks1-2/index.html",
+      "section": "design",
+      "heading": "Design criteria, sketches and approved choices",
+      "query": "Design criteria, sketches and approved choices design technology education",
+      "watchFor": "the decisions, checks and sequence connected to design criteria, sketches and approved choices.",
+      "selected": {
+        "id": "6zgdVc6U_2I",
+        "title": "Design and Technologies: what are they for?",
+        "author": "Teaching and Learning in South Australia",
+        "url": "https://www.youtube.com/watch?v=6zgdVc6U_2I",
+        "validated": "2026-08-16",
+        "score": 6
+      },
+      "alternatives": [
+        {
+          "id": "WpcUjL_6m3Y",
+          "title": "Design & Technology - 3D Design  [Options 2024]",
+          "author": "David Nieper Academy",
+          "url": "https://www.youtube.com/watch?v=WpcUjL_6m3Y",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "7mpSd9U4g5Y",
+          "title": "Selection of Materials & Working with Materials - GCSE/KS3 Design & Technology | Product Design",
+          "author": "MRHill_DT",
+          "url": "https://www.youtube.com/watch?v=7mpSd9U4g5Y",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "vSG0L-1LmAU",
+          "title": "Design & technology",
+          "author": "Study Higher",
+          "url": "https://www.youtube.com/watch?v=vSG0L-1LmAU",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "KoleGSKiEEk",
+          "title": "Year 9 Options 2022   GCSE Design & Technology",
+          "author": "St Ambrose College",
+          "url": "https://www.youtube.com/watch?v=KoleGSKiEEk",
+          "validated": "2026-08-16",
+          "score": 6
+        }
+      ]
+    },
+    {
+      "module": "weeks1-2",
+      "route": "weeks1-2/index.html",
+      "section": "datums",
+      "heading": "Datums, face side, face edge and matched components",
+      "query": "Datums, face side, face edge and matched components woodworking tutorial",
+      "watchFor": "the decisions, checks and sequence connected to datums, face side, face edge and matched components.",
+      "selected": {
+        "id": "iWSYeGkBh38",
+        "title": "Face Side Face Edge [basis of woodworking]",
+        "author": "WoodED Joinery & Academy ",
+        "url": "https://www.youtube.com/watch?v=iWSYeGkBh38",
+        "validated": "2026-08-16",
+        "score": 14
+      },
+      "alternatives": [
+        {
+          "id": "cwo6GPqaizk",
+          "title": "Face Side & Edge Marks",
+          "author": "Leo Gwizdala",
+          "url": "https://www.youtube.com/watch?v=cwo6GPqaizk",
+          "validated": "2026-08-16",
+          "score": 12
+        },
+        {
+          "id": "0w0h6JI-_mk",
+          "title": "selecting face side and face edge",
+          "author": "David Gallagher",
+          "url": "https://www.youtube.com/watch?v=0w0h6JI-_mk",
+          "validated": "2026-08-16",
+          "score": 12
+        },
+        {
+          "id": "SNaSW5b9aWE",
+          "title": "Face edge and face side",
+          "author": "Mike Worth",
+          "url": "https://www.youtube.com/watch?v=SNaSW5b9aWE",
+          "validated": "2026-08-16",
+          "score": 12
+        },
+        {
+          "id": "0bXU5VBjG30",
+          "title": "How to Mark Face & Edge Sides on Timber: A Crucial Step for Accuracy",
+          "author": "BlueWood Handyman",
+          "url": "https://www.youtube.com/watch?v=0bXU5VBjG30",
+          "validated": "2026-08-16",
+          "score": 10
+        }
+      ]
+    },
+    {
+      "module": "weeks3-4",
+      "route": "weeks3-4/index.html",
+      "section": "drawings",
+      "heading": "Working drawings, dimensions and component orientation",
+      "query": "Working drawings, dimensions and component orientation design technology education",
+      "watchFor": "the decisions, checks and sequence connected to working drawings, dimensions and component orientation.",
+      "selected": {
+        "id": "OZrsIU6oj1M",
+        "title": "Working Drawings: Adding Dimensions",
+        "author": "DT 101",
+        "url": "https://www.youtube.com/watch?v=OZrsIU6oj1M",
+        "validated": "2026-08-16",
+        "score": 10
+      },
+      "alternatives": [
+        {
+          "id": "ht9GwXQMgpo",
+          "title": "Understanding Engineering Drawings",
+          "author": "The Efficient Engineer",
+          "url": "https://www.youtube.com/watch?v=ht9GwXQMgpo",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "XIfOtKO3FJU",
+          "title": "Dimensions in Engineering Drawing Explained (ISO)",
+          "author": "Newtonian World",
+          "url": "https://www.youtube.com/watch?v=XIfOtKO3FJU",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "gvlPcXE7kDw",
+          "title": "Working Drawings",
+          "author": "CAD Training Now",
+          "url": "https://www.youtube.com/watch?v=gvlPcXE7kDw",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "BrpyUKrJ5wg",
+          "title": "How to read an ENGINEERING DRAWING",
+          "author": "JAES Company ",
+          "url": "https://www.youtube.com/watch?v=BrpyUKrJ5wg",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks3-4",
+      "route": "weeks3-4/index.html",
+      "section": "cutting-list",
+      "heading": "From working drawing to cutting list",
+      "query": "From working drawing to cutting list design technology education",
+      "watchFor": "the decisions, checks and sequence connected to from working drawing to cutting list.",
+      "selected": {
+        "id": "54SC9kR2J_4",
+        "title": "Working drawings and cutting lists",
+        "author": "B Sheridan",
+        "url": "https://www.youtube.com/watch?v=54SC9kR2J_4",
+        "validated": "2026-08-16",
+        "score": 10
+      },
+      "alternatives": [
+        {
+          "id": "BfALeEDkuF4",
+          "title": "Cutting list Basic",
+          "author": "support thailand",
+          "url": "https://www.youtube.com/watch?v=BfALeEDkuF4",
+          "validated": "2026-08-16",
+          "score": 8
+        },
+        {
+          "id": "Orj-WF4MrUk",
+          "title": "Cutting List Explained",
+          "author": "Tony Hurley",
+          "url": "https://www.youtube.com/watch?v=Orj-WF4MrUk",
+          "validated": "2026-08-16",
+          "score": 8
+        },
+        {
+          "id": "vJa3Px_ABlE",
+          "title": "Design & Technology  G8 U5L3 Tool Technology   Cutting Tools",
+          "author": "Student Support Programme",
+          "url": "https://www.youtube.com/watch?v=vJa3Px_ABlE",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "9p1je7_9KLM",
+          "title": "MCTI-Drafting & Design Technology",
+          "author": "MonroeCTI",
+          "url": "https://www.youtube.com/watch?v=9p1je7_9KLM",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks3-4",
+      "route": "weeks3-4/index.html",
+      "section": "selection",
+      "heading": "Timber selection, grain direction and defects",
+      "query": "Timber selection, grain direction and defects woodworking tutorial",
+      "watchFor": "the decisions, checks and sequence connected to timber selection, grain direction and defects.",
+      "selected": {
+        "id": "2ZUxPnAvDKE",
+        "title": "Grain Direction & Timber Defects",
+        "author": "Josh Dwyer",
+        "url": "https://www.youtube.com/watch?v=2ZUxPnAvDKE",
+        "validated": "2026-08-16",
+        "score": 18
+      },
+      "alternatives": [
+        {
+          "id": "S7F6bCRBUDg",
+          "title": "Reading Wood Grain Direction - 2 Minute Tuesday",
+          "author": "Jonathan Katz-Moses",
+          "url": "https://www.youtube.com/watch?v=S7F6bCRBUDg",
+          "validated": "2026-08-16",
+          "score": 10
+        },
+        {
+          "id": "aZ98Hj2RVo0",
+          "title": "Understanding Grain Direction and Runout: Planing Downhill",
+          "author": "Bob's Wood Stuff",
+          "url": "https://www.youtube.com/watch?v=aZ98Hj2RVo0",
+          "validated": "2026-08-16",
+          "score": 10
+        },
+        {
+          "id": "BBNHw0rMr1Q",
+          "title": "Why Your Woodturning Fails? Check Your Grain Direction",
+          "author": "Mike Peace Woodturning",
+          "url": "https://www.youtube.com/watch?v=BBNHw0rMr1Q",
+          "validated": "2026-08-16",
+          "score": 10
+        },
+        {
+          "id": "IOgW9A0Y1GA",
+          "title": "Quick Tip: Reading Grain Direction",
+          "author": "An American Artisan",
+          "url": "https://www.youtube.com/watch?v=IOgW9A0Y1GA",
+          "validated": "2026-08-16",
+          "score": 8
+        }
+      ]
+    },
+    {
+      "module": "weeks3-4",
+      "route": "weeks3-4/index.html",
+      "section": "fewtel",
+      "heading": "Preparing timber with the FEWTEL sequence",
+      "query": "Preparing timber with the FEWTEL sequence woodworking tutorial",
+      "watchFor": "the decisions, checks and sequence connected to preparing timber with the fewtel sequence.",
+      "selected": {
+        "id": "NP2HE-0Z5IQ",
+        "title": "Preparing timber: Part 1",
+        "author": "GetWoodworking",
+        "url": "https://www.youtube.com/watch?v=NP2HE-0Z5IQ",
+        "validated": "2026-08-16",
+        "score": 10
+      },
+      "alternatives": [
+        {
+          "id": "CWiIQO1TuXo",
+          "title": "Preparing Timber for Your Next Woodworking Project",
+          "author": "Range Woodworking",
+          "url": "https://www.youtube.com/watch?v=CWiIQO1TuXo",
+          "validated": "2026-08-16",
+          "score": 10
+        },
+        {
+          "id": "yv7Y4XGYDVw",
+          "title": "09. Preparation of Timber",
+          "author": "Josh Dwyer",
+          "url": "https://www.youtube.com/watch?v=yv7Y4XGYDVw",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "ydDS6GHbqPA",
+          "title": "Japanese joinery secret strength simplicity",
+          "author": "WOODWORKING ",
+          "url": "https://www.youtube.com/watch?v=ydDS6GHbqPA",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "WcKEtI4CD9w",
+          "title": "F E W T E L  System",
+          "author": "Mike Doyle",
+          "url": "https://www.youtube.com/watch?v=WcKEtI4CD9w",
+          "validated": "2026-08-16",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "module": "weeks3-4",
+      "route": "weeks3-4/index.html",
+      "section": "matching",
+      "heading": "Matching visible components and grain orientation",
+      "query": "Matching visible components and grain orientation woodworking tutorial",
+      "watchFor": "the decisions, checks and sequence connected to matching visible components and grain orientation.",
+      "selected": {
+        "id": "5zhElYEDiAg",
+        "title": "Optimizing Grain Orientation  for Wood Movement - The 2nd Component of Strong Joinery",
+        "author": "Joint Effort / Plate 11",
+        "url": "https://www.youtube.com/watch?v=5zhElYEDiAg",
+        "validated": "2026-08-16",
+        "score": 14
+      },
+      "alternatives": [
+        {
+          "id": "S7F6bCRBUDg",
+          "title": "Reading Wood Grain Direction - 2 Minute Tuesday",
+          "author": "Jonathan Katz-Moses",
+          "url": "https://www.youtube.com/watch?v=S7F6bCRBUDg",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "FfzRGxA6YoI",
+          "title": "Wood Grain Direction & How to Tame it.",
+          "author": "Woodworking Masterclass",
+          "url": "https://www.youtube.com/watch?v=FfzRGxA6YoI",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "BBNHw0rMr1Q",
+          "title": "Why Your Woodturning Fails? Check Your Grain Direction",
+          "author": "Mike Peace Woodturning",
+          "url": "https://www.youtube.com/watch?v=BBNHw0rMr1Q",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "IOgW9A0Y1GA",
+          "title": "Quick Tip: Reading Grain Direction",
+          "author": "An American Artisan",
+          "url": "https://www.youtube.com/watch?v=IOgW9A0Y1GA",
+          "validated": "2026-08-16",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "module": "weeks3-4",
+      "route": "weeks3-4/index.html",
+      "section": "quality-gates",
+      "heading": "Labelling, checking and hold points before joinery",
+      "query": "Labelling, checking and hold points before joinery woodworking education",
+      "watchFor": "the decisions, checks and sequence connected to labelling, checking and hold points before joinery.",
+      "selected": {
+        "id": "-f7tTNRH_04",
+        "title": "Basic Wood Joinery",
+        "author": "Eric Brennan",
+        "url": "https://www.youtube.com/watch?v=-f7tTNRH_04",
+        "validated": "2026-08-16",
+        "score": 6
+      },
+      "alternatives": [
+        {
+          "id": "uzlkhkYbfZg",
+          "title": "Watch this Before Buying Woodworking Layout, Marking & Measuring Tools (Part 2)",
+          "author": "Wood and Shop",
+          "url": "https://www.youtube.com/watch?v=uzlkhkYbfZg",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "nuEz8TtrfjM",
+          "title": "The Work Around: How to Mark Wood Accurately Before Cutting | HGTV",
+          "author": "HGTV",
+          "url": "https://www.youtube.com/watch?v=nuEz8TtrfjM",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "NZMTLkVdS5E",
+          "title": "Mastering Accuracy: A No-BS Guide to Marking and Measuring Tools",
+          "author": "Jonathan Katz-Moses",
+          "url": "https://www.youtube.com/watch?v=NZMTLkVdS5E",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "6NBXTBKWb5Y",
+          "title": "Measuring & Marking Tools: You're Not Doing It Wrong (Ignore the Hype)",
+          "author": "Simon Metz Woodworking",
+          "url": "https://www.youtube.com/watch?v=6NBXTBKWb5Y",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks5-6",
+      "route": "weeks5-6/index.html",
+      "section": "frame",
+      "heading": "Frame components and the structural load path",
+      "query": "Frame components and the structural load path woodworking education",
+      "watchFor": "the decisions, checks and sequence connected to frame components and the structural load path.",
+      "selected": {
+        "id": "y3HFEDf0DoQ",
+        "title": "Lateral Load Path Basics: Tracing a wind load through a wood framed structure",
+        "author": "APA – The Engineered Wood Association",
+        "url": "https://www.youtube.com/watch?v=y3HFEDf0DoQ",
+        "validated": "2026-08-16",
+        "score": 10
+      },
+      "alternatives": [
+        {
+          "id": "gR95rbYbCw4",
+          "title": "Wood Framing Explained! - Load Paths and Shear Walls",
+          "author": "Building A Better Way with Earth Bound Homes",
+          "url": "https://www.youtube.com/watch?v=gR95rbYbCw4",
+          "validated": "2026-08-16",
+          "score": 10
+        },
+        {
+          "id": "rfCiK3zb1Ew",
+          "title": "Lateral Load Path Basics II: Tracing a Seismic Load Through a Wood Framed Structure",
+          "author": "APA – The Engineered Wood Association",
+          "url": "https://www.youtube.com/watch?v=rfCiK3zb1Ew",
+          "validated": "2026-08-16",
+          "score": 10
+        },
+        {
+          "id": "B1b1HSGYB3g",
+          "title": "Basic Load Paths",
+          "author": "AwesomeFramers",
+          "url": "https://www.youtube.com/watch?v=B1b1HSGYB3g",
+          "validated": "2026-08-16",
+          "score": 8
+        },
+        {
+          "id": "c7_q1WdVhTw",
+          "title": "Review the parts of a wall with rough openings  - A mini lesson from TradeSkillsU.com Framing Course",
+          "author": "TEACH Construction Community Education",
+          "url": "https://www.youtube.com/watch?v=c7_q1WdVhTw",
+          "validated": "2026-08-16",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "module": "weeks5-6",
+      "route": "weeks5-6/index.html",
+      "section": "joint",
+      "heading": "How a mortise-and-tenon joint works",
+      "query": "How a mortise-and-tenon joint works woodworking tutorial",
+      "watchFor": "the decisions, checks and sequence connected to how a mortise-and-tenon joint works.",
+      "selected": {
+        "id": "KOEYimvaQz4",
+        "title": "How to Make Mortise and Tenon Joints with Hand Tools",
+        "author": "Wood and Shop",
+        "url": "https://www.youtube.com/watch?v=KOEYimvaQz4",
+        "validated": "2026-08-16",
+        "score": 6
+      },
+      "alternatives": [
+        {
+          "id": "2K24Vnx5c_4",
+          "title": "HOW TO CUT CRISP MORTISE AND TENON JOINTS LIKE A PRO!  [WOODWORKING]",
+          "author": "Brewbuilds",
+          "url": "https://www.youtube.com/watch?v=2K24Vnx5c_4",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "aBodzmUGtdw",
+          "title": "How to make a Mortise and Tenon Joint - The Three Joints - | Paul Sellers",
+          "author": "Paul Sellers",
+          "url": "https://www.youtube.com/watch?v=aBodzmUGtdw",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "gHGk8_0wzEw",
+          "title": "Mortise And Tenon Joint For Beginners",
+          "author": "Woodworking Skill",
+          "url": "https://www.youtube.com/watch?v=gHGk8_0wzEw",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "bm36OJTL08I",
+          "title": "How to Make Simple Mortise & Tenon Joints",
+          "author": "Newton Makes",
+          "url": "https://www.youtube.com/watch?v=bm36OJTL08I",
+          "validated": "2026-08-16",
+          "score": 6
+        }
+      ]
+    },
+    {
+      "module": "weeks5-6",
+      "route": "weeks5-6/index.html",
+      "section": "mortiser",
+      "heading": "Hollow-chisel mortiser: set-up, control and test pieces",
+      "query": "Hollow-chisel mortiser: set-up, control and test pieces woodworking safety training",
+      "watchFor": "the decisions, checks and sequence connected to hollow-chisel mortiser: set-up, control and test pieces.",
+      "selected": {
+        "id": "0Pf_vbnoFQ4",
+        "title": "How to Set Up and Use a Mortising Machine | Hollow Chisel Mortiser",
+        "author": "WoodworkersJournal",
+        "url": "https://www.youtube.com/watch?v=0Pf_vbnoFQ4",
+        "validated": "2026-08-16",
+        "score": 6
+      },
+      "alternatives": [
+        {
+          "id": "T19ea5_phDg",
+          "title": "Hollow Chisel Mortiser - Purchase, Use, and Maintenance",
+          "author": "The Wood Whisperer",
+          "url": "https://www.youtube.com/watch?v=T19ea5_phDg",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "KO4GM7J3zmc",
+          "title": "Mortise Machine Basics - How to use a Hollow Chisel Mortiser",
+          "author": "Jon Peters - Longview Woodworking",
+          "url": "https://www.youtube.com/watch?v=KO4GM7J3zmc",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "1r01Z-KIpKE",
+          "title": "Set up and using a hollow chisel morticer (mortiser)",
+          "author": "Matthew Richardson",
+          "url": "https://www.youtube.com/watch?v=1r01Z-KIpKE",
+          "validated": "2026-08-16",
+          "score": 4
+        },
+        {
+          "id": "cIwEzem7NB0",
+          "title": "Hollow Chisel Mortiser Tips and Tricks",
+          "author": "RobCosman.com",
+          "url": "https://www.youtube.com/watch?v=cIwEzem7NB0",
+          "validated": "2026-08-16",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "module": "weeks5-6",
+      "route": "weeks5-6/index.html",
+      "section": "tapers",
+      "heading": "Marking and shaping matched tapered legs",
+      "query": "Marking and shaping matched tapered legs woodworking tutorial",
+      "watchFor": "the decisions, checks and sequence connected to marking and shaping matched tapered legs.",
+      "selected": {
+        "id": "vkzfI3zcknw",
+        "title": "Making tapered legs doesn't have to be difficult. Essential woodworking shop project.",
+        "author": "Steve Ramsey - Woodworking for Mere Mortals",
+        "url": "https://www.youtube.com/watch?v=vkzfI3zcknw",
+        "validated": "2026-08-16",
+        "score": 6
+      },
+      "alternatives": [
+        {
+          "id": "q8J7lZtuddM",
+          "title": "2 sided taper jig for table legs #woodworking",
+          "author": "Mark Palmquist",
+          "url": "https://www.youtube.com/watch?v=q8J7lZtuddM",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "vm3STj1FtAA",
+          "title": "Crafting Round tapered legs #woodworking #diy #howto",
+          "author": "Hew & Awe",
+          "url": "https://www.youtube.com/watch?v=vm3STj1FtAA",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "JDh9SCN3ASE",
+          "title": "4 sided leg taper jig #woodworking",
+          "author": "Mark Palmquist",
+          "url": "https://www.youtube.com/watch?v=JDh9SCN3ASE",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "3yf2NiutTmo",
+          "title": "High precision tapered legs… the easy way!",
+          "author": "Spencley Design Co - Raw",
+          "url": "https://www.youtube.com/watch?v=3yf2NiutTmo",
+          "validated": "2026-08-16",
+          "score": 6
+        }
+      ]
+    },
+    {
+      "module": "weeks5-6",
+      "route": "weeks5-6/index.html",
+      "section": "apron",
+      "heading": "Shaping the broad curved front apron",
+      "query": "Shaping the broad curved front apron woodworking education",
+      "watchFor": "the decisions, checks and sequence connected to shaping the broad curved front apron.",
+      "selected": {
+        "id": "6NEs-Sb9Y8A",
+        "title": "Curved Blockfront Dressing Table   Shaping Sides and Apron   Step 9",
+        "author": "David Boeff",
+        "url": "https://www.youtube.com/watch?v=6NEs-Sb9Y8A",
+        "validated": "2026-08-16",
+        "score": 12
+      },
+      "alternatives": [
+        {
+          "id": "SBzIyde4sXg",
+          "title": "How To Make a Curved Table Apron with Bending Wood - WOOD magazine",
+          "author": "WOOD magazine",
+          "url": "https://www.youtube.com/watch?v=SBzIyde4sXg",
+          "validated": "2026-08-16",
+          "score": 10
+        },
+        {
+          "id": "KmyZV9TW-uc",
+          "title": "How to Make a Bowfront Curved Table Apron with Tom McLaughlin",
+          "author": "Epic Woodworking",
+          "url": "https://www.youtube.com/watch?v=KmyZV9TW-uc",
+          "validated": "2026-08-16",
+          "score": 10
+        },
+        {
+          "id": "QpbR7g_JiIE",
+          "title": "Curved Blockfront Lowboy   Drawer Blades & Apron Step 3",
+          "author": "David Boeff",
+          "url": "https://www.youtube.com/watch?v=QpbR7g_JiIE",
+          "validated": "2026-08-16",
+          "score": 10
+        },
+        {
+          "id": "t4JGlWyVDLs",
+          "title": "5 KERF BENDING TIPS AND TRICKS! (For Beginners--Guide To Kerf Bending Wood)",
+          "author": "The Honest Carpenter",
+          "url": "https://www.youtube.com/watch?v=t4JGlWyVDLs",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks5-6",
+      "route": "weeks5-6/index.html",
+      "section": "controlled",
+      "heading": "Controlled cutting, joint refinement and quality gates",
+      "query": "Controlled cutting, joint refinement and quality gates woodworking safety training",
+      "watchFor": "the decisions, checks and sequence connected to controlled cutting, joint refinement and quality gates.",
+      "selected": {
+        "id": "mjWlbIMcWN0",
+        "title": "Dry fit before glue up:  How to instantly improve your craftsmanship",
+        "author": "daddyfixesit 2016",
+        "url": "https://www.youtube.com/watch?v=mjWlbIMcWN0",
+        "validated": "2026-08-16",
+        "score": 100,
+        "review": "targeted topic match"
+      },
+      "alternatives": [
+        {
+          "id": "t5iEdPNHKJ4",
+          "title": "iHub Safety Training - Table Saw Basic Safety",
+          "author": "OU Fabrication Lab",
+          "url": "https://www.youtube.com/watch?v=t5iEdPNHKJ4",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "mON9GI5mcR4",
+          "title": "WOODSHOP SAFETY TRAINING VIDEOS Part 1 of 2",
+          "author": "HTSD HTV",
+          "url": "https://www.youtube.com/watch?v=mON9GI5mcR4",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "K7xAM4DmhvA",
+          "title": "GENERAL WORKSHOP SAFETY - VICTORIAN WOODWORKERS ASSOCIATION SCHOOL OF WOODCRAFT",
+          "author": "Victorian Woodworkers Association",
+          "url": "https://www.youtube.com/watch?v=K7xAM4DmhvA",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "H2pTvqS8ou0",
+          "title": "Carpentry Safety",
+          "author": "GotSafety",
+          "url": "https://www.youtube.com/watch?v=H2pTvqS8ou0",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks7-8",
+      "route": "weeks7-8/index.html",
+      "section": "dry-fit",
+      "heading": "Dry fitting is a diagnostic test",
+      "query": "Dry fitting is a diagnostic test woodworking education",
+      "watchFor": "the decisions, checks and sequence connected to dry fitting is a diagnostic test.",
+      "selected": {
+        "id": "IysjWz_22RA",
+        "title": "What exactly do Wood workers mean by 'Dry fitting'",
+        "author": "Steven Larkin",
+        "url": "https://www.youtube.com/watch?v=IysjWz_22RA",
+        "validated": "2026-08-16",
+        "score": 6
+      },
+      "alternatives": [
+        {
+          "id": "BMLJKivDxpg",
+          "title": "What is  dry fitting",
+          "author": "Steven Larkin",
+          "url": "https://www.youtube.com/watch?v=BMLJKivDxpg",
+          "validated": "2026-08-16",
+          "score": 4
+        },
+        {
+          "id": "59YecJregXQ",
+          "title": "What does it mean to 'dry fit' in Wood Working?",
+          "author": "Steven Larkin",
+          "url": "https://www.youtube.com/watch?v=59YecJregXQ",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "mjWlbIMcWN0",
+          "title": "Dry fit before glue up:  How to instantly improve your craftsmanship",
+          "author": "daddyfixesit 2016",
+          "url": "https://www.youtube.com/watch?v=mjWlbIMcWN0",
+          "validated": "2026-08-16",
+          "score": 0
+        },
+        {
+          "id": "o1DDXBmjDSA",
+          "title": "How Do You Dry Fit PVC Pipe? - Plumbing DIY Daily",
+          "author": "Plumbing DIY Daily",
+          "url": "https://www.youtube.com/watch?v=o1DDXBmjDSA",
+          "validated": "2026-08-16",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "module": "weeks7-8",
+      "route": "weeks7-8/index.html",
+      "section": "assembly-order",
+      "heading": "Assembly order is a design decision",
+      "query": "Assembly order is a design decision design technology education",
+      "watchFor": "the decisions, checks and sequence connected to assembly order is a design decision.",
+      "selected": {
+        "id": "jZ-LrTtahkk",
+        "title": "How to Glue-Up a Woodworking Project",
+        "author": "Tim Eggers' Highwheel Woodworks",
+        "url": "https://www.youtube.com/watch?v=jZ-LrTtahkk",
+        "validated": "2026-08-16",
+        "score": 100,
+        "review": "targeted topic match"
+      },
+      "alternatives": [
+        {
+          "id": "wUxteihBsyA",
+          "title": "WHAT IS DFMA/DFA (DESIGN FOR ASSEMBLY)",
+          "author": "ENGINEERING SPIRIT",
+          "url": "https://www.youtube.com/watch?v=wUxteihBsyA",
+          "validated": "2026-08-16",
+          "score": 10
+        },
+        {
+          "id": "_vm8b0BhWOw",
+          "title": "What is Instructional Design and Educational Technology",
+          "author": "Elena Komarova",
+          "url": "https://www.youtube.com/watch?v=_vm8b0BhWOw",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "W-eqjMc1Efs",
+          "title": "The Design Process for Students - Design and Technology / STEM classroom lessons",
+          "author": "Ask.Learn.Inspire",
+          "url": "https://www.youtube.com/watch?v=W-eqjMc1Efs",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "4fJ269gHBRM",
+          "title": "Get to Know: Matt Davies, Design Technology Teacher",
+          "author": "British International School of Chicago - South Loop",
+          "url": "https://www.youtube.com/watch?v=4fJ269gHBRM",
+          "validated": "2026-08-16",
+          "score": 6
+        }
+      ]
+    },
+    {
+      "module": "weeks7-8",
+      "route": "weeks7-8/index.html",
+      "section": "adhesives",
+      "heading": "Adhesive selection and conditions for a strong bond",
+      "query": "Adhesive selection and conditions for a strong bond woodworking tutorial",
+      "watchFor": "the decisions, checks and sequence connected to adhesive selection and conditions for a strong bond.",
+      "selected": {
+        "id": "Esvb64fUQ10",
+        "title": "What You Need to Know About Glue | WOODWORKING BASICS",
+        "author": "Steve Ramsey - Woodworking for Mere Mortals",
+        "url": "https://www.youtube.com/watch?v=Esvb64fUQ10",
+        "validated": "2026-08-16",
+        "score": 100,
+        "review": "targeted topic match"
+      },
+      "alternatives": [
+        {
+          "id": "pXzgb5LjSy0",
+          "title": "Wood Weld from Construction Chemicals - An unbreakable bond in minutes",
+          "author": "Sam Goddard",
+          "url": "https://www.youtube.com/watch?v=pXzgb5LjSy0",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "8-EUAh9h75M",
+          "title": "How to Choose the Right Glue for Your Woodworking Projects",
+          "author": "WoodworkersJournal",
+          "url": "https://www.youtube.com/watch?v=8-EUAh9h75M",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "Esvb64fUQ10",
+          "title": "What You Need to Know About Glue | WOODWORKING BASICS",
+          "author": "Steve Ramsey - Woodworking for Mere Mortals",
+          "url": "https://www.youtube.com/watch?v=Esvb64fUQ10",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "43n-PP2VmLk",
+          "title": "How to Choose the Right Glue for Woodworking Projects",
+          "author": "FineWoodworking",
+          "url": "https://www.youtube.com/watch?v=43n-PP2VmLk",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks7-8",
+      "route": "weeks7-8/index.html",
+      "section": "clamping",
+      "heading": "Clamping pressure, pads and squareness",
+      "query": "Clamping pressure, pads and squareness woodworking tutorial",
+      "watchFor": "the decisions, checks and sequence connected to clamping pressure, pads and squareness.",
+      "selected": {
+        "id": "llMX688q8OU",
+        "title": "Woodworking Tips: Using Cauls and Playing Cards for Even Clamp Pressure",
+        "author": "WoodWorkers Guild Of America",
+        "url": "https://www.youtube.com/watch?v=llMX688q8OU",
+        "validated": "2026-08-16",
+        "score": 10
+      },
+      "alternatives": [
+        {
+          "id": "j7e-gd-ZBdI",
+          "title": "The Science Behind Clamps - How Much Pressure? How Many? What Type?",
+          "author": "Jonathan Katz-Moses",
+          "url": "https://www.youtube.com/watch?v=j7e-gd-ZBdI",
+          "validated": "2026-08-16",
+          "score": 8
+        },
+        {
+          "id": "-mQkqFaKJjM",
+          "title": "Joint Bridge Clamping Pad Set | Woodpeckers Woodworking Tools",
+          "author": "Woodpeckers",
+          "url": "https://www.youtube.com/watch?v=-mQkqFaKJjM",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "kf-jOFrWTXo",
+          "title": "Clamping squares #099",
+          "author": "Peter Millard",
+          "url": "https://www.youtube.com/watch?v=kf-jOFrWTXo",
+          "validated": "2026-08-16",
+          "score": 4
+        },
+        {
+          "id": "KdeUBuCOBBQ",
+          "title": "Clever ideas for clamping and edge-gluing flat panels",
+          "author": "Stumpy Nubs (James Hamilton)",
+          "url": "https://www.youtube.com/watch?v=KdeUBuCOBBQ",
+          "validated": "2026-08-16",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "module": "weeks7-8",
+      "route": "weeks7-8/index.html",
+      "section": "diagonals",
+      "heading": "Reading diagonals, twist and racking",
+      "query": "Reading diagonals, twist and racking woodworking education",
+      "watchFor": "the decisions, checks and sequence connected to reading diagonals, twist and racking.",
+      "selected": {
+        "id": "xEEJ5fkKr4M",
+        "title": "Top Woodworker Reveals 7 Essential Tips for Making PERFECT Diagonal Grain Cutting Boards",
+        "author": "RLLWoodworks and DIY",
+        "url": "https://www.youtube.com/watch?v=xEEJ5fkKr4M",
+        "validated": "2026-08-16",
+        "score": 6
+      },
+      "alternatives": [
+        {
+          "id": "NZqYh-6c0m8",
+          "title": "How to Read Wood Grain | Paul Sellers",
+          "author": "Paul Sellers",
+          "url": "https://www.youtube.com/watch?v=NZqYh-6c0m8",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "S7F6bCRBUDg",
+          "title": "Reading Wood Grain Direction - 2 Minute Tuesday",
+          "author": "Jonathan Katz-Moses",
+          "url": "https://www.youtube.com/watch?v=S7F6bCRBUDg",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "oZkYLVrTYe4",
+          "title": "The Way Wood Works -- What Every Woodworker Needs to Know About Wood.",
+          "author": "Workshop Companion",
+          "url": "https://www.youtube.com/watch?v=oZkYLVrTYe4",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "zUe85BkFg-s",
+          "title": "Precise tools to check for squareness",
+          "author": "Germán Peraire Woodworking",
+          "url": "https://www.youtube.com/watch?v=zUe85BkFg-s",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks7-8",
+      "route": "weeks7-8/index.html",
+      "section": "hold-points",
+      "heading": "Glue clean-up, curing and hold points",
+      "query": "Glue clean-up, curing and hold points woodworking tutorial",
+      "watchFor": "the decisions, checks and sequence connected to glue clean-up, curing and hold points.",
+      "selected": {
+        "id": "717gnH1355U",
+        "title": "How to Clean Glue Squeeze-Out",
+        "author": "WoodWorkers Guild Of America",
+        "url": "https://www.youtube.com/watch?v=717gnH1355U",
+        "validated": "2026-08-16",
+        "score": 100,
+        "review": "targeted topic match"
+      },
+      "alternatives": [
+        {
+          "id": "717gnH1355U",
+          "title": "How to Clean Glue Squeeze-Out",
+          "author": "WoodWorkers Guild Of America",
+          "url": "https://www.youtube.com/watch?v=717gnH1355U",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "WQ97tTd21Oo",
+          "title": "Don't wipe your glue! -The best way to deal with squeeze-out",
+          "author": "Stumpy Nubs (James Hamilton)",
+          "url": "https://www.youtube.com/watch?v=WQ97tTd21Oo",
+          "validated": "2026-08-16",
+          "score": 4
+        },
+        {
+          "id": "NdAcstGYgGc",
+          "title": "Glue Squeeze Out Trick Everyone Should Know",
+          "author": "Jonathan Katz-Moses",
+          "url": "https://www.youtube.com/watch?v=NdAcstGYgGc",
+          "validated": "2026-08-16",
+          "score": 4
+        },
+        {
+          "id": "pXnYO1zZxj4",
+          "title": "Squeeze-out and cleanup",
+          "author": "Titebond",
+          "url": "https://www.youtube.com/watch?v=pXnYO1zZxj4",
+          "validated": "2026-08-16",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "module": "weeks9-10",
+      "route": "weeks9-10/index.html",
+      "section": "approved-storage",
+      "heading": "Follow the approved storage design",
+      "query": "Follow the approved storage design design technology education",
+      "watchFor": "the decisions, checks and sequence connected to follow the approved storage design.",
+      "selected": {
+        "id": "-o6c_lQm9FE",
+        "title": "How to Measure and Size Drawer Fronts & Drawer Boxes",
+        "author": "Shara Woodshop Diaries",
+        "url": "https://www.youtube.com/watch?v=-o6c_lQm9FE",
+        "validated": "2026-08-16",
+        "score": 100,
+        "review": "targeted topic match"
+      },
+      "alternatives": [
+        {
+          "id": "AV4Ei1qW89o",
+          "title": "File Storage VS Object Storage | System Design",
+          "author": "System Design School",
+          "url": "https://www.youtube.com/watch?v=AV4Ei1qW89o",
+          "validated": "2026-08-16",
+          "score": 10
+        },
+        {
+          "id": "W-eqjMc1Efs",
+          "title": "The Design Process for Students - Design and Technology / STEM classroom lessons",
+          "author": "Ask.Learn.Inspire",
+          "url": "https://www.youtube.com/watch?v=W-eqjMc1Efs",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "_vm8b0BhWOw",
+          "title": "What is Instructional Design and Educational Technology",
+          "author": "Elena Komarova",
+          "url": "https://www.youtube.com/watch?v=_vm8b0BhWOw",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "UU43fm44uVA",
+          "title": "Educational Design & Technology",
+          "author": "usfhealth",
+          "url": "https://www.youtube.com/watch?v=UU43fm44uVA",
+          "validated": "2026-08-16",
+          "score": 6
+        }
+      ]
+    },
+    {
+      "module": "weeks9-10",
+      "route": "weeks9-10/index.html",
+      "section": "clearances",
+      "heading": "Clearances, reveals and fit",
+      "query": "Clearances, reveals and fit woodworking education",
+      "watchFor": "the decisions, checks and sequence connected to clearances, reveals and fit.",
+      "selected": {
+        "id": "tBL4KxpnOG8",
+        "title": "How to Make Perfectly Fitting Drawers",
+        "author": "Epic Woodworking",
+        "url": "https://www.youtube.com/watch?v=tBL4KxpnOG8",
+        "validated": "2026-08-16",
+        "score": 100,
+        "review": "targeted topic match"
+      },
+      "alternatives": [
+        {
+          "id": "-ENdkvysKtU",
+          "title": "10 Measuring Mistakes Ruining Your Wood Projects",
+          "author": "Woodworking Advisor",
+          "url": "https://www.youtube.com/watch?v=-ENdkvysKtU",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "Ls1ayLoDedI",
+          "title": "Beginner Woodworking and Carpentry Terminology Part 1",
+          "author": "Training Hands Academy",
+          "url": "https://www.youtube.com/watch?v=Ls1ayLoDedI",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "0txVRrV-e2g",
+          "title": "Stop Overcomplicating These 7 Woodworking Joints",
+          "author": "Jordan Barry - Guardian Woodworking",
+          "url": "https://www.youtube.com/watch?v=0txVRrV-e2g",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "0JTSxRnAJtA",
+          "title": "Cutting Shims for Precise Work",
+          "author": "Next Level Carpentry",
+          "url": "https://www.youtube.com/watch?v=0JTSxRnAJtA",
+          "validated": "2026-08-16",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "module": "weeks9-10",
+      "route": "weeks9-10/index.html",
+      "section": "drawer",
+      "heading": "Constructing a square drawer or approved component",
+      "query": "Constructing a square drawer or approved component woodworking tutorial",
+      "watchFor": "the decisions, checks and sequence connected to constructing a square drawer or approved component.",
+      "selected": {
+        "id": "xDl6LZhMXU8",
+        "title": "Here is an easy way to square your drawer boxes if you don’t have someone to give you a hand",
+        "author": "Asche Woodworking",
+        "url": "https://www.youtube.com/watch?v=xDl6LZhMXU8",
+        "validated": "2026-08-16",
+        "score": 10
+      },
+      "alternatives": [
+        {
+          "id": "_g5TYEb3Fxc",
+          "title": "How To Square Cabinets and Boxes  - WOOD magazine",
+          "author": "WOOD magazine",
+          "url": "https://www.youtube.com/watch?v=_g5TYEb3Fxc",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "1VmqhmYtUSE",
+          "title": "DIY Easy drawer box assembly in 5 minutes! - How To",
+          "author": "Brady Hommel",
+          "url": "https://www.youtube.com/watch?v=1VmqhmYtUSE",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "Ls6G4q4TGew",
+          "title": "3 Ways To Build EASY DIY Drawers | Good, Better, Best",
+          "author": "731 Woodworks",
+          "url": "https://www.youtube.com/watch?v=Ls6G4q4TGew",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "WhdcyMxwTBM",
+          "title": "ALWAYS Do This To Your CARPENTRY + WOODWORKING Projects! (How to SQUARE UP Cabinets/Floors/Walls...)",
+          "author": "The Honest Carpenter",
+          "url": "https://www.youtube.com/watch?v=WhdcyMxwTBM",
+          "validated": "2026-08-16",
+          "score": 6
+        }
+      ]
+    },
+    {
+      "module": "weeks9-10",
+      "route": "weeks9-10/index.html",
+      "section": "front",
+      "heading": "Aligning the visible front or approved face",
+      "query": "Aligning the visible front or approved face woodworking education",
+      "watchFor": "the decisions, checks and sequence connected to aligning the visible front or approved face.",
+      "selected": {
+        "id": "g7Ib33gX_-g",
+        "title": "A Lesson Learned In Face Framing",
+        "author": "Woodworking With Wes",
+        "url": "https://www.youtube.com/watch?v=g7Ib33gX_-g",
+        "validated": "2026-08-16",
+        "score": 6
+      },
+      "alternatives": [
+        {
+          "id": "0bXU5VBjG30",
+          "title": "How to Mark Face & Edge Sides on Timber: A Crucial Step for Accuracy",
+          "author": "BlueWood Handyman",
+          "url": "https://www.youtube.com/watch?v=0bXU5VBjG30",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "x18iMQPByZs",
+          "title": "How To Use a Dovetail Alignment Board and Why You Need One",
+          "author": "Jonathan Katz-Moses",
+          "url": "https://www.youtube.com/watch?v=x18iMQPByZs",
+          "validated": "2026-08-16",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "module": "weeks9-10",
+      "route": "weeks9-10/index.html",
+      "section": "hardware",
+      "heading": "Pilot holes, hardware alignment and controlled adjustment",
+      "query": "Pilot holes, hardware alignment and controlled adjustment woodworking safety training",
+      "watchFor": "the decisions, checks and sequence connected to pilot holes, hardware alignment and controlled adjustment.",
+      "selected": {
+        "id": "Ne69SeQ1b7w",
+        "title": "Why old-timey woodworkers' screws held better (How to bore proper pilot holes)",
+        "author": "Stumpy Nubs (James Hamilton)",
+        "url": "https://www.youtube.com/watch?v=Ne69SeQ1b7w",
+        "validated": "2026-08-16",
+        "score": 6
+      },
+      "alternatives": [
+        {
+          "id": "D_t1yreg4K0",
+          "title": "Quick Tip: Clearance Hole vs. Pilot Hole, We Show You The Difference",
+          "author": "Infinity Cutting Tools",
+          "url": "https://www.youtube.com/watch?v=D_t1yreg4K0",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "SlS0n13Jpfs",
+          "title": "When And How To Drill Pilot Holes",
+          "author": "Family Handyman",
+          "url": "https://www.youtube.com/watch?v=SlS0n13Jpfs",
+          "validated": "2026-08-16",
+          "score": 4
+        },
+        {
+          "id": "VWuK5LXnCLQ",
+          "title": "Do I Need A Pilot Hole?",
+          "author": "HouseImprovements",
+          "url": "https://www.youtube.com/watch?v=VWuK5LXnCLQ",
+          "validated": "2026-08-16",
+          "score": 4
+        },
+        {
+          "id": "TFGMnx_AUxI",
+          "title": "Drill Press Safety",
+          "author": "SJHS Woodworking",
+          "url": "https://www.youtube.com/watch?v=TFGMnx_AUxI",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks9-10",
+      "route": "weeks9-10/index.html",
+      "section": "testing",
+      "heading": "Functional testing and fault diagnosis",
+      "query": "Functional testing and fault diagnosis woodworking education",
+      "watchFor": "the decisions, checks and sequence connected to functional testing and fault diagnosis.",
+      "selected": {
+        "id": "zsL4-j2XZBo",
+        "title": "Woodwork Joints Wood Joinery and Strength Testing",
+        "author": "Celal Ünal",
+        "url": "https://www.youtube.com/watch?v=zsL4-j2XZBo",
+        "validated": "2026-08-16",
+        "score": 6
+      },
+      "alternatives": [
+        {
+          "id": "Ls1ayLoDedI",
+          "title": "Beginner Woodworking and Carpentry Terminology Part 1",
+          "author": "Training Hands Academy",
+          "url": "https://www.youtube.com/watch?v=Ls1ayLoDedI",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "cggNMqfTYfA",
+          "title": "7 Toxic Woodworking Mistakes That Are Destroying Your Health",
+          "author": "Dale Oakfield's Workshop",
+          "url": "https://www.youtube.com/watch?v=cggNMqfTYfA",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "JlJxS7GGZbI",
+          "title": "Every Woodworking Term Beginners Get Wrong (And What They Actually Mean)",
+          "author": "731 Woodworks",
+          "url": "https://www.youtube.com/watch?v=JlJxS7GGZbI",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "o8RR5hOarWA",
+          "title": "15 Engineering Tricks Every Woodworker Should Know",
+          "author": "The Evening Woodworker",
+          "url": "https://www.youtube.com/watch?v=o8RR5hOarWA",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks11-12",
+      "route": "weeks11-12/index.html",
+      "section": "top-alignment",
+      "heading": "Aligning the thick top accurately",
+      "query": "Aligning the thick top accurately woodworking education",
+      "watchFor": "the decisions, checks and sequence connected to aligning the thick top accurately.",
+      "selected": {
+        "id": "nuEz8TtrfjM",
+        "title": "The Work Around: How to Mark Wood Accurately Before Cutting | HGTV",
+        "author": "HGTV",
+        "url": "https://www.youtube.com/watch?v=nuEz8TtrfjM",
+        "validated": "2026-08-16",
+        "score": 6
+      },
+      "alternatives": [
+        {
+          "id": "cDcrs0btn6Q",
+          "title": "Tips for Woodworking Measurements and Layouts",
+          "author": "WoodworkersJournal",
+          "url": "https://www.youtube.com/watch?v=cDcrs0btn6Q",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "NZMTLkVdS5E",
+          "title": "Mastering Accuracy: A No-BS Guide to Marking and Measuring Tools",
+          "author": "Jonathan Katz-Moses",
+          "url": "https://www.youtube.com/watch?v=NZMTLkVdS5E",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "goUc74RQRus",
+          "title": "Essential Skills For Superior Accuracy in Woodworking - Tips and Tricks",
+          "author": "Jonathan Katz-Moses",
+          "url": "https://www.youtube.com/watch?v=goUc74RQRus",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "EffXrNhJtKI",
+          "title": "Genius Idea? Game Changing trick for Perfect Dowel Alignment without a Jig",
+          "author": "John Heisz - I Build It",
+          "url": "https://www.youtube.com/watch?v=EffXrNhJtKI",
+          "validated": "2026-08-16",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "module": "weeks11-12",
+      "route": "weeks11-12/index.html",
+      "section": "movement",
+      "heading": "Why solid timber moves across the grain",
+      "query": "Why solid timber moves across the grain woodworking tutorial",
+      "watchFor": "the decisions, checks and sequence connected to why solid timber moves across the grain.",
+      "selected": {
+        "id": "fJuLyQ3AGBE",
+        "title": "Wood grain: Explain it like I'm 5.",
+        "author": "Rex Krueger",
+        "url": "https://www.youtube.com/watch?v=fJuLyQ3AGBE",
+        "validated": "2026-08-16",
+        "score": 6
+      },
+      "alternatives": [
+        {
+          "id": "S7F6bCRBUDg",
+          "title": "Reading Wood Grain Direction - 2 Minute Tuesday",
+          "author": "Jonathan Katz-Moses",
+          "url": "https://www.youtube.com/watch?v=S7F6bCRBUDg",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "EXcYB92qRzg",
+          "title": "Why Does Grain Direction Matter? #diy #carpentry #woodwork #wood #woodworking #howto",
+          "author": "Rex Krueger",
+          "url": "https://www.youtube.com/watch?v=EXcYB92qRzg",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "oZkYLVrTYe4",
+          "title": "The Way Wood Works -- What Every Woodworker Needs to Know About Wood.",
+          "author": "Workshop Companion",
+          "url": "https://www.youtube.com/watch?v=oZkYLVrTYe4",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "D3DlZHZheRg",
+          "title": "Wood Moves",
+          "author": "Workshop Companion",
+          "url": "https://www.youtube.com/watch?v=D3DlZHZheRg",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks11-12",
+      "route": "weeks11-12/index.html",
+      "section": "fixing",
+      "heading": "Using the approved top-fixing method",
+      "query": "Using the approved top-fixing method woodworking education",
+      "watchFor": "the decisions, checks and sequence connected to using the approved top-fixing method.",
+      "selected": {
+        "id": "kMR4oU1E8P4",
+        "title": "Allowing for Wood Expansion on Solid Wood Tops",
+        "author": "WoodWorkers Guild Of America",
+        "url": "https://www.youtube.com/watch?v=kMR4oU1E8P4",
+        "validated": "2026-08-16",
+        "score": 100,
+        "review": "targeted topic match"
+      },
+      "alternatives": [
+        {
+          "id": "5z-cSntdcmM",
+          "title": "6 TOP Woodworking Tips I Wish I'd Known Before I Turned 40",
+          "author": "Tuan CT",
+          "url": "https://www.youtube.com/watch?v=5z-cSntdcmM",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "w7l1_d2GtuA",
+          "title": "A genius trick no one shows",
+          "author": "Bent's Woodworking",
+          "url": "https://www.youtube.com/watch?v=w7l1_d2GtuA",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "3b-GmvUhwUU",
+          "title": "7 Tips for Perfect Woodworking Panel Glue-Ups",
+          "author": "Foureyes Furniture",
+          "url": "https://www.youtube.com/watch?v=3b-GmvUhwUU",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "MNCHVzBZH3Y",
+          "title": "Pro tips for table tops, counters and panel glueups",
+          "author": "Stumpy Nubs (James Hamilton)",
+          "url": "https://www.youtube.com/watch?v=MNCHVzBZH3Y",
+          "validated": "2026-08-16",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "module": "weeks11-12",
+      "route": "weeks11-12/index.html",
+      "section": "hardware",
+      "heading": "Final hardware checks",
+      "query": "Final hardware checks woodworking tutorial",
+      "watchFor": "the decisions, checks and sequence connected to final hardware checks.",
+      "selected": {
+        "id": "A5KJerfWZXA",
+        "title": "Three Quick and Easy Ways to Check Projects for Square / Woodworking 3-4-5, Pinch Sticks",
+        "author": "Inspire Woodcraft",
+        "url": "https://www.youtube.com/watch?v=A5KJerfWZXA",
+        "validated": "2026-08-16",
+        "score": 6
+      },
+      "alternatives": [
+        {
+          "id": "TEoSa-J79c4",
+          "title": "Fast and Strong - Bed Hardware the Easy Way",
+          "author": "Quirky Cuts",
+          "url": "https://www.youtube.com/watch?v=TEoSa-J79c4",
+          "validated": "2026-08-16",
+          "score": 4
+        },
+        {
+          "id": "WKhCRp5xQzk",
+          "title": "Before Using Board Lumber...ALWAYS CHECK THIS! (\"True Up\" Board Ends / Check Board Ends For Square!)",
+          "author": "The Honest Carpenter",
+          "url": "https://www.youtube.com/watch?v=WKhCRp5xQzk",
+          "validated": "2026-08-16",
+          "score": 4
+        },
+        {
+          "id": "VZwvX2N40tc",
+          "title": "Great Tip for Accurate Wood Joinery from a Veteran Carpenter. #woodworking",
+          "author": "Tuan CT",
+          "url": "https://www.youtube.com/watch?v=VZwvX2N40tc",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "Dkfr1Mj5KNM",
+          "title": "Choose the Right Panel for Your Cabinet | MDF vs Plywood vs Melamine | GMC Construction Inc.",
+          "author": "GMC CONSTRUCTION INC.",
+          "url": "https://www.youtube.com/watch?v=Dkfr1Mj5KNM",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks11-12",
+      "route": "weeks11-12/index.html",
+      "section": "stability",
+      "heading": "Diagnosing a top that rocks, cups or sits unevenly",
+      "query": "Diagnosing a top that rocks, cups or sits unevenly woodworking education",
+      "watchFor": "the decisions, checks and sequence connected to diagnosing a top that rocks, cups or sits unevenly.",
+      "selected": {
+        "id": "5oMX_XYbPvk",
+        "title": "Why wood warps/cups, and how to stop it!",
+        "author": "Stumpy Nubs (James Hamilton)",
+        "url": "https://www.youtube.com/watch?v=5oMX_XYbPvk",
+        "validated": "2026-08-16",
+        "score": 2
+      },
+      "alternatives": [
+        {
+          "id": "xpdx1C5DLDM",
+          "title": "How to Flatten A Solid Wood Panel that has Cupped or Warped | Woodworking",
+          "author": "Sturdy Bones Woodworking",
+          "url": "https://www.youtube.com/watch?v=xpdx1C5DLDM",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "vU_82dc-9Qk",
+          "title": "How to Deal with Wood Movement - warps/cups",
+          "author": "Woodcarver Alexander Grabovetskiy",
+          "url": "https://www.youtube.com/watch?v=vU_82dc-9Qk",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "0HncVzbT1ss",
+          "title": "Flattening A Table Top After Glue Up - Woodworking  Quick Tips",
+          "author": "Gerber Design Co",
+          "url": "https://www.youtube.com/watch?v=0HncVzbT1ss",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "XOTgLo1CLEk",
+          "title": "Why do boards cup AWAY from the center of a tree?",
+          "author": "Stumpy Nubs (James Hamilton)",
+          "url": "https://www.youtube.com/watch?v=XOTgLo1CLEk",
+          "validated": "2026-08-16",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "module": "weeks11-12",
+      "route": "weeks11-12/index.html",
+      "section": "tolerances",
+      "heading": "Final assembly tolerances and quality gates",
+      "query": "Final assembly tolerances and quality gates design technology education",
+      "watchFor": "the decisions, checks and sequence connected to final assembly tolerances and quality gates.",
+      "selected": {
+        "id": "kDVc7AzoGpA",
+        "title": "InspectSYS - Quality Gate for Assembly Inspection",
+        "author": "Gestalt Robotics",
+        "url": "https://www.youtube.com/watch?v=kDVc7AzoGpA",
+        "validated": "2026-08-16",
+        "score": 8
+      },
+      "alternatives": [
+        {
+          "id": "9-cjvQdhSJw",
+          "title": "Production Technology 10 | Limits, Fits and Tolerances (Metrology) | ME | GATE Crash Course",
+          "author": "GATE Wallah - ME, CE, XE, CH, PI & ES",
+          "url": "https://www.youtube.com/watch?v=9-cjvQdhSJw",
+          "validated": "2026-08-16",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "module": "weeks13-14",
+      "route": "weeks13-14/index.html",
+      "section": "inspect",
+      "heading": "Inspect before sanding",
+      "query": "Inspect before sanding woodworking tutorial",
+      "watchFor": "the decisions, checks and sequence connected to inspect before sanding.",
+      "selected": {
+        "id": "Z7NzBMz4HzQ",
+        "title": "How To Prevent Swirls When Sanding - Part 1 | Woodworking Tips & Tricks | Sanding",
+        "author": "Tyler Brown Woodworking",
+        "url": "https://www.youtube.com/watch?v=Z7NzBMz4HzQ",
+        "validated": "2026-08-16",
+        "score": 6
+      },
+      "alternatives": [
+        {
+          "id": "_-P95wh_U9E",
+          "title": "HOW TO: Sanding Wood Like a Pro Before Finishing",
+          "author": "Bailey Line Road",
+          "url": "https://www.youtube.com/watch?v=_-P95wh_U9E",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "VimO3U0NJoE",
+          "title": "Sanding by Hand",
+          "author": "Family Handyman",
+          "url": "https://www.youtube.com/watch?v=VimO3U0NJoE",
+          "validated": "2026-08-16",
+          "score": 4
+        },
+        {
+          "id": "edulbAmdv-A",
+          "title": "Beginner Sanding Mistakes | How to Sand",
+          "author": "YouCanMakeThisToo",
+          "url": "https://www.youtube.com/watch?v=edulbAmdv-A",
+          "validated": "2026-08-16",
+          "score": 4
+        },
+        {
+          "id": "KiE4Pk_gu50",
+          "title": "Sanding Technique and Grits - 2 Minute Tuesday",
+          "author": "Jonathan Katz-Moses",
+          "url": "https://www.youtube.com/watch?v=KiE4Pk_gu50",
+          "validated": "2026-08-16",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "module": "weeks13-14",
+      "route": "weeks13-14/index.html",
+      "section": "abrasives",
+      "heading": "Abrasive grit, scratch pattern and grain direction",
+      "query": "Abrasive grit, scratch pattern and grain direction woodworking tutorial",
+      "watchFor": "the decisions, checks and sequence connected to abrasive grit, scratch pattern and grain direction.",
+      "selected": {
+        "id": "KiE4Pk_gu50",
+        "title": "Sanding Technique and Grits - 2 Minute Tuesday",
+        "author": "Jonathan Katz-Moses",
+        "url": "https://www.youtube.com/watch?v=KiE4Pk_gu50",
+        "validated": "2026-08-16",
+        "score": 100,
+        "review": "targeted topic match"
+      },
+      "alternatives": [
+        {
+          "id": "c3aaH2Ttz3M",
+          "title": "Identifying the Wood Grain for a Better Carving- Whittling and Wood Carving tips for Beginners",
+          "author": "Carving is Fun",
+          "url": "https://www.youtube.com/watch?v=c3aaH2Ttz3M",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "KiE4Pk_gu50",
+          "title": "Sanding Technique and Grits - 2 Minute Tuesday",
+          "author": "Jonathan Katz-Moses",
+          "url": "https://www.youtube.com/watch?v=KiE4Pk_gu50",
+          "validated": "2026-08-16",
+          "score": 4
+        },
+        {
+          "id": "_wESZVDHApY",
+          "title": "Water-Popping -- the Secret to a Great Finish",
+          "author": "Workshop Companion",
+          "url": "https://www.youtube.com/watch?v=_wESZVDHApY",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "02uiIL2kYf4",
+          "title": "How to Finish Plywood Edges Without Edge Banding #DIYTips #woodworkinghack #pantrymakeover",
+          "author": "Creatively Clarified DIY",
+          "url": "https://www.youtube.com/watch?v=02uiIL2kYf4",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks13-14",
+      "route": "weeks13-14/index.html",
+      "section": "shaped",
+      "heading": "Sanding tapered legs, curves and edges without changing shape",
+      "query": "Sanding tapered legs, curves and edges without changing shape woodworking tutorial",
+      "watchFor": "the decisions, checks and sequence connected to sanding tapered legs, curves and edges without changing shape.",
+      "selected": {
+        "id": "IwCHD_FVyfY",
+        "title": "Simple Solutions: How to Sand Curved Shapes",
+        "author": "Today's Homeowner with Danny Lipford",
+        "url": "https://www.youtube.com/watch?v=IwCHD_FVyfY",
+        "validated": "2026-08-16",
+        "score": 100,
+        "review": "targeted topic match"
+      },
+      "alternatives": [
+        {
+          "id": "N6Blq-tnV_E",
+          "title": "How to sand spindles/como lijar curvas en muebles #woodworking #sandigwood #diyfurnituremakeover",
+          "author": "mixy XTS",
+          "url": "https://www.youtube.com/watch?v=N6Blq-tnV_E",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "-2pAhghb-tE",
+          "title": "The EASIEST way to cut tapers! Woodworking Tips.",
+          "author": "Make Something",
+          "url": "https://www.youtube.com/watch?v=-2pAhghb-tE",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "kYbRBR6maGM",
+          "title": "Tapered Table Legs. No Jigs. No Machines.",
+          "author": "Frank's Workbench",
+          "url": "https://www.youtube.com/watch?v=kYbRBR6maGM",
+          "validated": "2026-08-16",
+          "score": 4
+        },
+        {
+          "id": "sQUHRlbvVaU",
+          "title": "How To Sand Spindles",
+          "author": "Salvaged Inspirations",
+          "url": "https://www.youtube.com/watch?v=sQUHRlbvVaU",
+          "validated": "2026-08-16",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "module": "weeks13-14",
+      "route": "weeks13-14/index.html",
+      "section": "repair",
+      "heading": "Defect repair and glue residue",
+      "query": "Defect repair and glue residue woodworking tutorial",
+      "watchFor": "the decisions, checks and sequence connected to defect repair and glue residue.",
+      "selected": {
+        "id": "lyRsDSR6wac",
+        "title": "How I Remove Dried Glue Squeeze-Out (And Avoid Tear-Out)",
+        "author": "The Custom Craftsman",
+        "url": "https://www.youtube.com/watch?v=lyRsDSR6wac",
+        "validated": "2026-08-16",
+        "score": 100,
+        "review": "targeted topic match"
+      },
+      "alternatives": [
+        {
+          "id": "uGZ3DgpxJEA",
+          "title": "Expert Tips: Effortlessly Remove Wood Glue Residue from Clamps",
+          "author": "Flynndogg Woodwork",
+          "url": "https://www.youtube.com/watch?v=uGZ3DgpxJEA",
+          "validated": "2026-08-16",
+          "score": 10
+        },
+        {
+          "id": "WQ97tTd21Oo",
+          "title": "Don't wipe your glue! -The best way to deal with squeeze-out",
+          "author": "Stumpy Nubs (James Hamilton)",
+          "url": "https://www.youtube.com/watch?v=WQ97tTd21Oo",
+          "validated": "2026-08-16",
+          "score": 4
+        },
+        {
+          "id": "VlXPOMGFrWI",
+          "title": "The super glue idea that not many people know about",
+          "author": "Inventor 101",
+          "url": "https://www.youtube.com/watch?v=VlXPOMGFrWI",
+          "validated": "2026-08-16",
+          "score": 4
+        },
+        {
+          "id": "lyRsDSR6wac",
+          "title": "How I Remove Dried Glue Squeeze-Out (And Avoid Tear-Out)",
+          "author": "The Custom Craftsman",
+          "url": "https://www.youtube.com/watch?v=lyRsDSR6wac",
+          "validated": "2026-08-16",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "module": "weeks13-14",
+      "route": "weeks13-14/index.html",
+      "section": "raking",
+      "heading": "Final surface inspection with raking light and touch",
+      "query": "Final surface inspection with raking light and touch woodworking education",
+      "watchFor": "the decisions, checks and sequence connected to final surface inspection with raking light and touch.",
+      "selected": {
+        "id": "mbLYaTkp70I",
+        "title": "SurfPrep LED Inspection Light",
+        "author": "SurfPrep Sanding",
+        "url": "https://www.youtube.com/watch?v=mbLYaTkp70I",
+        "validated": "2026-08-16",
+        "score": 8
+      },
+      "alternatives": [
+        {
+          "id": "P0UvGIE04R8",
+          "title": "Low Raking Light",
+          "author": "Ramon Valdez Fine Furniture",
+          "url": "https://www.youtube.com/watch?v=P0UvGIE04R8",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "oC8iMefUjbo",
+          "title": "Tools: New and New to Me",
+          "author": "Scott Earl Smith Finishing Touch Carpentry",
+          "url": "https://www.youtube.com/watch?v=oC8iMefUjbo",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "A4lJcMhtyBw",
+          "title": "Can Get Satisfaction #propertymaintenance #trendingvideo #diyprojects #plumbing",
+          "author": "Can-Be-Asked Handyman & Property Services",
+          "url": "https://www.youtube.com/watch?v=A4lJcMhtyBw",
+          "validated": "2026-08-16",
+          "score": 0
+        },
+        {
+          "id": "WKhCRp5xQzk",
+          "title": "Before Using Board Lumber...ALWAYS CHECK THIS! (\"True Up\" Board Ends / Check Board Ends For Square!)",
+          "author": "The Honest Carpenter",
+          "url": "https://www.youtube.com/watch?v=WKhCRp5xQzk",
+          "validated": "2026-08-16",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "module": "weeks13-14",
+      "route": "weeks13-14/index.html",
+      "section": "dust",
+      "heading": "Dust control, clean-up and pre-finish quality assurance",
+      "query": "Dust control, clean-up and pre-finish quality assurance woodworking safety training",
+      "watchFor": "the decisions, checks and sequence connected to dust control, clean-up and pre-finish quality assurance.",
+      "selected": {
+        "id": "SVLCJEuvg_8",
+        "title": "Mastering Dust Control: A Woodworking Safety Guide",
+        "author": "Peter Jackson",
+        "url": "https://www.youtube.com/watch?v=SVLCJEuvg_8",
+        "validated": "2026-08-16",
+        "score": 10
+      },
+      "alternatives": [
+        {
+          "id": "r1mp6oE7bhw",
+          "title": "How To Conduct A Cleaning Quality Assurance Inspection! (The Expert Method)",
+          "author": "OctoClean Media",
+          "url": "https://www.youtube.com/watch?v=r1mp6oE7bhw",
+          "validated": "2026-08-16",
+          "score": 8
+        },
+        {
+          "id": "nmYG8685gts",
+          "title": "Dust Management Toolbox Talk: PPE and Cleanliness Practices #dustremoval",
+          "author": "iSAFE",
+          "url": "https://www.youtube.com/watch?v=nmYG8685gts",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "l_zC7jliSnw",
+          "title": "Combustible Dust Safety: Protecting Lives and Workplaces! [Toolbox Talk]",
+          "author": "JJ Safety",
+          "url": "https://www.youtube.com/watch?v=l_zC7jliSnw",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "BOxy2nPebz0",
+          "title": "HEALTH & SAFETY TRAINING VIDEO FOR THE CLEANING INDUSTRY",
+          "author": "JanitorialExpress",
+          "url": "https://www.youtube.com/watch?v=BOxy2nPebz0",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks15-16",
+      "route": "weeks15-16/index.html",
+      "section": "selection",
+      "heading": "Follow the approved finish system",
+      "query": "Follow the approved finish system woodworking tutorial",
+      "watchFor": "the decisions, checks and sequence connected to follow the approved finish system.",
+      "selected": {
+        "id": "fMAJCb9EGvs",
+        "title": "This is the BEST System for Cutting Plywood",
+        "author": "Scott Brown Carpentry",
+        "url": "https://www.youtube.com/watch?v=fMAJCb9EGvs",
+        "validated": "2026-08-16",
+        "score": 6
+      },
+      "alternatives": [
+        {
+          "id": "ZDW7mx6jz9k",
+          "title": "Helpful construction tips you should learn from the experience carpenter #carpentry #wood #skills",
+          "author": "PHPX CHANNEL 86",
+          "url": "https://www.youtube.com/watch?v=ZDW7mx6jz9k",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "y8W7KbJTg7A",
+          "title": "Carpentry 101: Basics of Wood Framing with MattBangsWood [#1]",
+          "author": "MattBangsWood",
+          "url": "https://www.youtube.com/watch?v=y8W7KbJTg7A",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "X0r_rkXtSrw",
+          "title": "How YOU Should Be Cutting Plywood",
+          "author": "Bent's Woodworking",
+          "url": "https://www.youtube.com/watch?v=X0r_rkXtSrw",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "dMC_9Mmjj40",
+          "title": "The Greatest Speed Square Hack EVER?!? Check out the full video on our homepage! #protips #tutorial",
+          "author": "J&K Carpentry Bros ",
+          "url": "https://www.youtube.com/watch?v=dMC_9Mmjj40",
+          "validated": "2026-08-16",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "module": "weeks15-16",
+      "route": "weeks15-16/index.html",
+      "section": "application",
+      "heading": "Applying a timber finish evenly",
+      "query": "Applying a timber finish evenly woodworking tutorial",
+      "watchFor": "the decisions, checks and sequence connected to applying a timber finish evenly.",
+      "selected": {
+        "id": "dCYMxs45g6o",
+        "title": "TIPS and techniques on how to apply polyurethane EVENLY like a pro",
+        "author": "Live Free",
+        "url": "https://www.youtube.com/watch?v=dCYMxs45g6o",
+        "validated": "2026-08-16",
+        "score": 8
+      },
+      "alternatives": [
+        {
+          "id": "_wESZVDHApY",
+          "title": "Water-Popping -- the Secret to a Great Finish",
+          "author": "Workshop Companion",
+          "url": "https://www.youtube.com/watch?v=_wESZVDHApY",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "41ThnBFXWg0",
+          "title": "How I get a smooth final coat on my tables #polyurethane #woodfinishing #woodshop ￼",
+          "author": "Newman Specials Woodwork",
+          "url": "https://www.youtube.com/watch?v=41ThnBFXWg0",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "lHBXhsdwXuI",
+          "title": "How to Stain Wood [5] Things that you should NEVER do",
+          "author": "Doing it With jason - Bluth Family Woodworking ",
+          "url": "https://www.youtube.com/watch?v=lHBXhsdwXuI",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "8r7xmuSx6Pg",
+          "title": "How to Stain Wood Like a PRO - 4 Simple Steps!",
+          "author": "Biscuit Tree Woodworks",
+          "url": "https://www.youtube.com/watch?v=8r7xmuSx6Pg",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks15-16",
+      "route": "weeks15-16/index.html",
+      "section": "drying",
+      "heading": "Drying, curing, handling and between-stage preparation",
+      "query": "Drying, curing, handling and between-stage preparation woodworking safety training",
+      "watchFor": "the decisions, checks and sequence connected to drying, curing, handling and between-stage preparation.",
+      "selected": {
+        "id": "Jut-jhfsDfw",
+        "title": "Dry time vs. Cure time -Explained",
+        "author": "Wood Finishing with CrystaLac",
+        "url": "https://www.youtube.com/watch?v=Jut-jhfsDfw",
+        "validated": "2026-08-16",
+        "score": 100,
+        "review": "targeted topic match"
+      },
+      "alternatives": [
+        {
+          "id": "GQkUbdE3VS8",
+          "title": "Safety in Woodworking | Woodworking",
+          "author": "SIKANA English",
+          "url": "https://www.youtube.com/watch?v=GQkUbdE3VS8",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "a4VmwzvGIdI",
+          "title": "Woodturning For Beginners #2 Preparing And Drying Wood | Carl Jacobson",
+          "author": "Carl Jacobson",
+          "url": "https://www.youtube.com/watch?v=a4VmwzvGIdI",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "TchVNlNOb9A",
+          "title": "High School Woodshop General Safety",
+          "author": "HighSchool Woodshop",
+          "url": "https://www.youtube.com/watch?v=TchVNlNOb9A",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "qwZ-apBYtIc",
+          "title": "Wood Drying - How to Dry Wood",
+          "author": "Three Minutes Outdoors",
+          "url": "https://www.youtube.com/watch?v=qwZ-apBYtIc",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks15-16",
+      "route": "weeks15-16/index.html",
+      "section": "chemical",
+      "heading": "Chemical safety",
+      "query": "Chemical safety woodworking safety training",
+      "watchFor": "the decisions, checks and sequence connected to chemical safety.",
+      "selected": {
+        "id": "-1qFlEXqI30",
+        "title": "Safety Data Sheet Training: A Crash Course On Chemical Safety Data Sheets (SDS)",
+        "author": "Safelyio",
+        "url": "https://www.youtube.com/watch?v=-1qFlEXqI30",
+        "validated": "2026-08-16",
+        "score": 10
+      },
+      "alternatives": [
+        {
+          "id": "Hv3jKvi5xRc",
+          "title": "Chemical Safety training | Workplace Chemical Safety",
+          "author": "SincX Learn App",
+          "url": "https://www.youtube.com/watch?v=Hv3jKvi5xRc",
+          "validated": "2026-08-16",
+          "score": 10
+        },
+        {
+          "id": "Hvt4sJwrMCQ",
+          "title": "Construction Safety: Chemical Safety and Hazard Communication",
+          "author": "NAHBTV",
+          "url": "https://www.youtube.com/watch?v=Hvt4sJwrMCQ",
+          "validated": "2026-08-16",
+          "score": 10
+        },
+        {
+          "id": "EHvyPLkAuTk",
+          "title": "Chemical hazards",
+          "author": "Safety TalkPoints",
+          "url": "https://www.youtube.com/watch?v=EHvyPLkAuTk",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "LqfHVWr-r28",
+          "title": "Working Safely with Chemicals",
+          "author": "Canadian Centre for Occupational Health and Safety (CCOHS)",
+          "url": "https://www.youtube.com/watch?v=LqfHVWr-r28",
+          "validated": "2026-08-16",
+          "score": 6
+        }
+      ]
+    },
+    {
+      "module": "weeks15-16",
+      "route": "weeks15-16/index.html",
+      "section": "sds-controls",
+      "heading": "Using the label, SDS and hierarchy of controls",
+      "query": "Using the label, SDS and hierarchy of controls woodworking safety training",
+      "watchFor": "the decisions, checks and sequence connected to using the label, sds and hierarchy of controls.",
+      "selected": {
+        "id": "7kwW_1wz0g0",
+        "title": "Safety's Hierarchy of Controls with Examples",
+        "author": "Ally Safety",
+        "url": "https://www.youtube.com/watch?v=7kwW_1wz0g0",
+        "validated": "2026-08-16",
+        "score": 10
+      },
+      "alternatives": [
+        {
+          "id": "npWXxgKDA3c",
+          "title": "Hierarchy of Controls Explained | Workplace Safety",
+          "author": "safety first",
+          "url": "https://www.youtube.com/watch?v=npWXxgKDA3c",
+          "validated": "2026-08-16",
+          "score": 10
+        },
+        {
+          "id": "dnXDTaYqagM",
+          "title": "The 5 Levels of the Hierarchy of Controls",
+          "author": "Ally Safety",
+          "url": "https://www.youtube.com/watch?v=dnXDTaYqagM",
+          "validated": "2026-08-16",
+          "score": 10
+        },
+        {
+          "id": "ijXc7-XU4Eg",
+          "title": "HIERARCHY of CONTROL Health and Safety | 5 Steps EXPLAINED!",
+          "author": "Safeti | Your Trusted Health and Safety Partner",
+          "url": "https://www.youtube.com/watch?v=ijXc7-XU4Eg",
+          "validated": "2026-08-16",
+          "score": 10
+        },
+        {
+          "id": "XOkPcLD5Soo",
+          "title": "The Hierarchy of Controls",
+          "author": "Healthier Workforce Center",
+          "url": "https://www.youtube.com/watch?v=XOkPcLD5Soo",
+          "validated": "2026-08-16",
+          "score": 8
+        }
+      ]
+    },
+    {
+      "module": "weeks15-16",
+      "route": "weeks15-16/index.html",
+      "section": "sustainability",
+      "heading": "Sustainable practice and responsible waste handling",
+      "query": "Sustainable practice and responsible waste handling woodworking safety training",
+      "watchFor": "the decisions, checks and sequence connected to sustainable practice and responsible waste handling.",
+      "selected": {
+        "id": "_zd6U8dYuek",
+        "title": "Sustainable Safety Leadership - Safety Culture Improvement - Safety Training Video",
+        "author": "Safety Memos",
+        "url": "https://www.youtube.com/watch?v=_zd6U8dYuek",
+        "validated": "2026-08-16",
+        "score": 6
+      },
+      "alternatives": [
+        {
+          "id": "CfM0MxBfi2g",
+          "title": "8 Sustainable Practices In The Workplace",
+          "author": "SPECTRAFORCE",
+          "url": "https://www.youtube.com/watch?v=CfM0MxBfi2g",
+          "validated": "2026-08-16",
+          "score": 4
+        },
+        {
+          "id": "GQkUbdE3VS8",
+          "title": "Safety in Woodworking | Woodworking",
+          "author": "SIKANA English",
+          "url": "https://www.youtube.com/watch?v=GQkUbdE3VS8",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "nP5Ifp4QzBE",
+          "title": "Woodworking Safety Rules DIYers Always Forget",
+          "author": "Simply Compliance ",
+          "url": "https://www.youtube.com/watch?v=nP5Ifp4QzBE",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "HbpG9if8cj4",
+          "title": "Woodworking Safety: Common Sense Isn't Always Common",
+          "author": "Practical Arts with Jack Bryant",
+          "url": "https://www.youtube.com/watch?v=HbpG9if8cj4",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks17-18",
+      "route": "weeks17-18/index.html",
+      "section": "quality",
+      "heading": "Systematic final quality checks",
+      "query": "Systematic final quality checks design technology education",
+      "watchFor": "the decisions, checks and sequence connected to systematic final quality checks.",
+      "selected": {
+        "id": "eo43p-7vHmQ",
+        "title": "How I Inspect a Dresser Before Flipping | 11 Key Checkpoints (2-Minute Checklist)",
+        "author": "ThriftHacker",
+        "url": "https://www.youtube.com/watch?v=eo43p-7vHmQ",
+        "validated": "2026-08-16",
+        "score": 100,
+        "review": "targeted topic match"
+      },
+      "alternatives": [
+        {
+          "id": "mKOqN011SkY",
+          "title": "GCSE D&T exam walkthrough - Design question.",
+          "author": "MR Ridley Design & Technology",
+          "url": "https://www.youtube.com/watch?v=mKOqN011SkY",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "PxMCOl5zozA",
+          "title": "Becoming a Secondary Design Technology teacher - PGCEs at Birmingham City University",
+          "author": "Birmingham City University",
+          "url": "https://www.youtube.com/watch?v=PxMCOl5zozA",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "ilblnPCUtI4",
+          "title": "Exam walkthrough GCSE Design and Technology - Section A",
+          "author": "MR Ridley Design & Technology",
+          "url": "https://www.youtube.com/watch?v=ilblnPCUtI4",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "_vm8b0BhWOw",
+          "title": "What is Instructional Design and Educational Technology",
+          "author": "Elena Komarova",
+          "url": "https://www.youtube.com/watch?v=_vm8b0BhWOw",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks17-18",
+      "route": "weeks17-18/index.html",
+      "section": "problem-solving",
+      "heading": "From problem to cause, correction and result",
+      "query": "From problem to cause, correction and result woodworking education",
+      "watchFor": "the decisions, checks and sequence connected to from problem to cause, correction and result.",
+      "selected": {
+        "id": "8oWpM_GxIlc",
+        "title": "4 Tool Problems That Cause Inaccurate Cuts",
+        "author": "Sawinery Woodworking Highlights",
+        "url": "https://www.youtube.com/watch?v=8oWpM_GxIlc",
+        "validated": "2026-08-16",
+        "score": 10
+      },
+      "alternatives": [
+        {
+          "id": "o8RR5hOarWA",
+          "title": "15 Engineering Tricks Every Woodworker Should Know",
+          "author": "The Evening Woodworker",
+          "url": "https://www.youtube.com/watch?v=o8RR5hOarWA",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "9SAXVTnMEEM",
+          "title": "7 Ways to Fix Common Woodworking Mistakes",
+          "author": "Jonathan Katz-Moses",
+          "url": "https://www.youtube.com/watch?v=9SAXVTnMEEM",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "Kpc9JO__XQE",
+          "title": "Fixing Woodworking Mistakes - Episode 2",
+          "author": "WoodWorkWeb",
+          "url": "https://www.youtube.com/watch?v=Kpc9JO__XQE",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "N_1jfh9xD5c",
+          "title": "Trying Again After a Brutal Woodworking Fail",
+          "author": "Knocking on Wood",
+          "url": "https://www.youtube.com/watch?v=N_1jfh9xD5c",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks17-18",
+      "route": "weeks17-18/index.html",
+      "section": "evidence",
+      "heading": "Collecting purposeful evidence",
+      "query": "Collecting purposeful evidence design technology education",
+      "watchFor": "the decisions, checks and sequence connected to collecting purposeful evidence.",
+      "selected": {
+        "id": "0VGc7jrD9zo",
+        "title": "GOOD Vs BAD Design Portfolios (With Examples)",
+        "author": "Flux Academy",
+        "url": "https://www.youtube.com/watch?v=0VGc7jrD9zo",
+        "validated": "2026-08-16",
+        "score": 100,
+        "review": "targeted topic match"
+      },
+      "alternatives": [
+        {
+          "id": "Xw3XL8CrlqQ",
+          "title": "TEDxIslay- Mei Kennedy- Evolving Education Technology: Universal Design",
+          "author": "TEDx Talks",
+          "url": "https://www.youtube.com/watch?v=Xw3XL8CrlqQ",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "YjZrpv8rSUw",
+          "title": "Evidence-Based Principles for Designing Effective Multimedia Instruction",
+          "author": "JHU School of Education",
+          "url": "https://www.youtube.com/watch?v=YjZrpv8rSUw",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "AKzXXEcuXSQ",
+          "title": "Design and Technology Education at ECU",
+          "author": "Edith Cowan University",
+          "url": "https://www.youtube.com/watch?v=AKzXXEcuXSQ",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "STg8aTgCBD4",
+          "title": "Key pedagogies in design and technology",
+          "author": "Dr Matt McLain",
+          "url": "https://www.youtube.com/watch?v=STg8aTgCBD4",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks17-18",
+      "route": "weeks17-18/index.html",
+      "section": "captions",
+      "heading": "Writing captions that explain what the evidence proves",
+      "query": "Writing captions that explain what the evidence proves design technology education",
+      "watchFor": "the decisions, checks and sequence connected to writing captions that explain what the evidence proves.",
+      "selected": {
+        "id": "7ivuiZ-4tzs",
+        "title": "Non Fiction Text Features: Captions",
+        "author": "Mrs.C",
+        "url": "https://www.youtube.com/watch?v=7ivuiZ-4tzs",
+        "validated": "2026-08-16",
+        "score": 4
+      },
+      "alternatives": [
+        {
+          "id": "4cYPvMa28X0",
+          "title": "How To Write Engaging Instagram Captions (6 Copywriting Tips & Examples)",
+          "author": "Alex Cattoni",
+          "url": "https://www.youtube.com/watch?v=4cYPvMa28X0",
+          "validated": "2026-08-16",
+          "score": 4
+        },
+        {
+          "id": "qjNq-sr_aD8",
+          "title": "Using Text Features as Evidence",
+          "author": "Gay Miller",
+          "url": "https://www.youtube.com/watch?v=qjNq-sr_aD8",
+          "validated": "2026-08-16",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "module": "weeks17-18",
+      "route": "weeks17-18/index.html",
+      "section": "evaluation",
+      "heading": "Evaluation is a judgement supported by evidence",
+      "query": "Evaluation is a judgement supported by evidence design technology education",
+      "watchFor": "the decisions, checks and sequence connected to evaluation is a judgement supported by evidence.",
+      "selected": {
+        "id": "wxjEM5CfIsM",
+        "title": "Analysing and Evaluating NEA Design Ideas 2023 24",
+        "author": "Mr Rogers",
+        "url": "https://www.youtube.com/watch?v=wxjEM5CfIsM",
+        "validated": "2026-08-16",
+        "score": 100,
+        "review": "targeted topic match"
+      },
+      "alternatives": [
+        {
+          "id": "zMLapTCqR6g",
+          "title": "What are the Principles of Assessment and Rules of Evidence? (TAE40116 / TAE40122 )",
+          "author": "Fortress Learning ",
+          "url": "https://www.youtube.com/watch?v=zMLapTCqR6g",
+          "validated": "2026-08-16",
+          "score": 4
+        },
+        {
+          "id": "k8ZRth5ZU5I",
+          "title": "Evidence Crash Course for EdTech Decision Makers",
+          "author": "InnovateEDU Events",
+          "url": "https://www.youtube.com/watch?v=k8ZRth5ZU5I",
+          "validated": "2026-08-16",
+          "score": 4
+        },
+        {
+          "id": "XzVjkaJKDOc",
+          "title": "CPD Webinar: Assessment design to promote academic integrity using learning technology",
+          "author": "Association for Learning Technology",
+          "url": "https://www.youtube.com/watch?v=XzVjkaJKDOc",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "gzIU_3j33ZA",
+          "title": "[4] How LDS scaffolds teachers’ reflection through the designer dashboard",
+          "author": "Centre for Information Technology in Education University of Hong Kong",
+          "url": "https://www.youtube.com/watch?v=gzIU_3j33ZA",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks17-18",
+      "route": "weeks17-18/index.html",
+      "section": "folio",
+      "heading": "Selecting a concise portfolio evidence set",
+      "query": "Selecting a concise portfolio evidence set design technology education",
+      "watchFor": "the decisions, checks and sequence connected to selecting a concise portfolio evidence set.",
+      "selected": {
+        "id": "RUSyFV383to",
+        "title": "Digital Portfolios Adding Evidence and Reflections",
+        "author": "Seesaw",
+        "url": "https://www.youtube.com/watch?v=RUSyFV383to",
+        "validated": "2026-08-16",
+        "score": 10
+      },
+      "alternatives": [
+        {
+          "id": "tqW3NE3JQoc",
+          "title": "Design and Technology U6L4 Development of Select ideas",
+          "author": "Student Support Programme",
+          "url": "https://www.youtube.com/watch?v=tqW3NE3JQoc",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "uT9IMpa8mkI",
+          "title": "How to Choose the Right Project Topic for Instructional Design Portfolio (Free Case Study Template)",
+          "author": "The eLearning Designer's Academy by Tim Slade",
+          "url": "https://www.youtube.com/watch?v=uT9IMpa8mkI",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "VljhSKhDeBI",
+          "title": "Instructional Design Portfolios [Examples & Best Practices]",
+          "author": "University of San Diego Online",
+          "url": "https://www.youtube.com/watch?v=VljhSKhDeBI",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "OZ8QUFS6BmI",
+          "title": "Theatrical Design and Technical Theatre Portfolio: Basics",
+          "author": "See You Backstage",
+          "url": "https://www.youtube.com/watch?v=OZ8QUFS6BmI",
+          "validated": "2026-08-16",
+          "score": 6
+        }
+      ]
+    },
+    {
+      "module": "weeks19-20",
+      "route": "weeks19-20/index.html",
+      "section": "inspection",
+      "heading": "Final presentation and systematic inspection",
+      "query": "Final presentation and systematic inspection woodworking education",
+      "watchFor": "the decisions, checks and sequence connected to final presentation and systematic inspection.",
+      "selected": {
+        "id": "ZOmVqlcIeUM",
+        "title": "Common errors found during inspections | Woodwork Institute",
+        "author": "Woodwork Institute",
+        "url": "https://www.youtube.com/watch?v=ZOmVqlcIeUM",
+        "validated": "2026-08-16",
+        "score": 6
+      },
+      "alternatives": [
+        {
+          "id": "R7EkFR6H_y4",
+          "title": "How did this pass inspection?!?",
+          "author": "Finish Carpentry TV",
+          "url": "https://www.youtube.com/watch?v=R7EkFR6H_y4",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "giwcqbmmTa8",
+          "title": "Module 9   Inspection Readiness and Integrated Final Case Study",
+          "author": "WhitehallTraining",
+          "url": "https://www.youtube.com/watch?v=giwcqbmmTa8",
+          "validated": "2026-08-16",
+          "score": 4
+        },
+        {
+          "id": "6FSxWrF-nyU",
+          "title": "When should the Monitored Compliance Program be specified? | Woodwork Institute",
+          "author": "Woodwork Institute",
+          "url": "https://www.youtube.com/watch?v=6FSxWrF-nyU",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "edb6L2734jU",
+          "title": "What to Expect – CPC30220 Certificate III in Carpentry",
+          "author": "Trade Institute of Victoria ",
+          "url": "https://www.youtube.com/watch?v=edb6L2734jU",
+          "validated": "2026-08-16",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "module": "weeks19-20",
+      "route": "weeks19-20/index.html",
+      "section": "diagnosis",
+      "heading": "Correct the cause, not only the symptom",
+      "query": "Correct the cause, not only the symptom woodworking education",
+      "watchFor": "the decisions, checks and sequence connected to correct the cause, not only the symptom.",
+      "selected": {
+        "id": "9SAXVTnMEEM",
+        "title": "7 Ways to Fix Common Woodworking Mistakes",
+        "author": "Jonathan Katz-Moses",
+        "url": "https://www.youtube.com/watch?v=9SAXVTnMEEM",
+        "validated": "2026-08-16",
+        "score": 2
+      },
+      "alternatives": [
+        {
+          "id": "LWUDlzm0VxU",
+          "title": "Why Accuracy Matters in Woodworking - Common Mistakes to Avoid",
+          "author": "Jonathan Katz-Moses",
+          "url": "https://www.youtube.com/watch?v=LWUDlzm0VxU",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "tOHV6N3jaOs",
+          "title": "Avoid these 5 common woodworking mistakes! (From a teachers perspective)",
+          "author": "William Douglas Co.",
+          "url": "https://www.youtube.com/watch?v=tOHV6N3jaOs",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "JlJxS7GGZbI",
+          "title": "Every Woodworking Term Beginners Get Wrong (And What They Actually Mean)",
+          "author": "731 Woodworks",
+          "url": "https://www.youtube.com/watch?v=JlJxS7GGZbI",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "E1enR5rvFPw",
+          "title": "Epoxy and Wood Project Fails & How to Fix Them",
+          "author": "Jeff Mack Designs",
+          "url": "https://www.youtube.com/watch?v=E1enR5rvFPw",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks19-20",
+      "route": "weeks19-20/index.html",
+      "section": "care",
+      "heading": "Care, maintenance and safe handling",
+      "query": "Care, maintenance and safe handling woodworking safety training",
+      "watchFor": "the decisions, checks and sequence connected to care, maintenance and safe handling.",
+      "selected": {
+        "id": "kY7jfR7oYts",
+        "title": "Looking after your woodwork: A care and maintenance guide",
+        "author": "Australian Woodwork",
+        "url": "https://www.youtube.com/watch?v=kY7jfR7oYts",
+        "validated": "2026-08-16",
+        "score": 100,
+        "review": "targeted topic match"
+      },
+      "alternatives": [
+        {
+          "id": "GQkUbdE3VS8",
+          "title": "Safety in Woodworking | Woodworking",
+          "author": "SIKANA English",
+          "url": "https://www.youtube.com/watch?v=GQkUbdE3VS8",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "y7mz191MkT0",
+          "title": "Hand and Power Tool Safety Training from SafetyVideos.com",
+          "author": "SafetyVideos.com",
+          "url": "https://www.youtube.com/watch?v=y7mz191MkT0",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "aC9L5FfQZOw",
+          "title": "Plunge saw safety training",
+          "author": "Cahoots",
+          "url": "https://www.youtube.com/watch?v=aC9L5FfQZOw",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "H2pTvqS8ou0",
+          "title": "Carpentry Safety",
+          "author": "GotSafety",
+          "url": "https://www.youtube.com/watch?v=H2pTvqS8ou0",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks19-20",
+      "route": "weeks19-20/index.html",
+      "section": "submission",
+      "heading": "Final submission as quality assurance",
+      "query": "Final submission as quality assurance design technology education",
+      "watchFor": "the decisions, checks and sequence connected to final submission as quality assurance.",
+      "selected": {
+        "id": "-f3-zM1Y0jI",
+        "title": "QUALITY ASSURANCE IN EDUCATION: definition, methods, challenges",
+        "author": "Ilnur Miftakhov",
+        "url": "https://www.youtube.com/watch?v=-f3-zM1Y0jI",
+        "validated": "2026-08-16",
+        "score": 8
+      },
+      "alternatives": [
+        {
+          "id": "ol65HvA6VWc",
+          "title": "Quality assurance fit for the future: Needs and expectations of higher education institutions",
+          "author": "European University Association (EUA)",
+          "url": "https://www.youtube.com/watch?v=ol65HvA6VWc",
+          "validated": "2026-08-16",
+          "score": 8
+        },
+        {
+          "id": "i847B8NX3qI",
+          "title": "In Brief: Quality Assurance in Higher Education",
+          "author": "IEG WorldBankGroup",
+          "url": "https://www.youtube.com/watch?v=i847B8NX3qI",
+          "validated": "2026-08-16",
+          "score": 8
+        },
+        {
+          "id": "RGwNxOwOd_g",
+          "title": "The Newly Revised Quality Assurance Framework",
+          "author": "Community Languages Victoria",
+          "url": "https://www.youtube.com/watch?v=RGwNxOwOd_g",
+          "validated": "2026-08-16",
+          "score": 8
+        },
+        {
+          "id": "LDcAVjpIRu4",
+          "title": "Turn AI policy into assessment design  |  Studiosity",
+          "author": "Studiosity",
+          "url": "https://www.youtube.com/watch?v=LDcAVjpIRu4",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks19-20",
+      "route": "weeks19-20/index.html",
+      "section": "reflection",
+      "heading": "Reflection and transferable improvement",
+      "query": "Reflection and transferable improvement design technology education",
+      "watchFor": "the decisions, checks and sequence connected to reflection and transferable improvement.",
+      "selected": {
+        "id": "CkFWbC91PXQ",
+        "title": "Self-Assessment: Reflections from Students and Teachers",
+        "author": "Jobs for the Future",
+        "url": "https://www.youtube.com/watch?v=CkFWbC91PXQ",
+        "validated": "2026-08-16",
+        "score": 100,
+        "review": "targeted topic match"
+      },
+      "alternatives": [
+        {
+          "id": "TizhMKSmaZY",
+          "title": "Teaching and Learning Technologies- Lesson Reflection 11/13/2022",
+          "author": "Tim Tomas",
+          "url": "https://www.youtube.com/watch?v=TizhMKSmaZY",
+          "validated": "2026-08-16",
+          "score": 4
+        },
+        {
+          "id": "-xAUD3QtM8Y",
+          "title": "The Reflection: What is the impact of technology in education?",
+          "author": "Mr. Casey Jones",
+          "url": "https://www.youtube.com/watch?v=-xAUD3QtM8Y",
+          "validated": "2026-08-16",
+          "score": 4
+        },
+        {
+          "id": "zfx1h1dZatU",
+          "title": "Technology Reflection",
+          "author": "Kendyl Garza",
+          "url": "https://www.youtube.com/watch?v=zfx1h1dZatU",
+          "validated": "2026-08-16",
+          "score": 4
+        },
+        {
+          "id": "AKzXXEcuXSQ",
+          "title": "Design and Technology Education at ECU",
+          "author": "Edith Cowan University",
+          "url": "https://www.youtube.com/watch?v=AKzXXEcuXSQ",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "module": "weeks19-20",
+      "route": "weeks19-20/index.html",
+      "section": "reset",
+      "heading": "Workshop reset and responsible handover",
+      "query": "Workshop reset and responsible handover woodworking education",
+      "watchFor": "the decisions, checks and sequence connected to workshop reset and responsible handover.",
+      "selected": {
+        "id": "3lzPv_iHEyQ",
+        "title": "6 Simple Ways to Reset Your Workshop and Enjoy It Even More",
+        "author": "Steve Ramsey - Woodworking for Mere Mortals",
+        "url": "https://www.youtube.com/watch?v=3lzPv_iHEyQ",
+        "validated": "2026-08-16",
+        "score": 10
+      },
+      "alternatives": [
+        {
+          "id": "9Anypr6ImHE",
+          "title": "How I Mentally Reset After A Woodworking Mistake.",
+          "author": "Miles McGrew Woodworking",
+          "url": "https://www.youtube.com/watch?v=9Anypr6ImHE",
+          "validated": "2026-08-16",
+          "score": 6
+        },
+        {
+          "id": "EOr06I9JoAU",
+          "title": "Is Wood Movement a Myth? Analyzing 30 Years of Data",
+          "author": "Jonathan Katz-Moses",
+          "url": "https://www.youtube.com/watch?v=EOr06I9JoAU",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "Y9nX7Rvefns",
+          "title": "Woodworking was WORK. What happened?",
+          "author": "Rex Krueger",
+          "url": "https://www.youtube.com/watch?v=Y9nX7Rvefns",
+          "validated": "2026-08-16",
+          "score": 2
+        },
+        {
+          "id": "1C1kfdQiLfA",
+          "title": "Understanding Workbenches for Woodworking",
+          "author": "Wood and Shop",
+          "url": "https://www.youtube.com/watch?v=1C1kfdQiLfA",
+          "validated": "2026-08-16",
+          "score": 2
+        }
+      ]
+    }
+  ],
+  "review": {
+    "missing": [],
+    "duplicateIds": [],
+    "targetedOverrides": 18
+  }
+}
