@@ -28,8 +28,8 @@
   const items = [
     ["Course", "index.html", isHome],
     ["Modules", "index.html#course-path-title", /\/weeks\d+-\d+\//.test(path)],
-    ["Video learning", "youtube-library/", path.includes("/youtube-library/")],
-    ["Busy Work", "https://stevencowell.github.io/busy-worksheets/?library=timber", false, true],
+    ["Video learning", "youtube-library/video-library.html", path.includes("/youtube-library/")],
+    ["Puzzles", "https://stevencowell.github.io/busy-worksheets/?library=timber", false, true],
     ["My folio", "bedside-table-folio.html", path.endsWith("/bedside-table-folio.html")],
     ["Project plans", "Bedside-Table-Project-Plans.pdf", false],
     ["Teacher resources", "teacher-resources.html", path.endsWith("/teacher-resources.html")],
