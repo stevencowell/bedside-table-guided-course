@@ -316,9 +316,9 @@ window.WRITTEN_QUESTIONS = [
     "model": "I would first reproduce the bind gently and mark the exact point and position where contact occurs. I would not force the drawer or sand every surface. The opening would be checked for square and parallel references, then the drawer box would be checked using diagonals and direct measurements. I would inspect whether the front or one component has shifted, whether a fixing is proud and whether the approved hardware is seated, aligned and adjusted correctly. Testing the component in controlled stages may separate a hardware fault from a timber-clearance fault. The least invasive correction would address the confirmed cause: reposition or progressively adjust approved hardware, remove debris, correct one proud fixing, or refine only a verified local high spot with teacher approval. I would avoid changing the structural frame or creating a large loose gap. After each change, the component would be retested through its complete movement and the final clearance and visible alignment recorded."
   },
   {
-    "title": "3. Fit approved hardware safely and accurately",
-    "prompt": "Describe a controlled process for positioning and fitting the hardware specified on the approved plan. Include references, work holding, pilot holes, fixing selection, tool control and final inspection.",
-    "clarification": "How will you position, fit and check the approved hardware?",
+    "title": "3. Compare hardware functions, then fit the approved system",
+    "prompt": "Compare at least four teacher-approved hardware types from different functions, such as fastening, movement, closure, access or support. Explain what each does and one suitability or installation condition. Then describe how you would position, fit and check only the hardware specified on the approved Bedside Table plan.",
+    "clarification": "What does each hardware type do, when is it suitable, and how will you fit the specified system safely and accurately?",
     "minWords": 130,
     "concepts": [
       {
@@ -338,26 +338,30 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "Hardware",
+        "label": "Hardware range and function",
         "terms": [
+          "fasten",
+          "movement",
+          "support",
           "fixing",
-          "length",
-          "proud"
+          "hardware"
         ]
       }
     ],
     "scaffold": [
-      "Confirm the hardware and position.",
+      "Compare four hardware types and their functions.",
+      "Confirm the specified hardware and position.",
       "Support and mark the component.",
       "Drill controlled pilot holes.",
       "Fit progressively and inspect."
     ],
     "prompts": [
-      "Could the fixing emerge through a visible face?",
+      "Which function does each hardware type perform?",
+      "Could the specified fixing emerge through a visible face?",
       "How will the drill be kept square and depth controlled?",
       "What proves the hardware is safe?"
     ],
-    "model": "I would confirm that the hardware is the system specified on the approved plan and read any supplied instructions and workshop procedure. Its position would be referenced from the actual component opening and verified datums, not copied from an unverified project. The component would be supported and clamped so it cannot move while marking or drilling. Before drilling, I would check fixing diameter, length, head type and engagement so no point can emerge through a visible surface. A correctly sized pilot hole would be drilled square to the surface with controlled depth, using the approved tool and bit. Fixings would be started and tightened progressively so the hardware remains aligned rather than being pulled out of position by one fully tightened screw. Final checks would confirm secure engagement, smooth full movement, even alignment, no proud metal or sharp edge, and no splitting. Any adjustment that required changing the frame or approved system would stop for teacher review."
+    "model": "A useful comparison might separate screws or bolts used for fastening, runners or hinges used for movement, catches used for closure, handles used for access and brackets or feet used for support. Each choice needs a function, suitable material or load and installation condition. For the Bedside Table I would then use only the system specified on the approved plan, verify its position from reliable datums, clamp the work, select the correct pilot hole and fixing length, fit progressively and inspect secure engagement, movement, alignment and safe edges."
   },
   {
     "title": "4. Explain the evidence needed for storage-component quality",

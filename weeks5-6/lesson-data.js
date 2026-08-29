@@ -27,21 +27,21 @@ window.MC_QUESTIONS = [
     ]
   },
   {
-    "question": "What is the main reason timber must be clamped securely when using a hollow-chisel mortiser?",
+    "question": "Which plan gives the fairest evidence about both material suitability and the effectiveness of a mortising tool, equipment and process?",
     "options": [
-      "To make the timber look darker",
-      "To prevent the work lifting or rotating and to maintain accuracy and operator safety",
-      "To remove the need for safety glasses",
-      "To allow the machine to be forced through faster"
+      "Use matching offcuts of the same prepared timber and the same target mortise, follow teacher-approved options or criteria, and record each result",
+      "Use different timbers and mortise sizes, then choose whichever trial finishes first",
+      "Change unapproved machine settings directly on a project component until the cut looks acceptable",
+      "Judge only the appearance of the final hole and ignore control, accuracy and waste"
     ],
-    "correct": 1,
-    "hint": "The chisel can grip the work during a plunge and withdrawal.",
-    "strongHint": "Secure support controls both movement of the workpiece and the location of the mortise.",
+    "correct": 0,
+    "hint": "A fair comparison keeps the material, preparation, target and success criteria constant.",
+    "strongHint": "Use matching same-material samples, approved methods and recorded criteria so you can judge both the timber and the process.",
     "feedback": [
-      "Clamping does not change the timber colour.",
-      "Secure clamping prevents the work from lifting or rotating and supports accurate, controlled machining.",
-      "PPE remains necessary; clamping does not replace it.",
-      "Forcing the machine increases load and risk."
+      "Keeping the material and target constant makes the comparison fair; the recorded result can show whether the timber is suitable and whether the selected process is effective.",
+      "Changing the material and target at the same time makes it impossible to identify what caused the different result.",
+      "An unapproved trial risks the project component and bypasses the teacher check and school SOP.",
+      "Appearance alone cannot show dimensional accuracy, material damage, control or waste."
     ]
   },
   {
@@ -227,67 +227,76 @@ window.MC_QUESTIONS = [
 ];
 window.WRITTEN_QUESTIONS = [
   {
-    "title": "1. Safe and accurate use of a hollow-chisel mortiser",
-    "prompt": "Explain a safe setup and operating routine for cutting a practice mortise. Include work holding, machine checks, plunging technique and what to do if the chisel binds.",
-    "clarification": "How will you set up and work safely? When would you stop and ask for help?",
-    "minWords": 95,
+    "title": "1. Evaluate a same-material mortising test",
+    "prompt": "Plan a teacher-approved same-material test using matching offcuts. Compare the selected tool, equipment and process with a teacher-nominated approved option, or against agreed criteria if only one process is authorised. Explain how the evidence evaluates both the timber’s suitability and the process’s effectiveness, then justify the project method.",
+    "clarification": "What will stay the same, what will you record, and how will the evidence support your material and process decision?",
+    "minWords": 110,
     "concepts": [
       {
-        "label": "machine and PPE checks",
+        "label": "same-material fair test",
         "terms": [
-          "guard",
-          "chisel",
-          "auger",
-          "alignment",
-          "glasses",
-          "ppe",
-          "sop"
+          "same material",
+          "matching offcut",
+          "same preparation",
+          "same target"
         ]
       },
       {
-        "label": "work holding",
+        "label": "material suitability",
         "terms": [
-          "clamp",
-          "secure",
-          "table",
-          "fence",
-          "support"
+          "material suitability",
+          "splitting",
+          "crushing",
+          "tear-out",
+          "holds the shape"
         ]
       },
       {
-        "label": "controlled plunges",
+        "label": "process effectiveness",
         "terms": [
-          "plunge",
-          "overlap",
-          "steady",
-          "chips",
-          "clearance"
+          "process effectiveness",
+          "accuracy",
+          "surface quality",
+          "control",
+          "waste"
         ]
       },
       {
-        "label": "response to binding",
+        "label": "approved safe method",
         "terms": [
-          "stop",
-          "switch off",
+          "approved",
           "teacher",
-          "bind",
-          "force"
+          "sop",
+          "clamp",
+          "ppe"
+        ]
+      },
+      {
+        "label": "evidence-based decision",
+        "terms": [
+          "record",
+          "compare",
+          "criteria",
+          "justify",
+          "decision"
         ]
       }
     ],
     "scaffold": [
-      "Before starting, I would check…",
-      "The timber must be held…",
-      "The mortise would be cut using…",
-      "If the chisel binds, I would…"
+      "To keep the test fair, I would keep…",
+      "The approved tool, equipment and process options are…",
+      "The material is suitable if the evidence shows…",
+      "The process is effective if the evidence shows…",
+      "My recorded results justify…"
     ],
     "prompts": [
-      "Include the chisel/auger setup, guard, SOP and eye protection.",
-      "Explain why the work must be flat, supported and clamped.",
-      "Describe steady, overlapping plunges and chip clearance.",
-      "State that the machine is stopped and assistance is sought rather than forcing the tool."
+      "Use matching offcuts with the same material, preparation, target mortise and success criteria.",
+      "Keep every trial teacher-approved and follow the machine SOP, PPE, work-holding and stop controls.",
+      "Record dimensions, shape, splitting or tear-out, surface quality, control and waste.",
+      "Separate what the evidence says about the material from what it says about the tool, equipment and process.",
+      "Justify the project method from the recorded evidence rather than speed or appearance alone."
     ],
-    "model": "Before starting, I would follow the machine SOP, wear safety glasses and check that the hollow chisel and auger are correctly aligned, sharp and able to clear chips. The timber would be supported flat against the table and fence and clamped so it cannot lift, rotate or shift. The mortise would be produced with steady, controlled, overlapping plunges rather than forcing the handle. Chips would be allowed to clear and hands would remain away from the cutting area. If the chisel began to bind, I would stop the machine, switch it off as directed and seek the teacher’s assistance instead of twisting the work or applying more force."
+    "model": "With teacher approval, I would prepare matching offcuts from the same timber, section and surface preparation as the project components, then mark the same target mortise from the same datums. I would use the selected mortising tool, equipment and process on one sample and a teacher-nominated approved option on the other. If only one process were authorised, I would compare its result directly with the agreed criteria. Every trial would follow the SOP, PPE, clamping and teacher-check requirements. I would record location, width, depth, square-sided shape, splitting, crushing or tear-out, surface quality, control and waste. The material is suitable if it holds the required detail without unacceptable damage. The process is effective if it produces the required result accurately and controllably. I would justify the project method from that recorded evidence, not speed or appearance alone."
   },
   {
     "title": "2. Plan a safe curved bandsaw cut",
